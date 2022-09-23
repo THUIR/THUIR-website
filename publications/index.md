@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: 论文发表
 ---
 
 # <i class="fas fa-microscope"></i>Publications
