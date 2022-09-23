@@ -1,11 +1,11 @@
 ---
-title: Tools
+title: Projects & Funding
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: 项目与资助
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i>Projects & Funding
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
