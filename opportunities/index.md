@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: Opportunities
 nav:
-  order: 5
-  tooltip: Email, address, and location
+  order: 7
+  tooltip: 招生招聘
 ---
 
 # <i class="fas fa-envelope"></i>Contact

@@ -1,8 +1,8 @@
 ---
 title: People
 nav:
-  order: 3
-  tooltip: 实验室成员
+  order: 1
+  tooltip: 团队成员
 ---
 
 # <i class="fas fa-users"></i>Team

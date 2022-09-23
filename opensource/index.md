@@ -1,8 +1,8 @@
 ---
-title: News
+title: Opensource
 nav:
-  order: 6
-  tooltip: 新闻
+  order: 5
+  tooltip: 开源项目
 ---
 
 # <i class="fas fa-feather-alt"></i>News

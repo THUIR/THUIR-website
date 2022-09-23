@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Patents
 nav:
-  order: 2
-  tooltip: 论文发表
+  order: 4
+  tooltip: 专利申报
 ---
 
 # <i class="fas fa-microscope"></i>Publications
