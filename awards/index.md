@@ -1,7 +1,7 @@
 ---
 title: Awards
 nav:
-  order: 2
+  order: 4
   tooltip: 荣誉获奖
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Projects & Funding
+title: Projects&Funding
 nav:
   order: 3
   tooltip: 项目与资助
