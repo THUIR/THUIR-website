@@ -20,7 +20,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: pi"
 %}
+
 {% include section.html %}
+
 {%
   include list.html
   data="members"
