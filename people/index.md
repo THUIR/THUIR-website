@@ -33,13 +33,13 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: Postdoctoral Researcher"
+  filters="role: postdoc"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: Undergraduate Student"
+  filters="role: undergrad"
 %}
 {%
   include list.html
