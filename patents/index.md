@@ -5,7 +5,7 @@ nav:
   tooltip: 专利申报
 ---
 
-# <i class="fas fa-microscope"></i>Publications
+# <i class="fas fa-microscope"></i>Patents
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -18,4 +18,4 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="patents" component="citation" style="rich" %}
