@@ -20,11 +20,24 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: pi"
 %}
+{% include section.html %}
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: Postdoctoral Researcher"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: Undergraduate Student"
 %}
 {%
   include list.html
