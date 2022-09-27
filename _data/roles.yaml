@@ -10,13 +10,17 @@ phd:
   icon: fas fa-graduation-cap
   text: PhD Student
 
-undergrad:
+master:
   icon: fas fa-user-graduate
-  text: Undergraduate Student
+  text: Master Student
 
 programmer:
   icon: fas fa-code
   text: Programmer
+
+staff:
+  icon: fa-pencil-ruler
+  text: Staff
 
 mascot:
   icon: fas fa-dog

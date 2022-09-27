@@ -2,7 +2,7 @@
 name: Anne Chovie
 image: images/member.jpg
 description: Bark Ops Engineer
-role: master
+role: postdoc
 aliases:
   - A. Chovie
   - A Chovie
