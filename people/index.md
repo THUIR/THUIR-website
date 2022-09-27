@@ -9,6 +9,8 @@ nav:
 
 {% include section.html %}
 
+## Professors
+
 {%
   include list.html
   data="members"
@@ -30,12 +32,18 @@ nav:
   component="portrait"
   filters="role: master"
 %}
+
+{% include section.html %}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: postdoc"
 %}
+
+{% include section.html %}
+
 {%
   include list.html
   data="members"
