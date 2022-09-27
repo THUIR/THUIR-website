@@ -44,9 +44,9 @@ nav:
 %}
 {:.center}
 
-# <i class="fas fa-users"></i>Alumni
-
 {% include section.html %}
+
+# <i class="fas fa-users"></i>Alumni
 
 {%
   include list.html
