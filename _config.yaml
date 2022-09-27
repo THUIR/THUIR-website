@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: THUIR
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /lab-website-template
