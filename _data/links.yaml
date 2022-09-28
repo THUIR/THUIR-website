@@ -120,6 +120,12 @@ docs:
   tooltip: Documentation
   link: $LINK
 
+code:
+  icon: fas fa-code
+  text: Code
+  tooltip: Source code
+  link: $LINK
+
 source:
   icon: fas fa-code
   text: Source
