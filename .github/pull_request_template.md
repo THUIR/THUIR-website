@@ -5,7 +5,6 @@
 - [ ] Indicate your name and the content of the pull request in the title, e.g., "NAME: update personal profile".
 - [ ] After submitted, remember to check about the preview in the pull request
 - [ ] Make sure the update follows the instructions provided by the lab and the template (see below).
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
 
 
 <!-- 
