@@ -10,12 +10,9 @@ baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  github: THUIR
+  twitter: thuir_lab
+  wechat: thuir-wechat.bmp
 
 ### advanced settings
 
