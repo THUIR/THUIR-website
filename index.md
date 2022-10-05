@@ -34,6 +34,8 @@ Information Retrieval Lab at [Tsinghua University](https://www.tsinghua.edu.cn/e
 # Highlights
 
 {% capture text %}
+Led by Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), THUIR was founded in 1990s with a focus on the research of Information Retrieval. It is one of the earliest and most influential IR research labs in China. THUIR has published hundreds of papers in top-tier IR conferences/journals, and is ranked first in the area of *The Web & Information Retrieval* in the global academic ranking of computer science research institutes, i.e., [CSRanking](https://csrankings.org). 
+
 THUIR实验室于20世纪90年代创建，在马少平教授的带领下从事信息检索相关研究工作，是国内开展相关研究最早、最具影响力的科研单位之一。自创立至今，实验室取得了一系列有世界影响力的原创成果，累计发表论文数百篇，全球计算机学术排行榜[CSRanking](https://csrankings.org)网络与信息检索方向第一名，已成为世界领先的信息检索研究机构。
 {%
   include link.html
@@ -54,6 +56,9 @@ THUIR实验室于20世纪90年代创建，在马少平教授的带领下从事�
 %}
 
 {% capture text %}
+
+Currently, THUIR has four PIs and more than thirty graduate students in the lab. In the past 30 years, more than 30 Ph.D. and 50 M.S. have graduated from THUIR, many of which have already served as leaders or faculty in industry and acdemia.
+
 THUIR实验室现有教师4人，在读博士及硕士30余人。在过去30年中，实验室培养了大批人工智能方向的优秀人才，其中包括博士30余名，硕士50余名，以及众多在组内实习和进行毕业设计的本科生、研究生。实验室校友在工业界和学术界取得突出成绩，其中包括多名著名互联网公司领导人、创始人，以及多所国内外知名高校教师教授。
 
 {%
@@ -76,6 +81,8 @@ THUIR实验室现有教师4人，在读博士及硕士30余人。在过去30年�
 %}
 
 {% capture text %}
+THUIR has opensourced a couple of tools and large-scale datasets, including but not limited to XXX
+
 THUIR实验室现公开多个大规模信息检索数据及信息检索算法工具框架，其中包括XXX
 
 
@@ -98,6 +105,8 @@ THUIR实验室现公开多个大规模信息检索数据及信息检索算法工
 %}
 
 {% capture text %}
+THUIR is actively recruiting new Ph.D. and M.S. candidates every year. The opening is about 3-5 for Ph.D. candidates and 1 for M.S. candidates. We are also actively recruiting PostDoc every year, about 1 per year. Please find more information in the link below. 
+
 THUIR实验室长期招收博士生硕士生，每年面向本校、外校招收博士生3-4名，硕士生1名左右，欢迎感兴趣的同学点击下方链接查看申请、联系方式。此外，实验室每年招收博士后1名左右，意向者请通过下方链接进行岗位查看和咨询。
 
 
