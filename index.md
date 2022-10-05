@@ -28,9 +28,9 @@ Information Retrieval Lab at [Tsinghua University](https://www.tsinghua.edu.cn/e
 %}
 {:.center}
 
-<!--{% include section.html full=true %}
+<!--{% include section.html full=true %}-->
 
-{% include banner.html image="images/banner.jpg" %}-->
+<!--{% include banner.html image="images/banner.jpg" %}-->
 
 {% include section.html %}
 
@@ -94,7 +94,7 @@ THUIR实验室现公开多个大规模信息检索数据及信息检索算法工
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/opensource.jpg"
   link="opensource"
   title="Our Resources 开源数据与工具"
   text=text
