@@ -28,9 +28,6 @@ Information Retrieval Lab at [Tsinghua University](https://www.tsinghua.edu.cn/e
 %}
 {:.center}
 
-<!--{% include section.html full=true %}-->
-
-<!--{% include banner.html image="images/banner.jpg" %}-->
 
 {% include section.html %}
 
