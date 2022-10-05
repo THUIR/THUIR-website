@@ -37,13 +37,11 @@ Information Retrieval Lab at [Tsinghua University](https://www.tsinghua.edu.cn/e
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+THUIR实验室于20世纪90年代创建，在马少平教授的带领下从事信息检索相关研究工作，是国内开展相关研究最早、最具影响力的科研单位之一。自创立至今，实验室取得了一系列有世界影响力的原创成果，累计发表论文数百篇，全球计算机学术排行榜[CSRanking](https://csrankings.org)网络与信息检索方向第一名，已成为世界领先的信息检索研究机构。
 {%
   include link.html
-  link="research"
-  text="See what we've published"
+  link="publications"
+  text="See what we've published 论文发表"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -52,20 +50,41 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/research.jpg"
+  link="publications"
+  title="Our Research 研究成果"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+THUIR实验室现有教师4人，在读博士及硕士30余人。在过去30年中，实验室培养了大批人工智能方向的优秀人才，其中包括博士30余名，硕士50余名，以及众多在组内实习和进行毕业设计的本科生、研究生。实验室校友在工业界和学术界取得突出成绩，其中包括多名著名互联网公司领导人、创始人，以及多所国内外知名高校教师教授。
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="people"
+  text="Meet our team 人员组成"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/team.jpg"
+  link="people"
+  title="Our Team 研究团队"
+  text=text
+%}
+
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do THUIR实验室现公开多个大规模信息检索数据及信息检索算法工具框架，其中包括XXX
+
+
+{%
+  include link.html
+  link="opensource"
+  text="Browse opensource data and tools 公开数据集与工具包"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -75,19 +94,20 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  link="opensource"
+  title="Our Resources 开源数据与工具"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do THUIR实验室长期招收博士生硕士生，每年面向本校、外校招收博士生3-4名，硕士生1名左右，欢迎感兴趣的同学点击下方链接查看申请、联系方式。此外，实验室每年招收博士后1名左右，意向者请通过下方链接进行岗位查看和咨询。
+
 
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link="opportunities"
+  text="Join Us 招生招聘"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -96,11 +116,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/opportunities.jpg"
+  link="opportunities"
+  title="Opportunities 广招英才"
+  flip=true
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
