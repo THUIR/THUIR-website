@@ -28,9 +28,9 @@ Information Retrieval Lab at [Tsinghua University](https://www.tsinghua.edu.cn/e
 %}
 {:.center}
 
-{% include section.html full=true %}
+<!--{% include section.html full=true %}
 
-<!--{% include banner.html image="images/banner.jpg" %}-->
+{% include banner.html image="images/banner.jpg" %}-->
 
 {% include section.html %}
 
@@ -71,14 +71,15 @@ THUIR实验室现有教师4人，在读博士及硕士30余人。在过去30年�
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/team.jpeg"
   link="people"
   title="Our Team 研究团队"
+  flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do THUIR实验室现公开多个大规模信息检索数据及信息检索算法工具框架，其中包括XXX
+THUIR实验室现公开多个大规模信息检索数据及信息检索算法工具框架，其中包括XXX
 
 
 {%
@@ -96,12 +97,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do THUIR实验室�
   image="images/photo.jpg"
   link="opensource"
   title="Our Resources 开源数据与工具"
-  flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do THUIR实验室长期招收博士生硕士生，每年面向本校、外校招收博士生3-4名，硕士生1名左右，欢迎感兴趣的同学点击下方链接查看申请、联系方式。此外，实验室每年招收博士后1名左右，意向者请通过下方链接进行岗位查看和咨询。
+THUIR实验室长期招收博士生硕士生，每年面向本校、外校招收博士生3-4名，硕士生1名左右，欢迎感兴趣的同学点击下方链接查看申请、联系方式。此外，实验室每年招收博士后1名左右，意向者请通过下方链接进行岗位查看和咨询。
 
 
 {%
