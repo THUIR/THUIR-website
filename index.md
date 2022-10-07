@@ -14,7 +14,7 @@ Information Retrieval Lab at [Tsinghua University](https://www.tsinghua.edu.cn/e
   type="github"
   icon=""
   text="Follow us on GitHub"
-  link="https://github.com/THUIR"
+  link="THUIR"
   style="button"
 %}
 {%
