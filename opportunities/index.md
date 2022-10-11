@@ -7,59 +7,63 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+THUIR is part of the [Department of Computer Science & Technology](https://www.cs.tsinghua.edu.cn/csen/), at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+We are located on the FIT building 1-506, Tsinghua University.
 
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="scrooge@mcduck.com"
-  tooltip=""
-  link="scrooge@mcduck.com"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
-  style="button"
-%}
+清华大学智能技术与系统国家重点实验室信息检索课题组隶属于清华大学计算机系，地址：中国北京清华大学FIT楼1-506.
 {%
   include link.html
   type="address"
   icon=""
-  text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  text="Maps"
+  tooltip="Our location on map for easy navigation"
+  link="https://surl.amap.com/cx4NrTI4g1c"
   style="button"
 %}
 {:.center}
 
 {% include section.html %}
 
+{% capture text %}
+Led by Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), THUIR was founded in 1990s with a focus on the research of Information Retrieval. It is one of the earliest and most influential IR research labs in China. THUIR has published hundreds of papers in top-tier IR conferences/journals, and is ranked first in *The Web & Information Retrieval* in the global academic ranking of computer science research institutes, i.e., [CSRanking](https://csrankings.org). 
+
+THUIR实验室于20世纪90年代创建，在[马少平](http://www.thuir.cn/group/~msp/)教授的带领下从事信息检索相关研究工作，是国内开展相关研究最早、最具影响力的科研单位之一。自创立至今，实验室取得了一系列有世界影响力的原创成果，累计发表论文数百篇，全球计算机学术排行榜[CSRanking](https://csrankings.org) *网络与信息检索方向*第一名，已成为世界领先的信息检索研究机构。
+{%
+  include link.html
+  link="publications"
+  text="See what we've published 论文发表"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research.jpg"
+  link="publications"
+  title="Our Research 研究成果"
+  text=text
+%}
+
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Tsinghua University FIT-1-506
+Beijing, China
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/THU-CS.jpg"
+  caption="Department of CS&T"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/THU.jpg"
+  caption="Tsinghua University"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
