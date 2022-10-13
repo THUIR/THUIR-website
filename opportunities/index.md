@@ -39,7 +39,7 @@ THUIR课题组每年面向本校、外校招收博士生3-4名左右，硕士生
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/grad_admin.jpg"
   title="Grad Student Admission 研究生招生"
   text=text
 %}
