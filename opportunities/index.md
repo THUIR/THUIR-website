@@ -29,8 +29,29 @@ THUIR课题组每年面向本校、外校招收博士生3-4名左右，硕士生
 
 {%
   include link.html
+  link="mailto:msp@tsinghua.edu.cn"
+  text="马少平教授"
+  icon="fas fa-envelope"
+  style="button"
+%}
+{%
+  include link.html
+  link="mailto:z-m@mail.tsinghua.edu.cn"
+  text="张敏教授"
+  icon="fas fa-envelope"
+  style="button"
+%}
+{%
+  include link.html
+  link="mailto:yiqunliu@tsinghua.edu.cn"
+  text="刘奕群教授"
+  icon="fas fa-envelope"
+  style="button"
+%}
+{%
+  include link.html
   link="mailto:aiqy@tsinghua.edu.cn"
-  text="艾清遥"
+  text="艾清遥助理教授"
   icon="fas fa-envelope"
   style="button"
 %}
