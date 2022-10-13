@@ -25,7 +25,7 @@ We are located on the FIT building 1-506, Tsinghua University.
 {% include section.html %}
 
 {% capture text %}
-THUIR课题组每年面向本校、外校招收博士生3-4名左右，硕士生1名左右，具体依当年情况确定。目前组内招收博士研究方向包括搜索、推荐、排序等大方向，具体包括网页检索、用户行为分析、数据挖掘、脑机接口、法律检索、排序模型、新模态推荐、信息表示学习、信息可靠性与公平性等细分领域。具体参看课题组老师[介绍](../people/).欢迎感兴趣的同学直接通过以下链接邮件联系课题组内教师。
+THUIR课题组每年面向本校、外校招收博士生3-4名左右，硕士生1名左右，具体依当年情况确定。目前组内招收博士研究方向包括搜索、推荐、排序等大方向，具体包括网页检索、用户行为分析、数据挖掘、脑机接口、法律检索、排序模型、新模态推荐、信息表示学习、信息可靠性与公平性等细分领域。具体参看[课题组教师介绍](../people/).欢迎感兴趣的同学直接通过以下链接邮件联系课题组内研究生导师。
 
 {%
   include link.html
@@ -62,6 +62,17 @@ THUIR课题组每年面向本校、外校招收博士生3-4名左右，硕士生
   include feature.html
   image="images/grad_admin.jpg"
   title="Grad Student Admission 研究生招生"
+  text=text
+%}
+
+{% capture text %}
+THUIR课题组根据项目需求定期招聘指定岗位博士后，具体招聘信息将在此公布，请持续关注。
+
+
+{%
+  include feature.html
+  image="images/postdoc_hire.jpg"
+  title="PostDoc Position 博士后招聘"
   text=text
 %}
 
