@@ -25,9 +25,7 @@ We are located on the FIT building 1-506, Tsinghua University.
 {% include section.html %}
 
 {% capture text %}
-Led by Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), THUIR was founded in 1990s with a focus on the research of Information Retrieval. It is one of the earliest and most influential IR research labs in China. THUIR has published hundreds of papers in top-tier IR conferences/journals, and is ranked first in *The Web & Information Retrieval* in the global academic ranking of computer science research institutes, i.e., [CSRanking](https://csrankings.org). 
-
-THUIR实验室于20世纪90年代创建，在[马少平](http://www.thuir.cn/group/~msp/)教授的带领下从事信息检索相关研究工作，是国内开展相关研究最早、最具影响力的科研单位之一。自创立至今，实验室取得了一系列有世界影响力的原创成果，累计发表论文数百篇，全球计算机学术排行榜[CSRanking](https://csrankings.org) *网络与信息检索方向*第一名，已成为世界领先的信息检索研究机构。
+THUIR课题组每年面向本校、外校招收博士生3-4名左右，硕士生1名左右，具体依当年情况确定。目前组内招收博士研究方向包括搜索、推荐、排序等大方向，具体包括网页检索、用户行为分析、数据挖掘、脑机接口、法律检索、排序模型、新模态推荐、信息表示学习、信息可靠性与公平性等细分领域。具体参看课题组老师[介绍]("/lab-website-template/people/").欢迎感兴趣的同学直接邮件联系课题组内教师。
 {%
   include link.html
   link="publications"
