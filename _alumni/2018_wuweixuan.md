@@ -1,6 +1,6 @@
 ---
 name: Weixuan Wu
-# image: images/member.jpg
+image: images/logo.jpg
 description: Master 2018-2021
 role: master
 ---

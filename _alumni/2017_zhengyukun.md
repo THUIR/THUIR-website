@@ -1,6 +1,6 @@
 ---
 name: Yukun Zheng
-# image: images/member.jpg
+image: images/logo.jpg
 description: Master 2017-2020
 role: master
 ---

@@ -1,6 +1,6 @@
 ---
 name: Jiaxin Mao
-# image: images/people/wyf.jpeg
+image: images/logo.jpg
 description: Ph.D. 2013-2018 
 role: phd 
 group: alum

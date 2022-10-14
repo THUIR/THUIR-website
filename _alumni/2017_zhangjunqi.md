@@ -1,6 +1,6 @@
 ---
 name: Junqi Zhang
-# image: images/people/wyf.jpeg
+image: images/logo.jpg
 description: Ph.D. 2017-2022
 role: phd 
 group: alum

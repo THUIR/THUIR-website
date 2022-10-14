@@ -1,6 +1,6 @@
 ---
 name: Weizhi Ma
-# image: images/people/wyf.jpeg
+image: images/logo.jpg
 description: Ph.D. 2014-2019
 role: phd 
 group: alum
