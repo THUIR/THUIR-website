@@ -63,12 +63,12 @@ nav:
 
 # <i class="fas fa-users"></i>Alumni
 
-{%
+<!-- {%
   include list.html
   data="alumni"
   component="portrait"
   filters="role: pi"
-%}
+%} -->
 
 {% include section.html %}
 
@@ -84,7 +84,7 @@ nav:
   component="portrait"
   filters="role: master"
 %}
-{%
+<!-- {%
   include list.html
   data="alumni"
   component="portrait"
@@ -95,7 +95,7 @@ nav:
   data="alumni"
   component="portrait"
   filters="role: programmer"
-%}
+%} -->
 {:.center}
 
 

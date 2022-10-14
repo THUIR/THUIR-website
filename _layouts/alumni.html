@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<h1>{{ page.name | default: page.title }}</h1>
+
+{%- include figure.html image=page.image -%}
+
+<p class="center">
+  {%- include role.html type=page.role text=true description=page.description -%}
+</p>
+
+<p class="center">
+  {%- for entry in page.links -%}
+    {%- assign key = entry[0] -%}
+    {%- assign value = entry[1] -%}
+    {%- include link.html type=key icon="" text="" tooltip="" link=value -%}
+  {%- endfor -%}
+</p>
+
+{{ content }}
+
+{%- assign aliases = "" | split: ',' -%}
+
+{%- if page.aliases.first -%}
+  {%- assign aliases = aliases | concat: page.aliases -%}
+{%- elsif page.aliases -%}
+  {%- assign aliases = aliases | push: page.aliases -%}
+{%- elsif page.name -%}
+  {%- assign aliases = aliases | push: page.name -%}
+{%- elsif page.title -%}
+  {%- assign aliases = aliases | push: page.title -%}
+{%- endif -%}
+
+{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/research/?search=" -%}
+
+{%- capture text -%}
+  {{ page.name | default: page.title }}'s papers
+{%- endcapture -%}
+
+<p class="center">
+  {%- include link.html icon="fas fa-book-open" text=text link=search style="button" -%}
+</p>
