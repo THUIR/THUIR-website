@@ -1,7 +1,7 @@
 ---
 name: Qian Dong  
 image: images/people/dq.jpg 
-description：Ph.D. 2022-   
+description: Ph.D. 2022-   
 role: phd   
 links:  
     home-page: https://dq0408.github.io/   

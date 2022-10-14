@@ -1,7 +1,7 @@
 ---
 name: Yi Ren 
 image: images/people/renyi.jpg 
-description: PhD 2022- 
+description: Ph.D. 2022- 
 role: phd 
 links: 
     email: renyi1006@gmail.com 

@@ -1,6 +1,6 @@
 --- 
 name: Peijie Sun   
-image: images/poeple/spj.jpg   
+image: images/people/spj.jpg   
 description: PostDoc. 2022.7-   
 role: postdoc  
 links:  
