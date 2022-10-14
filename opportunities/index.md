@@ -65,6 +65,8 @@ THUIR课题组每年面向本校、外校招收博士生3-4名左右，硕士生
   text=text
 %}
 
+{% include section.html %}
+
 {% capture text %}
 THUIR课题组根据项目需求定期招聘指定岗位博士后，具体招聘信息将在此公布，请持续关注。
 
