@@ -1,0 +1,12 @@
+---
+name: Yunqiu Shao 
+image: images/people/syq.jpg
+description: Ph.D. 2018- 
+role: phd 
+links: 
+    home-page: https://thuyshao.github.io/ 
+    email: shaoyunqiu14@gmail.com 
+    github: https://github.com/ThuYShao
+---
+
+Yunqiu's research interests are mainly about legal search, user behavior analysis and search evaluation.
