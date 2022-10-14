@@ -20,12 +20,17 @@ nav:
 
 {% include section.html %}
 
+## Ph.D. Students
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
 %}
+
+## Master Students
+
 {%
   include list.html
   data="members"
@@ -34,6 +39,8 @@ nav:
 %}
 
 {% include section.html %}
+
+## PostDocs
 
 {%
   include list.html
