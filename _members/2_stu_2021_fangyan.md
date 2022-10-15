@@ -6,7 +6,7 @@ role: master
 links: 
     home-page: https://suffoquer-fang.github.io 
     email: 1161290791@qq.com 
-    github: https://github.com/suffoquer-fang 
+    github: suffoquer-fang 
 --- 
 
 Yan's major research interests are about dense retrieval and domain transfer.

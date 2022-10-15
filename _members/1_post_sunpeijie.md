@@ -6,7 +6,7 @@ role: postdoc
 links:  
     home-page: https://site.peijiesun.com/  
     email: sun.hfut@gmail.com  
-    github: https://github.com/PeiJieSun  
+    github: PeiJieSun  
 --- 
 
 Peijie's research interests are mainly about personalized recommendation, explainable recommendation, social network, and data mining.

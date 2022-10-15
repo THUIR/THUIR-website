@@ -6,7 +6,7 @@ role: master
 links:  
     home-page: https://myx666.github.io/  
     email: mayx20@mails.tsingua.edu.cn  
-    github: https://github.com/myx666/  
+    github: myx666  
 ---
 
 Yixiao’s search interests include legal search, pre-trained language models, and etc.

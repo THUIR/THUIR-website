@@ -5,7 +5,7 @@ description: Ph.D. 2019-
 role: phd  
 links:  
     email: u@thusaac.com  
-    github: https://github.com/ufozgg  
+    github: ufozgg  
 ---
 
 

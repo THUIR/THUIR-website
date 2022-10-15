@@ -9,10 +9,10 @@ role: pi
 #   - U Goode
 links:
     email: aiqy@tsinghua.edu.cn
-    github: https://github.com/QingyaoAi
-    google-scholar: https://scholar.google.com/citations?user=UKqaI5IAAAAJ&hl=en
-    twitter: https://twitter.com/QingyaoAi
-    linkedin: https://www.linkedin.cn/incareer/in/qingyao-ai-4ab8306a/
+    github: QingyaoAi
+    google-scholar: UKqaI5IAAAAJ
+    twitter: QingyaoAi
+    linkedin: qingyao-ai-4ab8306a
 ---
 
 I am now working as assistant professor of the Department of Computer Science and Technology. My research mainly focuses on Information Retrieval and Machine Learning related topics. Currently I'm working on applying machine learning techniques on IR problems including ad-hoc retrieval, product search/recommendation and learning to rank. 

@@ -6,7 +6,7 @@ role: phd
 links:
     home-page: https://thuwangcy.github.io  
     email: THUwangcy@gmail.com  
-    github: https://github.com/THUwangcy  
+    github: THUwangcy  
 --- 
 
 Chenyang's research interests are mainly about sequential recommendation, user intent modeling, trustworthy recommendation, and etc.
