@@ -1,7 +1,7 @@
 ---
 name: Yijiang Jin
 image: images/people/logo.jpg
-description: Professor
+description: Engineer
 role: pi
 # aliases:
 #   - U. Goode
