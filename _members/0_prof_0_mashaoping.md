@@ -1,6 +1,6 @@
 ---
 name: Shaoping Ma 马少平
-image: images/ShaopingMa.jpg
+image: images/people/msp.jpg
 description: Professor (Tenured) 教研系列长聘教授
 role: pi
 aliases:
