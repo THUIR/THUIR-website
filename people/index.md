@@ -5,7 +5,7 @@ nav:
   tooltip: 团队成员
 ---
 
-# <i class="fas fa-users"></i>Current 在校成员
+# <i class="fas fa-users"></i>Current
 
 ## Faculty
 
@@ -64,7 +64,7 @@ nav:
 
 {% include section.html %}
 
-# <i class="fas fa-users"></i>Alumni 实验室校友
+# <i class="fas fa-users"></i>Alumni
 
 {%
   include list.html
