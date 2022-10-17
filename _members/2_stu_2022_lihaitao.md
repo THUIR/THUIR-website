@@ -1,6 +1,6 @@
 ---
 name: Haitao Li
-image: images/people/lht.png  
+image: images/people/lht.jpg  
 description: Master 2022-  
 role: master  
 links:  

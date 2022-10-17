@@ -1,6 +1,6 @@
 ---
 name: Zhihong Wang  
-image: images/people/wzh.png
+image: images/people/wzh.jpg
 description: PostDoc. 2021-  
 role: postdoc  
 links:   
