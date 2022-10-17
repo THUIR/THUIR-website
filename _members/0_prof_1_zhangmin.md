@@ -1,6 +1,6 @@
 ---
 name: Min Zhang 张敏
-image: images/MinZhang.jpg
+image: images/people/zm.jpg
 description: Professor (Tenured) 教研系列长聘教授
 role: pi
 aliases:
@@ -9,7 +9,7 @@ links:
   home-page: http://www.thuir.cn/group/~mzhang/
   google-scholar: https://scholar.google.com/citations?user=0HtCYQEAAAAJ
   email: z-m@tsinghua.edu.cn
-  
+
 ---
 
 清华大学计算机科学与技术系长聘教授。主要研究兴趣包括网页信息检索与推荐、用户行为分析与建模、机器学习、数据挖掘。
