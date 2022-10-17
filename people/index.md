@@ -42,9 +42,8 @@ nav:
   filters="role: master"
 %}
 
-## PostDoc
-
 {% include section.html %}
+## PostDoc
 
 {%
   include list.html
@@ -54,6 +53,8 @@ nav:
 %}
 
 {% include section.html %}
+
+## Staff
 
 {%
   include list.html
@@ -73,9 +74,6 @@ nav:
   component="portrait"
   filters="role: pi"
 %}
-
-{% include section.html %}
-
 {%
   include list.html
   data="alumni"
@@ -102,5 +100,3 @@ nav:
 %}
 {:.center}
 
-
-{% include section.html background="images/banner.jpg" dark=true%}
