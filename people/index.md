@@ -7,15 +7,20 @@ nav:
 
 # <i class="fas fa-users"></i>Current
 
-{% include section.html %}
-
-## Professors
+## Faculty
 
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: pi"
+%}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: engineer"
 %}
 
 {% include section.html %}
@@ -51,11 +56,13 @@ nav:
 
 {% include section.html %}
 
+## Staff
+
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: staff"
 %}
 {:.center}
 
@@ -63,15 +70,12 @@ nav:
 
 # <i class="fas fa-users"></i>Alumni
 
-<!-- {%
+{%
   include list.html
   data="alumni"
   component="portrait"
   filters="role: pi"
-%} -->
-
-{% include section.html %}
-
+%}
 {%
   include list.html
   data="alumni"
@@ -84,7 +88,7 @@ nav:
   component="portrait"
   filters="role: master"
 %}
-<!-- {%
+{%
   include list.html
   data="alumni"
   component="portrait"
@@ -94,6 +98,7 @@ nav:
   include list.html
   data="alumni"
   component="portrait"
-  filters="role: programmer"
-%} -->
-<!-- {:.center} -->
+  filters="role: staff"
+%}
+{:.center}
+

@@ -18,6 +18,10 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
+engineer:
+  icon: fas fa-database
+  text: Engineer
+
 staff:
   icon: fa-pencil-ruler
   text: Staff
