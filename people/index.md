@@ -25,7 +25,7 @@ nav:
 
 {% include section.html %}
 
-## Graduate Students
+## Ph.D. Students
 
 {%
   include list.html
@@ -33,6 +33,9 @@ nav:
   component="portrait"
   filters="role: phd"
 %}
+
+## Master Students
+
 {%
   include list.html
   data="members"
@@ -41,7 +44,8 @@ nav:
 %}
 
 {% include section.html %}
-## PostDoc
+
+## PostDocs
 
 {%
   include list.html

@@ -7,7 +7,7 @@
 {%- assign emptyarray = "" | split: "," -%}
 
 {%- assign id = include.slug | default: include.id | default: "" -%}
-{%- assign members = site.members | default: emptyarray -%} 
+{%- assign members = site.members | concat: site.alumni | default: emptyarray -%} 
 
 {%- assign member = nil -%}
 {%- for m in members -%}

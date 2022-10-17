@@ -40,7 +40,7 @@ defaults:
   - scope:
       type: "alumni"
     values:
-      layout: member
+      layout: alumni
   # markdown files in /_posts
   - scope:
       type: "posts"
