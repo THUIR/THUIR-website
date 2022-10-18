@@ -1,5 +1,5 @@
 ---
-name: Zhu Shuqi  
+name: Shuqi Zhu  
 image: images/people/zsq.jpg  
 description: Ph.D. 2022-  
 role: phd  

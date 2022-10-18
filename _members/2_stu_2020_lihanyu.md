@@ -4,7 +4,7 @@ image: images/people/lhy.jpeg
 description: Ph.D. 2020-  
 role: phd 
 links:  
-    home-page: adamli12@github.io  
+    home-page: https://adamli12.github.io  
     email: lihanyu20@mails.tsinghua.edu.cn  
     github: Adamli12  
 ---
