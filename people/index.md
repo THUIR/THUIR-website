@@ -34,6 +34,8 @@ nav:
   filters="role: phd"
 %}
 
+{% include section.html %}
+
 ## Master Students
 
 {%
@@ -53,18 +55,6 @@ nav:
   component="portrait"
   filters="role: postdoc"
 %}
-
-{% include section.html %}
-
-## Staff
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: staff"
-%}
-{:.center}
 
 {% include section.html %}
 
