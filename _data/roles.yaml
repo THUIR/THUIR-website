@@ -23,7 +23,7 @@ engineer:
   text: Engineer
 
 staff:
-  icon: fa-pencil-ruler
+  icon: fas fa-pencil-ruler
   text: Staff
 
 mascot:
