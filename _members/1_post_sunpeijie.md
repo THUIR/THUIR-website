@@ -1,7 +1,7 @@
 --- 
-name: Peijie Sun   
+name: Peijie Sun<br/>孙培杰
 image: images/people/spj.jpg   
-description: PostDoc. 2022.7-   
+description: PostDoc. 2022-   
 role: postdoc  
 links:  
     home-page: https://site.peijiesun.com/  

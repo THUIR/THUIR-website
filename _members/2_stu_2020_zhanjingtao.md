@@ -1,5 +1,5 @@
 ---  
-name: Jingtao Zhan  
+name: Jingtao Zhan<br/>詹靖涛
 image: images/people/zjt.jpg  
 description: Ph.D. 2020-  
 role: phd  

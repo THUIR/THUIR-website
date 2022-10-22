@@ -1,5 +1,5 @@
 ---
-name: Min Zhang 张敏
+name: Min Zhang<br/>张敏
 image: images/people/zm.jpg
 description: Professor (Tenured) 教研系列长聘教授
 role: pi

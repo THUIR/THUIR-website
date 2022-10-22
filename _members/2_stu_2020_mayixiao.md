@@ -1,5 +1,5 @@
 ---
-name: Yixiao Ma  
+name: Yixiao Ma<br/>马奕潇
 image: images/people/myx.jpg  
 description: Master 2020-  
 role: master  
