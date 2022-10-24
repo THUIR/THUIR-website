@@ -56,13 +56,19 @@ nav:
 
 {% include section.html %}
 
-## Staff
+## Staff and Project Managers
 
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: staff"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pm"
 %}
 {:.center}
 
