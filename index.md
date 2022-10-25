@@ -59,9 +59,9 @@ THUIR实验室于20世纪90年代创建，在[马少平](http://www.thuir.cn/gro
 
 {% capture text %}
 
-Currently, THUIR has four PIs and more than thirty graduate students in the lab. In the past 30 years, more than 30 Ph.D. and 50 M.S. have graduated from THUIR, many of which have already served as leaders or faculty in industry and academia.
+Currently, THUIR has four PIs and nearly thirty graduate students in the lab. In the past 30 years, more than 30 Ph.D. and 50 M.S. have graduated from THUIR, many of which have already served as leaders or faculty in industry and academia.
 
-THUIR实验室现有研究生导师4人，在读博士及硕士30余人。在过去30年中，实验室培养了大批人工智能方向的优秀人才，其中包括博士30余名，硕士50余名，以及众多在组内实习和进行毕业设计的本科生、研究生。实验室校友在工业界和学术界取得突出成绩，其中包括多名著名互联网公司领导人、创始人，以及多所国内外知名高校教师教授。
+THUIR实验室现有研究生导师4人，在读博士及硕士近30人。在过去30年中，实验室培养了大批人工智能方向的优秀人才，其中包括博士30余名，硕士50余名，以及众多在组内实习和进行毕业设计的本科生、研究生。实验室校友在工业界和学术界取得突出成绩，其中包括多名著名互联网公司领导人、创始人，以及多所国内外知名高校教师教授。
 
 {%
   include link.html

@@ -58,6 +58,24 @@ nav:
 
 {% include section.html %}
 
+## Staff and Project Managers
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: staff"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pm"
+%}
+{:.center}
+
+{% include section.html %}
+
 # <i class="fas fa-users"></i>Alumni
 
 {%
