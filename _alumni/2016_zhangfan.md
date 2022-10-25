@@ -1,6 +1,6 @@
 ---
 name: Fan Zhang
-image: images/user_Icon.png
+image: images/logo.jpg
 description: Ph.D. 2016-2021
 role: phd 
 group: alum

@@ -1,6 +1,6 @@
 ---
 name: Chong Chen
-image: images/user_Icon.png
+image: images/logo.jpg
 description: Ph.D. 2017-2022
 role: phd 
 group: alum

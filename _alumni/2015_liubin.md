@@ -1,6 +1,6 @@
 ---
 name: Bin Liu
-image: images/user_Icon.png
+image: images/logo.jpg
 description: Master 2015-2018
 role: master
 ---

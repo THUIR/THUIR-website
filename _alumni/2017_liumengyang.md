@@ -1,6 +1,6 @@
 ---
 name: Mengyang Liu
-image: images/user_Icon.png
+image: images/logo.jpg
 description: Master 2017-2020
 role: master
 ---

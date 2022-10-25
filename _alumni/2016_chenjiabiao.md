@@ -1,6 +1,6 @@
 ---
 name: Jiabiao Chen
-image: images/user_Icon.png
+image: images/logo.jpg
 description: Master 2016-2019
 role: master
 ---
