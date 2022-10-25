@@ -1,5 +1,5 @@
 ---
-name: Chenyang Wang 
+name: Chenyang Wang<br/>王晨阳
 image: images/people/wcy.jpeg  
 description: Ph.D. 2018-  
 role: phd  

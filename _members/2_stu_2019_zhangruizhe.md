@@ -1,5 +1,5 @@
 ---
-name: Ruizhe Zhang  
+name: Ruizhe Zhang<br/>张瑞喆
 image: images/people/zrz.jpg  
 description: Ph.D. 2019-  
 role: phd  

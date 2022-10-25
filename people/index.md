@@ -34,6 +34,8 @@ nav:
   filters="role: phd"
 %}
 
+{% include section.html %}
+
 ## Master Students
 
 {%

@@ -1,5 +1,5 @@
 ---
-name: Xiaoyu Zhang 
+name: Xiaoyu Zhang<br/>张潇宇
 image: images/people/zxy.png
 description: Ph.D. 2022-
 role: phd 

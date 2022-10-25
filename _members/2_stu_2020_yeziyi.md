@@ -1,5 +1,5 @@
 ---
-name: Ziyi Ye  
+name: Ziyi Ye<br/>叶子逸
 image: images/people/yzy.jpg  
 description: Ph.D. 2020-  
 role: phd  
