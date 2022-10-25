@@ -1,6 +1,6 @@
 ---
 name: Hongyu Lu
-image: images/logo.jpg
+image: images/user_Icon.png
 description: Ph.D. 2016-2021
 role: phd 
 group: alum

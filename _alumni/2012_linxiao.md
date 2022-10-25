@@ -1,6 +1,6 @@
 ---
 name: Xiao Lin
-image: images/logo.jpg
+image: images/user_Icon.png
 description: Ph.D. 2012-2017 
 role: phd 
 group: alum

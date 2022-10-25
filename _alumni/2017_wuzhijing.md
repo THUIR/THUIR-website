@@ -1,6 +1,6 @@
 ---
 name: Zhijing Wu
-image: images/logo.jpg
+image: images/user_Icon.png
 description: Ph.D. 2017-2022
 role: phd 
 group: alum

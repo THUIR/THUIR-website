@@ -1,6 +1,6 @@
 ---
 name: Rongjie Cai
-image: images/logo.jpg
+image: images/user_Icon.png
 description: Master 2015-2018
 role: master
 ---
