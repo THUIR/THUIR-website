@@ -65,3 +65,20 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+- id: doi:10.1145/3331184.3331192
+  title: An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+  authors:
+  - Chong Chen
+  - Min Zhang
+  - Chenyang Wang
+  - Weizhi Ma
+  - Minming Li
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 42nd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2019-07-18'
+  link: https://doi.org/gq439k
+  image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
+  repo: chenchongthu/ENMF
+  _cache: 422e629ec88d1defff80aa1fcca5a5664d9a4751b15dd18c148aa3b9357d3cf6
