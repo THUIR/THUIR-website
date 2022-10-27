@@ -31,3 +31,7 @@
     - type: source
       link: https://github.com/greenelab/scihub
       text: Analyses source
+
+- id: doi:10.1145/3331184.3331192
+  image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
+  repo: chenchongthu/ENMF
