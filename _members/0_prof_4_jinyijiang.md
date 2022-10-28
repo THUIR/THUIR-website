@@ -1,5 +1,5 @@
 ---
-name: Yijing Jin<br/>金奕江
+name: Yijiang Jin<br/>金奕江
 image: images/people/YijiangJin.jpg
 description: Engineer 工程师
 role: engineer
