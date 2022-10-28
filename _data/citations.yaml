@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1007/s11390-022-2031-y
+  title: Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document
+    Ranking
+  authors:
+  - Zhi-Jing Wu
+  - Yi-Qun Liu
+  - Jia-Xin Mao
+  - Min Zhang
+  - Shao-Ping Ma
+  publisher: Journal of Computer Science and Technology
+  date: '2022-07-01'
+  link: https://doi.org/gq5bpm
+  _cache: 43ed73a221d3ba55c50c46c27fffef6f7d84f6ff9b991cb82373ad0c0c216c6d
 - id: doi:10.1016/j.ipm.2022.103051
   title: 'Query Generation and Buffer Mechanism: Towards a better conversational agent
     for legal case retrieval'
