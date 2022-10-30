@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "_data/sources.yaml"
+      - "_data/sources*.yaml"
       - "_data/orcid.yaml"
   pull_request:
     paths:
