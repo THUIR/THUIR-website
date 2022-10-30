@@ -1,0 +1,86 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2019-06-24'
+  link: https://doi.org/c7np
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  repo: greenelab/meta-review
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  _cache: 90727e9034e94f56692ee8920fc108ea8aa86bfe368e1da2511538a8ab6bfd8c
+- id: doi:10.1145/3331184.3331192
+  title: An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+  authors:
+  - Chong Chen
+  - Min Zhang
+  - Chenyang Wang
+  - Weizhi Ma
+  - Minming Li
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 42nd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2019-07-18'
+  link: https://doi.org/gq439k
+  image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
+  repo: chenchongthu/ENMF
+  _cache: 232d656e9bf9c13260cab192bf382bcf0cdc21a68de3a0db2c002eb3b9080d04
+- id: doi:10.1145/3483382.3483387
+  title: Challenges in designing a brain-machine search interface
+  authors:
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Xiaohui Xie
+  - Min Zhang
+  - Shaoping Ma
+  publisher: ACM SIGIR Forum
+  date: '2020-12-01'
+  link: https://doi.org/gq5m9n
+  _cache: 5763dbcbf4a3d3c0e314a65a5a65cd4e3564739969673c38b1a363845c076514
+- id: doi:10.1145/3459637.3482428
+  title: Evaluating Relevance Judgments with Pairwise Discriminative Power
+  authors:
+  - Zhumin Chu
+  - Jiaxin Mao
+  - Fan Zhang
+  - Yiqun Liu
+  - Tetsuya Sakai
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 30th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2021-10-26'
+  link: https://doi.org/gq5m9q
+  _cache: d621a858d37ea661fd2c3c775ff849db27300db05775222e204c5f4df547af45
+- id: doi:10.1016/j.ipm.2022.103051
+  title: 'Query Generation and Buffer Mechanism: Towards a better conversational agent
+    for legal case retrieval'
+  authors:
+  - Bulou Liu
+  - Yueyue Wu
+  - Fan Zhang
+  - Yiqun Liu
+  - Zhihong Wang
+  - Chenliang Li
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Information Processing &amp; Management
+  date: '2022-09-01'
+  link: https://doi.org/gq5bk3
+  _cache: 5acc6dae8c127de6075543489c2f947bae31eca724210efcd7d4a8cb3cde4811
