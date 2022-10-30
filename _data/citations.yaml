@@ -15,11 +15,13 @@
     and Development in Information Retrieval
   date: '2019-07-18'
   link: https://doi.org/gq439k
+  image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
+  extra-links:
+  - type: source
+    link: https://github.com/chenchongthu/enmf
   _title: An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
   _first_author: Chong Chen
-  image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
-  repo: chenchongthu/ENMF
-  _cache: 088e74a5c8477c1563a1106a00bbb82878f238a881ecffef864b8e0d06fcefc1
+  _cache: 59b1615980ac093c0b77a0fb1d860bf4429147d6a0ba9d7cd6a025be228546f0
 - id: doi:10.1145/3483382.3483387
   title: Challenges in designing a brain-machine search interface
   authors:
@@ -84,3 +86,38 @@
     agent for legal case retrieval'
   _first_author: Bulou Liu
   _cache: 517450f1effb19db3af80e6dff3460dcaadd64b4fb26fe36862ba7d44cb14f63
+- id: doi:10.1007/s11390-022-2031-y
+  title: Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document
+    Ranking
+  authors:
+  - Zhi-Jing Wu
+  - Yi-Qun Liu
+  - Jia-Xin Mao
+  - Min Zhang
+  - Shao-Ping Ma
+  publisher: Journal of Computer Science and Technology
+  date: '2022-07-01'
+  link: https://doi.org/gq5bpm
+  _title: Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document
+    Ranking
+  _first_author: Zhijing Wu
+  _cache: 64ca9e5f0d8b8ce872b80f1e029bf37be99ee11405099bb92b590def2e305d7a
+- id: doi:10.1145/3511808.3557312
+  title: Evaluating Interpolation and Extrapolation Performance of Neural Retrieval
+    Models
+  authors:
+  - Jingtao Zhan
+  - Xiaohui Xie
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Jiafeng Guo
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 31st ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2022-10-17'
+  link: https://doi.org/gq5nxh
+  _title: Evaluating Interpolation and Extrapolation Performance of Neural Retrieval
+    Models
+  _first_author: Jingtao Zhan
+  _cache: eddd1fd33f120795aee6c0e7897055d0dca82644272e362ae290f29d6a23d323
