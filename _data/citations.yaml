@@ -15,9 +15,11 @@
     and Development in Information Retrieval
   date: '2019-07-18'
   link: https://doi.org/gq439k
+  _title: An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+  _first_author: Chong Chen
   image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
   repo: chenchongthu/ENMF
-  _cache: 232d656e9bf9c13260cab192bf382bcf0cdc21a68de3a0db2c002eb3b9080d04
+  _cache: 088e74a5c8477c1563a1106a00bbb82878f238a881ecffef864b8e0d06fcefc1
 - id: doi:10.1145/3483382.3483387
   title: Challenges in designing a brain-machine search interface
   authors:
@@ -29,7 +31,9 @@
   publisher: ACM SIGIR Forum
   date: '2020-12-01'
   link: https://doi.org/gq5m9n
-  _cache: 5763dbcbf4a3d3c0e314a65a5a65cd4e3564739969673c38b1a363845c076514
+  _title: Challenges in designing a brain-machine search interface
+  _first_author: Yiqun Liu
+  _cache: 3f77c4dc21ba5b7daa5ebb28a6caa358f33a8eda8e72d704e53ae62aee977622
 - id: doi:10.1145/3459637.3482428
   title: Evaluating Relevance Judgments with Pairwise Discriminative Power
   authors:
@@ -44,7 +48,9 @@
     Knowledge Management
   date: '2021-10-26'
   link: https://doi.org/gq5m9q
-  _cache: d621a858d37ea661fd2c3c775ff849db27300db05775222e204c5f4df547af45
+  _title: Evaluating Relevance Judgments with Pairwise Discriminative Power
+  _first_author: Zhumin Chu
+  _cache: 076ba031600457de111a66100f3042e197cd5487d45381d96e65310eca31f31a
 - id: doi:10.1145/3569929
   title: Understanding Relevance Judgments in Legal Case Retrieval
   authors:
@@ -57,7 +63,8 @@
   date: '2022-10-28'
   link: https://doi.org/gq5nr9
   _title: Understanding Relevance Judgments in Legal Case Retrieval
-  _cache: 716c1790742593ec78a1a0fea9616f119ac72b535cc256aa731d570766752119
+  _first_author: Yunqiu Shao
+  _cache: 7c99d10479b238f54880c23554f8897ed2a6edf98c143d077d6579c110d5ce55
 - id: doi:10.1016/j.ipm.2022.103051
   title: 'Query Generation and Buffer Mechanism: Towards a better conversational agent
     for legal case retrieval'
@@ -73,4 +80,7 @@
   publisher: Information Processing &amp; Management
   date: '2022-09-01'
   link: https://doi.org/gq5bk3
-  _cache: 5acc6dae8c127de6075543489c2f947bae31eca724210efcd7d4a8cb3cde4811
+  _title: 'Query Generation and Buffer Mechanism: Towards a better conversational
+    agent for legal case retrieval'
+  _first_author: Bulou Liu
+  _cache: 517450f1effb19db3af80e6dff3460dcaadd64b4fb26fe36862ba7d44cb14f63
