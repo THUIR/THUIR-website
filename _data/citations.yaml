@@ -15,9 +15,11 @@
     and Development in Information Retrieval
   date: '2019-07-18'
   link: https://doi.org/gq439k
+  _title: An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+  _first_author: Chong Chen
   image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
   repo: chenchongthu/ENMF
-  _cache: 232d656e9bf9c13260cab192bf382bcf0cdc21a68de3a0db2c002eb3b9080d04
+  _cache: 088e74a5c8477c1563a1106a00bbb82878f238a881ecffef864b8e0d06fcefc1
 - id: doi:10.1145/3483382.3483387
   title: Challenges in designing a brain-machine search interface
   authors:
@@ -61,8 +63,8 @@
   date: '2022-10-28'
   link: https://doi.org/gq5nr9
   _title: Understanding Relevance Judgments in Legal Case Retrieval
-  _first_author: Yuqiu Shao
-  _cache: e5922963815384ab6b2e62cc575810fc419ae2497a8dd38100380ee6131701d0
+  _first_author: Yunqiu Shao
+  _cache: 7c99d10479b238f54880c23554f8897ed2a6edf98c143d077d6579c110d5ce55
 - id: doi:10.1016/j.ipm.2022.103051
   title: 'Query Generation and Buffer Mechanism: Towards a better conversational agent
     for legal case retrieval'
