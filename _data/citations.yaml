@@ -57,7 +57,8 @@
   date: '2022-10-28'
   link: https://doi.org/gq5nr9
   _title: Understanding Relevance Judgments in Legal Case Retrieval
-  _cache: 716c1790742593ec78a1a0fea9616f119ac72b535cc256aa731d570766752119
+  _first_author: shaoyunqiu
+  _cache: f774acfa1d3e68e4b75ff4b5c4581a8ec053a56d9c275599f124bfd5138cc32a
 - id: doi:10.1016/j.ipm.2022.103051
   title: 'Query Generation and Buffer Mechanism: Towards a better conversational agent
     for legal case retrieval'
