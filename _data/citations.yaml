@@ -84,7 +84,7 @@
     agent for legal case retrieval'
   _first_author: Bulou Liu
   _cache: 517450f1effb19db3af80e6dff3460dcaadd64b4fb26fe36862ba7d44cb14f63
-- id: 10.1007/s11390-022-2031-y
+- id: doi:10.1007/s11390-022-2031-y
   title: Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document
     Ranking
   authors:
@@ -99,4 +99,23 @@
   _title: Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document
     Ranking
   _first_author: Zhijing Wu
-  _cache: ebca6a0b8e60c30dff485da77f2fea384ce1a8ffb7830d6010dcc551dfc80072
+  _cache: 64ca9e5f0d8b8ce872b80f1e029bf37be99ee11405099bb92b590def2e305d7a
+- id: doi:10.1145/3511808.3557312
+  title: Evaluating Interpolation and Extrapolation Performance of Neural Retrieval
+    Models
+  authors:
+  - Jingtao Zhan
+  - Xiaohui Xie
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Jiafeng Guo
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 31st ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2022-10-17'
+  link: https://doi.org/gq5nxh
+  _title: Evaluating Interpolation and Extrapolation Performance of Neural Retrieval
+    Models
+  _first_author: Jingtao Zhan
+  _cache: eddd1fd33f120795aee6c0e7897055d0dca82644272e362ae290f29d6a23d323
