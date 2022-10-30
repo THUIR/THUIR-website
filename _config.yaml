@@ -21,7 +21,6 @@ auto-cite:
   plugins:
     - name: sources
       input:
-        - ../_data/sources.yaml
         - ../_data/sources-2019.yaml
         - ../_data/sources-2020.yaml
         - ../_data/sources-2021.yaml
