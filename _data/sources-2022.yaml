@@ -9,3 +9,7 @@
 - id: 10.1007/s11390-022-2031-y
   _title: "Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document Ranking"
   _first_author: Zhijing Wu
+
+- id: doi:10.1145/3511808.3557312
+  _title: "Evaluating Interpolation and Extrapolation Performance of Neural Retrieval Models"
+  _first_author: Jingtao Zhan
