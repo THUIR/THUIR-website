@@ -1,0 +1,145 @@
+- title: 国家自然科学基金<br/>Natural Science Foundation of China
+  subtitle: 基金编号 61732008
+  group: funds
+  image: images/company/funds.jpg
+  description:
+
+- title: 国家自然科学基金<br/>Natural Science Foundation of China
+  subtitle: 基金编号 U21B2026
+  group: funds
+  image: images/company/funds.jpg
+  description: 
+
+- title: 国家自然科学基金<br/>Natural Science Foundation of China
+  subtitle: 基金编号 62002194
+  group: funds
+  image: images/company/funds.jpg
+  description: 
+
+- title: 脑电项目
+  group: projects
+  image: images/company/bytedance.jpg
+  company: 字节跳动-抖音
+  people: 
+  description: 
+
+- title: 
+  group: projects
+  image: images/company/zhihu.jpg
+  company: 知乎
+  people: 
+  description: 本项⽬针对知识分享社区中的个性化推荐需求，以知乎为研究平台，重点研究冷启动问题，即新⽤户访问时应如何尽快实现符合⽤户兴趣的个性化推荐。已合作发表论文两篇，申请专利一项。
+
+- title: 
+  group: projects
+  image: images/company/sogou.jpg
+  company: 搜狗
+  people: 
+  description: 天工大规模问答式搜索数据集。目前分析和处理基本完成，预计发布在SIGIR2023上。
+
+- title: 
+  group: projects
+  image: images/company/huawei.jpg
+  company: 华为
+  people: 
+    - 李祥圣
+    - 陈冲
+    - 王亦凡
+    - 方言
+  description: 已合作发表论文两篇，专利一项。
+
+- title: 
+  group: projects
+  image: images/company/tencent.jpg
+  company: 腾讯
+  people: 
+    - 卢泓宇
+    - 李涵宇
+  description: 动态重排序与环境位置偏差。已投稿论文两篇
+
+
+- title: 多模态语义分析与模型方法研究
+  group: projects
+  image: images/company/alibaba.jpg
+  company: 阿里巴巴
+  people: 闫世宏
+  description: 已投稿论文一篇
+
+- title: 电视大屏场景下的多兴趣推荐
+  group: projects
+  image: images/company/yidong.jpg
+  company: 中国移动
+  people: 王晨阳
+  description: 已合作发表论文一篇，申请专利一项
+
+- title: 
+  group: projects
+  image: images/company/shangfei.jpg
+  company: 商飞
+  people: 
+    - 陈雪松
+    - 张瑞喆
+  description: 
+
+- title: 
+  group: projects
+  image: images/company/didi.jpg
+  company: 滴滴
+  people: 陈海天
+  description: 
+
+- title: 推荐系统中的多意图动态目标融合
+  group: projects
+  image: images/company/meituan.jpg
+  company: 美团
+  people: 李佳玉
+  description: 推荐系统中考虑用户意图的动态目标优化，已投稿论文一篇
+
+- title: 推荐系统中的公平性研究
+  group: projects
+  image: images/company/kuaishou.jpg
+  company: 快手
+  people: 汪佳茵
+  description: 已合作发表论文一篇，申请专利一项
+
+- title: 
+  group: projects
+  image: images/company/msra.jpg
+  company: 微软亚洲研究院 (MSRA)
+  people: 卢泓宇
+  description: 
+
+- title: 自适应学习中的知识追踪
+  group: projects
+  image: images/company/netease.jpg
+  company: 网易
+  people: 王晨阳
+  description: 已合作发表论文一篇
+
+- title: 游戏难度个性化推荐
+  group: projects
+  image: images/company/ningmengweiqu.jpg
+  company: 柠檬微趣
+  people: 
+  description: 用户流失预测与动态调整难度推荐，已合作发表论文一篇
+
+- title: 司法大模型检索技术研究
+  group: projects
+  image: images/company/huawei.jpg
+  company: 华为
+  people: 
+  description: 基于司法大模型的类案检索技术及系统，立项中
+
+- title: 国家重点研发计划“智能司法公开关键技术研究”
+  group: projects
+  image: images/company/zuigaofa.jpg
+  company: 最高法-科技部
+  people: 
+  description: 面向诉讼当事人和法律工作者网上行为轨迹的司法公开信息精准推送技术。已结项，通过科技部验收。在北京市、河北省6家法院开展一年应用示范。
+
+- title: 国家重点研发计划“泛在化司法案例与涉外法治智能研判关键技术研究”
+  group: projects
+  image: images/company/zuigaofa.jpg
+  company: 最高法-科技部
+  people: 
+  description: 基于众筹模式的海量司法案例与专业知识融合技术研究，立项中

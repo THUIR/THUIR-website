@@ -1,0 +1,94 @@
+{%- assign emptyarray = "" | split: "," -%}
+{%- assign output = site.auto-cite.output | default: "citations" | split: "/" | last | split: "." | pop | join: "" -%}
+{%- assign citations = site.data[output] | default: emptyarray -%} 
+
+<!-- {%- assign citation = nil -%}
+{%- if include.lookup -%}
+  {%- for c in citations -%}
+    {%- if c.id == include.lookup or c.title contains include.lookup -%}
+      {%- assign citation = c -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- else -%}
+  {%- assign citation = include -%}
+{%- endif -%}
+
+{%- assign citation = include -%}
+{%- assign rich = false -%}
+{%- if include.style == "rich" -%}
+  {%- assign rich = true -%}
+{%- endif -%} -->
+
+{%- assign placeholder = "images/placeholder.svg" | relative_url -%}
+
+<div class="citation" data-style="{{ include.style }}">
+  {%- assign id = citation.id | default: "" -%}
+  {%- assign link = citation.link | default: "" -%}
+  {%- assign image = citation.image | default: "" -%}
+  {%- if rich -%}
+    <div class="citation_image">
+      <!-- <a href="{{ link }}"> -->
+        <img
+          src="{{ image | relative_url }}"
+          onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+          data-tooltip="{{ id }}"
+          loading="lazy"
+          alt="Citation thumbnail"
+        >
+      <!-- </a> -->
+    </div>
+  {%- endif -%}
+
+  <div class="citation_text">
+    {%- assign title = citation.title | default: "" -%}
+    <div class="citation_title">
+      <!-- <a href="{{ link }}"> -->
+        {{ title }}
+      <!-- </a> -->
+    </div>
+
+    {%- assign company = citation.company | default: "" -%}
+    <div
+      class="citation_authors truncate"
+      tabindex="0"
+    >
+      项目合作方: {{ company }}
+    </div>
+
+    {%- assign people = citation.people | default: emptyarray -%}
+    {%- if people != emptyarray -%}
+      <div
+        class="citation_authors truncate"
+        tabindex="0"
+      >
+        项目参与者: {{ people | join: ", " }}
+      </div>
+    {%- endif -%}
+
+    {%- assign description = citation.description | default: "" -%}
+    {%- if description != "" -%}
+      <div class="citation_details">
+        项目简介: {{ description }}
+      </div>
+    {%- endif -%}
+
+    {%- if rich -%}
+
+      {%- assign tags = citation.tags | default: emptyarray -%}
+      {%- assign repo = citation.repo | default: "" -%}
+      {%- assign extra-links = citation.extra-links | default: emptyarray -%}
+
+      {%- include tags.html tags=tags repo=repo -%}
+      <div class="citation_links">
+        {%- for extra in extra-links -%}
+          {%- assign type = extra.type | default: "" -%}
+          {%- assign icon = extra.icon | default: "" -%}
+          {%- assign text = extra.text | default: "" -%}
+          {%- assign link = extra.link -%}
+          {%- include link.html type=type icon=icon text=text link=link -%}
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
+  </div>
+</div>
