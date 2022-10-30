@@ -23,6 +23,9 @@ auto-cite:
       input:
         - ../_data/sources.yaml
         - ../_data/sources-2019.yaml
+        - ../_data/sources-2020.yaml
+        - ../_data/sources-2021.yaml
+        - ../_data/sources-2022.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files
