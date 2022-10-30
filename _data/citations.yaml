@@ -29,7 +29,9 @@
   publisher: ACM SIGIR Forum
   date: '2020-12-01'
   link: https://doi.org/gq5m9n
-  _cache: 5763dbcbf4a3d3c0e314a65a5a65cd4e3564739969673c38b1a363845c076514
+  _title: Challenges in designing a brain-machine search interface
+  _first_author: Yiqun Liu
+  _cache: 3f77c4dc21ba5b7daa5ebb28a6caa358f33a8eda8e72d704e53ae62aee977622
 - id: doi:10.1145/3459637.3482428
   title: Evaluating Relevance Judgments with Pairwise Discriminative Power
   authors:
@@ -44,7 +46,9 @@
     Knowledge Management
   date: '2021-10-26'
   link: https://doi.org/gq5m9q
-  _cache: d621a858d37ea661fd2c3c775ff849db27300db05775222e204c5f4df547af45
+  _title: Evaluating Relevance Judgments with Pairwise Discriminative Power
+  _first_author: Zhumin Chu
+  _cache: 076ba031600457de111a66100f3042e197cd5487d45381d96e65310eca31f31a
 - id: doi:10.1145/3569929
   title: Understanding Relevance Judgments in Legal Case Retrieval
   authors:
@@ -57,8 +61,8 @@
   date: '2022-10-28'
   link: https://doi.org/gq5nr9
   _title: Understanding Relevance Judgments in Legal Case Retrieval
-  _first_author: shaoyunqiu
-  _cache: f774acfa1d3e68e4b75ff4b5c4581a8ec053a56d9c275599f124bfd5138cc32a
+  _first_author: Yuqiu Shao
+  _cache: e5922963815384ab6b2e62cc575810fc419ae2497a8dd38100380ee6131701d0
 - id: doi:10.1016/j.ipm.2022.103051
   title: 'Query Generation and Buffer Mechanism: Towards a better conversational agent
     for legal case retrieval'
@@ -74,4 +78,7 @@
   publisher: Information Processing &amp; Management
   date: '2022-09-01'
   link: https://doi.org/gq5bk3
-  _cache: 5acc6dae8c127de6075543489c2f947bae31eca724210efcd7d4a8cb3cde4811
+  _title: 'Query Generation and Buffer Mechanism: Towards a better conversational
+    agent for legal case retrieval'
+  _first_author: Bulou Liu
+  _cache: 517450f1effb19db3af80e6dff3460dcaadd64b4fb26fe36862ba7d44cb14f63
