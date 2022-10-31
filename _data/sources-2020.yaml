@@ -11,7 +11,7 @@
   _first_author: Chenyang Wang
 
 - id: doi:10.1609/aaai.v34i01.5329
-  _title: "Efﬁcient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation"
+  _title: "Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation"
   _first_author: Chong Chen
 
 - id: doi:10.1145/3373807
@@ -85,3 +85,5 @@
 - id: doi:10.1145/3336191.3371797
   _title: "Investigating Examination Behavior in Mobile Search"
   _first_author: Yukun Zheng
+
+- id: doi:
