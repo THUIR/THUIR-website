@@ -1,7 +1,7 @@
 ---
 title: Opportunities
 nav:
-  order: 7
+  order: 8
   tooltip: 招生招聘
 ---
 

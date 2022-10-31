@@ -1,7 +1,7 @@
 ---
 title: News
 nav:
-  order: 6
+  order: 7
   tooltip: 新闻
 ---
 
