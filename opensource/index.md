@@ -15,9 +15,9 @@ To be completed...
 
 {% include section.html %}
 
-## Featured
+## Repositories
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="tools" filters="group: repositories" %}
 
 {% include section.html %}
 
