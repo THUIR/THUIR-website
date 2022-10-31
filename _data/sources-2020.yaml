@@ -1,3 +1,99 @@
 - id: doi:10.1145/3483382.3483387
   _title: "Challenges in designing a brain-machine search interface"
   _first_author: Yiqun Liu
+
+- id: doi:10.1145/3483382.3483387
+  _title: "Challenges in Designing a Brain-Machine Search Interface"
+  _first_author: Yiqun Liu
+
+- id: doi:10.1145/3432244
+  _title: "Towards Dynamic User Intention: Temporal Evolutionary Effects of Item Relations in Sequential Recommendation"
+  _first_author: Chenyang Wang
+
+- id: doi:10.1609/aaai.v34i01.5329
+  _title: "Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation"
+  _first_author: Chong Chen
+
+- id: doi:10.1145/3373807
+  _title: "Efficient Neural Matrix Factorization without Sampling for Recommendation"
+  _first_author: Chong Chen
+
+- id: doi:10.1002/pra2.424
+  _title: "Investigating COVID-19-Related Query Logs of Chinese Search Engine Users. Poster"
+  _first_author: Ziyi Ye
+
+- id: doi:10.1145/3340531.3411957
+  _title: "Learning Better Representations for Neural Information Retrieval with Graph Information"
+  _first_author: Xiangsheng Li
+
+- id: doi:10.1145/3340531.3412094
+  _title: "An Empirical Study on Clarifying Question-Based Systems"
+  _first_author: Jie Zou
+
+- id: doi:10.1145/3397271.3401163
+  _title: "Cascade or Recency: Constructing Better Evaluation Metrics for Session Search"
+  _first_author: Fan Zhang
+
+- id: doi:10.1145/3397271.3401162
+  _title: " Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics"
+  _first_author: Fan Zhang
+
+- id: doi:10.1145/3397271.3401146
+  _title: "Preference-based Evaluation Metrics for Web Image Search"
+  _first_author: Xiaohui Xie
+
+- id: doi:10.1145/3397271.3401040
+  _title: "Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation"
+  _first_author: Chong Chen
+
+- id: doi:10.1145/3397271.3401131
+  _title: "Make It a Chorus: Knowledge- and Time-aware Item Modeling for Sequential Recommendation"
+  _first_author: Chenyang Wang
+
+- id: doi:10.1145/3397271.3401119
+  _title: "Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation"
+  _first_author: Shaoyun Shi
+
+- id: doi:10.1145/3397271.3401305
+  _title: "Investigating Reading Behavior in Fine-grained Relevance Judgment"
+  _first_author: Zhijing Wu
+
+- id: doi:10.1145/3397271.3401325
+  _title: "An Analysis of BERT in Document Ranking"
+  _first_author: Jingtao Zhan
+
+- id: doi:10.24963/ijcai.2020/484
+  _title: "BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval"
+  _first_author: Yunqiu Shao
+
+- id: doi:10.1145/3352683.3352686
+  _title: "Revisiting information retrieval tasks with user behavior models"
+  _first_author: Yiqun Liu
+
+- id: doi:10.1145/3366423.3380305
+  _title: "Leveraging Passage-level Cumulative Gain for Document Ranking"
+  _first_author: Zhijing Wu
+
+- id: doi:10.1145/3366423.3380303
+  _title: "Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation"
+  _first_author: Chong Chen
+
+- id: doi:10.1145/3336191.3371819
+  _title: "A Context-Aware Click Model for Web Search"
+  _first_author: Jia Chen
+
+- id: doi:10.1145/3336191.3371797
+  _title: "Investigating Examination Behavior in Mobile Search"
+  _first_author: Yukun Zheng
+
+- id: doi:10.1145/3340531.3411949
+  _title: "Neural Logic Reasoning"
+  _first_author: Shaoyun Shi
+
+- id: doi:10.1145/3340531.3411957
+  _title: "Learning Better Representations for Neural Information Retrieval with Graph Informatio"
+  _first_author: Xiangsheng Li
+
+- id: doi:10.1145/3336191.3371797
+  _title: "Investigating Examination Behavior in Mobile Search"
+  _first_author: Yukun Zheng
