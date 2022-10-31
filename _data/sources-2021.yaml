@@ -1,3 +1,64 @@
 - id: doi:10.1145/3459637.3482428
   _title: "Evaluating Relevance Judgments with Pairwise Discriminative Power"
   _first_author: Zhumin Chu
+
+- id: doi:10.1145/3459637.3482358
+  _title: "Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance"
+  _first_author: Jingtao Zhan
+
+- id: doi:10.1145/3459637.3482438
+  _title: "Incorporating Query Reformulating Behavior into Web Search Evaluation"
+  _first_author: Jia Chen
+
+- id: doi:https://doi.org/10.1145/3404835.3463064
+  _title: "Conversational vs Traditional: Comparing Search Behavior and Outcome in Legal Case Retrieval"
+  _first_author: Bulou Liu
+
+- id: doi:10.1145/3404835.3463107
+  _title: "Investigating Session Search Behavior with Knowledge Graphs"
+  _first_author: Xiangsheng Li
+
+- id: doi:10.1145/3404835.3463250
+  _title: "LeCaRD: A Legal Case Retrieval Dataset for Chinese Law System"
+  _first_author: Yixiao Ma
+
+- id: doi:10.1145/3404835.3462880
+  _title: "Optimizing Dense Retrieval Model Training with Hard Negatives"
+  _first_author: Jingtao Zhan
+
+- id: doi:10.1145/3404835.3462876
+  _title: "Investigating User Behavior in Legal Case Retrieval"
+  _first_author: Yunqiu Shao
+
+- id: doi:10.1145/3404835.3462916
+  _title: "Standing in Your Shoes: External Assessments for Personalized Recommender Systems"
+  _first_author: Hongyu Lu
+
+- id: doi:10.1007/s11704-020-9159-0
+  _title: "Information retrieval: a view from the Chinese IR community"
+  _first_author: Zhumin Chen
+
+- id: doi:10.1016/j.aiopen.2021.02.003
+  _title: "User behavior modeling for Web search evaluation"
+  _first_author: Fan Zhang
+
+- id: doi:10.1145/3448127
+  _title: "A Hybrid Framework for Session Context Modeling"
+  _first_author: Jia Chen
+
+- id: doi:10.1145/3442381.3449918
+  _title: "Constructing a Comparison-based Click Model for Web Search"
+  _first_author: Ruizhe Zhang
+
+- id: doi:10.1145/3442381.3449943
+  _title: "Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation"
+  _first_author: Xiangsheng Li
+
+- id: doi:10.1145/3442381.3450127
+  _title: "Towards a Better Understanding of Query Reformulation Behavior in Web Search"
+  _first_author: Jia Chen
+
+- id: doi:10.1145/3437963.3441802
+  _title: "Temporal Cross-Effects in Knowledge Tracing"
+  _first_author: Chenyang Wang
+
