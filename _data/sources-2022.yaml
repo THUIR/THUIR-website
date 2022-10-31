@@ -13,3 +13,83 @@
 - id: doi:10.1145/3511808.3557312
   _title: "Evaluating Interpolation and Extrapolation Performance of Neural Retrieval Models"
   _first_author: Jingtao Zhan
+
+- id: doi:10.1145/3503161.3548258
+  _title: "Brain Topography Adaptive Network for Satisfaction Modeling in Interactive Information Access System"
+  _first_author: Ziyi Ye
+
+- id: doi:10.1145/3477495.3532082
+  _title: "Why Don't You Click: Understanding Non-Click Results in Web Search with Brain Signals"
+  _first_author: Ziyi Ye
+
+- id: doi:10.1145/3477495.3531998
+  _title: "Incorporating Retrieval Information into the Truncation of Ranking Lists for Better Legal Search"
+  _first_author: Yixiao Ma
+
+- id: doi:10.1145/3477495.3531943
+  _title: "Axiomatically Regularized Pre-training for Ad hoc Search"
+  _first_author: Jia Chen
+
+- id: doi:10.1007/s13042-022-01523-9
+  _title: "Investigating human reading behavior during sentiment judgment"
+  _first_author: Xuesong Chen
+
+- id: doi:10.1145/3527546.3527570
+  _title: "Report on the 15th Round of NII Testbeds and Community for Information Access Research (NTCIR-15)"
+  _first_author: Makoto P. Kato
+
+- id: doi:10.1145/3485447.3511950
+  _title: "Global or Local: Constructing Personalized Click Models for Web Search"
+  _first_author: Junqi Zhang
+
+- id: doi:10.1145/3485447.3511966
+  _title: "Towards a Better Understanding of Human Reading Comprehension with Brain Signals"
+  _first_author: Ziyi Ye
+
+- id: doi:10.1145/3511469
+  _title: "User Behavior Simulation for Search Result Re-ranking"
+  _first_author: Junqi Zhang
+
+- id: doi:10.1007/s43674-021-00028-2
+  _title: "From linear to non-linear: investigating the effects of right-rail results on complex SERPs"
+  _first_author: Yunqiu Shao
+
+- id: doi:10.1145/3488560.3502185
+  _title: "Web Search via an Efficient and Effective Brain-Machine Interface"
+  _first_author: Xuesong Chen
+
+- id: doi:10.1145/3488560.3498516
+  _title: "A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced Automatic Query Reformulation"
+  _first_author: Xiangsheng Li
+
+- id: doi:10.1145/3488560.3498443
+  _title: "Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval"
+  _first_author: Jingtao Zhan
+
+- id: doi:10.1007/s11704-020-0016-y
+  _title: "Understanding the Role of Human-Inspired Heuristics for Retrieval Models"
+  _first_author: Xiangsheng Li
+
+- id: doi:10.48550/arXiv.2204.02027
+  _title: "A Survey on Dropout Methods and Experimental Verification in Recommendation"
+  _first_author: Yangkun Li
+
+- id: doi:10.1145/3547333
+  _title: "A Survey on the Fairness of Recommender Systems"
+  _first_author: Yifan Wang
+
+- id: doi:10.1145/3534678.3539354
+  _title: "Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-distribution"
+  _first_author: Jiayin Wang
+
+- id: doi:10.1145/3534678.3539253
+  _title: "Towards Representation Alignment and Uniformity in Collaborative Filtering"
+  _first_author: Chenyang Wang
+
+- id: doi:10.1145/3485447.3511997
+  _title: "Recommendation Unlearning"
+  _first_author: Chong Chen
+
+- id: doi:10.1145/3485447.3512023
+  _title: "Explainable Neural Rule Learning"
+  _first_author: Shaoyun Shi
