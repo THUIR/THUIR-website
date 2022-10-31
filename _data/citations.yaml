@@ -363,3 +363,97 @@
   _title: Understanding the Role of Human-Inspired Heuristics for Retrieval Models
   _first_author: Xiangsheng Li
   _cache: 51023f31e4e775844b8b2a6b43d85580c707454f0efa42e923b7380a8b711dcb
+- id: doi:10.48550/arXiv.2204.02027
+  title: A Survey on Dropout Methods and Experimental Verification in Recommendation
+  authors:
+  - Yangkun Li
+  - Weizhi Ma
+  - Chong Chen
+  - Min Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  - Yuekui Yang
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gq5r42
+  _title: A Survey on Dropout Methods and Experimental Verification in Recommendation
+  _first_author: Yangkun Li
+  _cache: ec06d6125d42d75bd67701caf6576f63215361dddf325ab0e0f9d966ff968a58
+- id: doi:10.1145/3547333
+  title: A Survey on the Fairness of Recommender Systems
+  authors:
+  - Yifan Wang
+  - Weizhi Ma
+  - Min Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2022-07-09'
+  link: https://doi.org/gq5r43
+  _title: A Survey on the Fairness of Recommender Systems
+  _first_author: Yifan Wang
+  _cache: 61999e35f2ef5cd56dab241a17a0a5a5d15ce07954cfe9ae3df0faff4a521345
+- id: doi:10.1145/3534678.3539354
+  title: Make Fairness More Fair
+  authors:
+  - Jiayin Wang
+  - Weizhi Ma
+  - Jiayu Li
+  - Hongyu Lu
+  - Min Zhang
+  - Biao Li
+  - Yiqun Liu
+  - Peng Jiang
+  - Shaoping Ma
+  publisher: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2022-08-14'
+  link: https://doi.org/gq5r44
+  _title: 'Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-distribution'
+  _first_author: Jiayin Wang
+  _cache: b5efdbd47d4da764083050cfdd0a5e8f43fa6db06a2691ec0a9ebaf9f5c948fd
+- id: doi:10.1145/3534678.3539253
+  title: Towards Representation Alignment and Uniformity in Collaborative Filtering
+  authors:
+  - Chenyang Wang
+  - Yuanqing Yu
+  - Weizhi Ma
+  - Min Zhang
+  - Chong Chen
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2022-08-14'
+  link: https://doi.org/gq5r46
+  _title: Towards Representation Alignment and Uniformity in Collaborative Filtering
+  _first_author: Chenyang Wang
+  _cache: a40fe2a70fa8634dd52c9cceb3f3f4f4917cb1f1aacc65bf3f90f3bd477c7a02
+- id: doi:10.1145/3485447.3511997
+  title: Recommendation Unlearning
+  authors:
+  - Chong Chen
+  - Fei Sun
+  - Min Zhang
+  - Bolin Ding
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-25'
+  link: https://doi.org/gq5r47
+  _title: Recommendation Unlearning
+  _first_author: Chong Chen
+  _cache: 256a93e2557964f717cbffbb11dda9f4e05a09fdac04a15a4c0202732775d49c
+- id: doi:10.1145/3485447.3512023
+  title: Explainable Neural Rule Learning
+  authors:
+  - Shaoyun Shi
+  - Yuexiang Xie
+  - Zhen Wang
+  - Bolin Ding
+  - Yaliang Li
+  - Min Zhang
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-25'
+  link: https://doi.org/gq5r48
+  _title: Explainable Neural Rule Learning
+  _first_author: Shaoyun Shi
+  _cache: b9aa35fe5cabc1b98b0f5f931d3a300268a1c814b44aade20f1ef071afbb3273
