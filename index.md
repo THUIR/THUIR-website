@@ -83,9 +83,9 @@ THUIR实验室现有研究生导师4人，在读博士及硕士近30人。在过
 %}
 
 {% capture text %}
-THUIR has opensourced a couple of tools and large-scale datasets, including but not limited to XXX
+THUIR and its collaborators has opensourced a couple of tools and large-scale datasets, including but not limited to [ReChorus](https://github.com/THUIR/ReChorus), [ULTRA](https://github.com/ULTR-Community), [Sogou-SRR](http://www.thuir.cn/data-srr/), [ZhihuRec](https://github.com/THUIR/ZhihuRec-Dataset), and many more.
 
-THUIR实验室现公开多个大规模信息检索数据及信息检索算法工具框架，其中包括XXX
+THUIR实验室及合作单位已公开多个大规模信息检索数据及信息检索算法工具框架，其中包括推荐算法工具包[ReChorus](https://github.com/THUIR/ReChorus)，无偏机器学习算法包[ULTRA](https://github.com/ULTR-Community)，搜狗搜索结果数据集[Sogou-SRR](http://www.thuir.cn/data-srr/)，知乎推荐数据集[ZhihuRec](https://github.com/THUIR/ZhihuRec-Dataset)等.
 
 
 {%
