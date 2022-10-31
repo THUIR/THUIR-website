@@ -18,25 +18,25 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ## Honor
 
-* ACM Distinguished Members，刘奕群，2022
+<!-- * ACM Distinguished Members，刘奕群，2022
 
 * "钱伟长中文信息处理科学技术奖"一等奖，刘奕群，王小川、张敏、许静芳、马少平、陈炜鹏、毛佳昕、王蟒、马为之，2020
 
-* IBM Global Faculty Award，张敏，2020
+* IBM Global Faculty Award，张敏，2020 -->
 
 
 
 
 
-<!-- {% include list.html component="content" data="awards" filters="group: featured" %} -->
+{% include list.html component="awards" data="awards" filters="group: honor" style="rich"%}
 
 {% include section.html %}
 
 ## Awards
 
-<!-- {% include list.html component="card" data="tools" filters="group: more" style="small" %} -->
+{% include list.html component="awards" data="awards" filters="group: awards" style="rich" %}
 
-* 詹靖涛同学获得国际会议 WSDM2022 最佳论文奖
+<!-- * 詹靖涛同学获得国际会议 WSDM2022 最佳论文奖
 * 陈冲同学获得2021年百度奖学金
 * 陈冲同学获得2021年字节跳动奖学金
 * 陈冲、吴之璟同学获得2021年微软学者提名
@@ -50,4 +50,4 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 * 毛佳昕同学获得国际会议 ECIR2017 最佳博士生论坛论文奖
 * 姚婷同学获得国际会议 AIRS2011 最佳论文奖提名
 * 王超同学，SIGIR最佳论文提名
-* 张永锋同学，微软学者（2015）、西贝尔学者（2015）、百度奖学金（2014）、IBM学者（2014）、谷歌奖学金（2012）
+* 张永锋同学，微软学者（2015）、西贝尔学者（2015）、百度奖学金（2014）、IBM学者（2014）、谷歌奖学金（2012） -->

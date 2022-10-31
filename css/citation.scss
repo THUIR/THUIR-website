@@ -39,6 +39,21 @@
     }
   }
 
+  .citation_image_small {
+    width: 80px;
+    height: 80px;
+    max-width: 100%;
+    flex-shrink: 0;
+    overflow: hidden;
+    box-shadow: $shadow;
+
+    img {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
   .citation_text {
     display: flex;
     justify-content: flex-start;
