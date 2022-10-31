@@ -79,10 +79,10 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2020-04-03'
   link: https://doi.org/gjqsx6
-  _title: "Ef\uFB01cient Heterogeneous Collaborative Filtering without Negative Sampling\
-    \ for Recommendation"
+  _title: Efficient Heterogeneous Collaborative Filtering without Negative Sampling
+    for Recommendation
   _first_author: Chong Chen
-  _cache: 367c4ce09d3b35d4a9a0515e7e0e39052d463af46e80926a3582195314915ab5
+  _cache: 9c1ffaaad00448ac1c3710e3c1c5b9f4f3492b716d7a2b78a901d477c7e812e8
 - id: doi:10.1145/3373807
   title: Efficient Neural Matrix Factorization without Sampling for Recommendation
   authors:
@@ -352,6 +352,57 @@
   _title: A Context-Aware Click Model for Web Search
   _first_author: Jia Chen
   _cache: bcd902d3ec2f8fef3bfe6205c9e15361aaf19eb529333b3ad50e88ec0965532a
+- id: doi:10.1145/3336191.3371797
+  title: Investigating Examination Behavior in Mobile Search
+  authors:
+  - Yukun Zheng
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Mark Sanderson
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 13th International Conference on Web Search and Data
+    Mining
+  date: '2020-01-20'
+  link: https://doi.org/gq5sgs
+  _title: Investigating Examination Behavior in Mobile Search
+  _first_author: Yukun Zheng
+  _cache: a4a82d319c4a7e251a4c85583fbe20a8e8fadf7671d2a2a7beb0821fd3f6f61f
+- id: doi:10.1145/3340531.3411949
+  title: Neural Logic Reasoning
+  authors:
+  - Shaoyun Shi
+  - Hanxiong Chen
+  - Weizhi Ma
+  - Jiaxin Mao
+  - Min Zhang
+  - Yongfeng Zhang
+  publisher: Proceedings of the 29th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2020-10-19'
+  link: https://doi.org/ghn7fw
+  _title: Neural Logic Reasoning
+  _first_author: Shaoyun Shi
+  _cache: 0f24baf9117ca8d8936396334efd7cc39737fb72a5414a88201fe6dc41d7b446
+- id: doi:10.1145/3340531.3411957
+  title: Learning Better Representations for Neural Information Retrieval with Graph
+    Information
+  authors:
+  - Xiangsheng Li
+  - Maarten de Rijke
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Weizhi Ma
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 29th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2020-10-19'
+  link: https://doi.org/gq5sf9
+  _title: Learning Better Representations for Neural Information Retrieval with Graph
+    Informatio
+  _first_author: Xiangsheng Li
+  _cache: f15ee2c0a18b132f060344e791e5378c4b12809a5be03fa77e63106201f1a015
 - id: doi:10.1145/3336191.3371797
   title: Investigating Examination Behavior in Mobile Search
   authors:
