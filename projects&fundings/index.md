@@ -16,12 +16,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## Featured
+## Funds
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: funds" style="small"%}
 
 {% include section.html %}
 
-## More
+## Projects
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="projects" data="projects" filters="group: projects" style="rich" %}

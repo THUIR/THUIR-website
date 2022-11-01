@@ -1,0 +1,103 @@
+
+- title: ACM Distinguished Members&nbsp; · &nbsp;2022
+  group: honor
+  image: images/company/funds.jpg
+  people: 刘奕群
+
+- title: “钱伟长中文信息处理科学技术奖”一等奖&nbsp; · &nbsp;2020
+  group: honor
+  image: images/company/funds.jpg
+  people: 刘奕群，王小川、张敏、许静芳、马少平、陈炜鹏、毛佳昕、王蟒、马为之
+
+- title: IBM Global Faculty Award&nbsp; · &nbsp;2020
+  group: honor
+  image: images/company/funds.jpg
+  people: 张敏
+
+
+
+- title: 国际会议 WSDM2022 最佳论文奖
+  group: awards
+  image: images/company/wsdm.jpg
+  people: 詹靖涛
+  # paper: Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval
+  # extra-links:
+  # - type: preprint
+  #   link: https://arxiv.org/pdf/2110.05789.pdf
+
+
+- title: 2021年百度奖学金
+  group: awards
+  image: images/company/funds.jpg
+  people: 陈冲
+
+- title: 2021字节跳动奖学金
+  group: awards
+  image: images/company/bytedance.jpg
+  people: 陈冲
+
+- title: 2021年微软学者提名
+  group: awards
+  image: images/company/msra.jpg
+  people: 
+    - 陈冲
+    - 吴之璟
+
+- title: 2020年微软学者提名
+  group: awards
+  image: images/company/msra.jpg
+  people: 卢泓宇
+
+- title: 国际会议 SIGIR2020 最佳论文奖
+  group: awards
+  image: images/company/sigir2020.jpg
+  people: 张帆
+
+- title: 国际会议 ICTIR2019 最佳论文奖
+  group: awards
+  image: images/company/funds.jpg
+  people: 储著敏
+  # paper: TODO
+  # extra-links:
+  # - type: preprint
+  #   link: https://arxiv.org/pdf/2110.05789.pdf
+
+- title: 国际会议 SIGIR2018 最佳论文奖
+  group: awards
+  image: images/company/sigir2018.jpg
+  people: 刘梦旸
+
+- title: 国际会议 CIKM2018 最佳论文奖
+  group: awards
+  image: images/company/cikm2018.jpg
+  people: 张俊祺
+
+- title: 国际会议 AIRS2018 最佳论文奖
+  group: awards
+  image: images/company/funds.jpg
+  people: 李祥圣
+
+- title: 国际会议 AIRS2018 最佳论文奖(提名)
+  group: awards
+  image: images/company/funds.jpg
+  people: 陈冲
+
+- title: 国际会议 SIGIR2017 最佳学生论文奖
+  group: awards
+  image: images/company/funds.jpg
+  people: 张帆
+
+- title: 国际会议 ECIR2017 最佳博士生论坛论文奖
+  group: awards
+  image: images/company/funds.jpg
+  people: 毛佳昕
+
+- title: 国际会议 AIRS2011 最佳论文奖(提名)
+  group: awards
+  image: images/company/funds.jpg
+  people: 姚婷
+
+- title: 国际会议 SIGIR 最佳论文奖(提名)
+  group: awards
+  image: images/company/funds.jpg
+  people: 王超
