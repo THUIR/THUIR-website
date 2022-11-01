@@ -8,16 +8,24 @@ postdoc:
 
 phd:
   icon: fas fa-graduation-cap
-  text: PhD Student
+  text: Ph.D. Student
 
-undergrad:
+master:
   icon: fas fa-user-graduate
-  text: Undergraduate Student
+  text: Master Student
 
 programmer:
   icon: fas fa-code
   text: Programmer
 
-mascot:
-  icon: fas fa-dog
-  text: Mascot
+engineer:
+  icon: fas fa-database
+  text: Engineer
+
+staff:
+  icon: far fa-clipboard
+  text: Staff
+
+pm:
+  icon: far fa-object-group
+  text: Project Manager

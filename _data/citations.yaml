@@ -1,67 +1,1227 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1145/3331184.3331192
+  title: An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Chong Chen
+  - Min Zhang
+  - Chenyang Wang
+  - Weizhi Ma
+  - Minming Li
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 42nd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2019-07-18'
+  link: https://doi.org/gq439k
+  image: https://s2.loli.net/2022/10/27/voPpnRds8YqGaSJ.png
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - type: source
+    link: https://github.com/chenchongthu/enmf
+  _title: An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+  _first_author: Chong Chen
+  _cache: 59b1615980ac093c0b77a0fb1d860bf4429147d6a0ba9d7cd6a025be228546f0
+- id: doi:10.1145/3483382.3483387
+  title: Challenges in designing a brain-machine search interface
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Xiaohui Xie
+  - Min Zhang
+  - Shaoping Ma
+  publisher: ACM SIGIR Forum
+  date: '2020-12-01'
+  link: https://doi.org/gq5m9n
+  _title: Challenges in designing a brain-machine search interface
+  _first_author: Yiqun Liu
+  _cache: 3f77c4dc21ba5b7daa5ebb28a6caa358f33a8eda8e72d704e53ae62aee977622
+- id: doi:10.1145/3483382.3483387
+  title: Challenges in designing a brain-machine search interface
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Xiaohui Xie
+  - Min Zhang
+  - Shaoping Ma
+  publisher: ACM SIGIR Forum
+  date: '2020-12-01'
+  link: https://doi.org/gq5m9n
+  _title: Challenges in Designing a Brain-Machine Search Interface
+  _first_author: Yiqun Liu
+  _cache: 2953635a198c2da9785e27eb1b2cc77db52823e65367e3f7a76f7b81fc1c4606
+- id: doi:10.1145/3432244
+  title: Toward Dynamic User Intention
+  authors:
+  - Chenyang Wang
+  - Weizhi Ma
+  - Min Zhang
+  - Chong Chen
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2021-04-30'
+  link: https://doi.org/gjsp6d
+  _title: 'Towards Dynamic User Intention: Temporal Evolutionary Effects of Item Relations
+    in Sequential Recommendation'
+  _first_author: Chenyang Wang
+  _cache: 38a131f3f73781facbeb25536fe3daa97b61c7ca81d255a45ea5e445b331efc9
+- id: doi:10.1609/aaai.v34i01.5329
+  title: Efficient Heterogeneous Collaborative Filtering without Negative Sampling
+    for Recommendation
+  authors:
+  - Chong Chen
+  - Min Zhang
+  - Yongfeng Zhang
+  - Weizhi Ma
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2020-04-03'
+  link: https://doi.org/gjqsx6
+  _title: Efficient Heterogeneous Collaborative Filtering without Negative Sampling
+    for Recommendation
+  _first_author: Chong Chen
+  _cache: 9c1ffaaad00448ac1c3710e3c1c5b9f4f3492b716d7a2b78a901d477c7e812e8
+- id: doi:10.1145/3373807
+  title: Efficient Neural Matrix Factorization without Sampling for Recommendation
+  authors:
+  - Chong Chen
+  - Min Zhang
+  - Yongfeng Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2020-03-18'
+  link: https://doi.org/gq5sf7
+  _title: Efficient Neural Matrix Factorization without Sampling for Recommendation
+  _first_author: Chong Chen
+  _cache: 1050c2e3b1c79dac5f61e3df72d1fa66775ac8ddd141d3c9ff3a05d4bec0bb2e
+- id: doi:10.1002/pra2.424
+  title: "Investigating\n            <scp>COVID\u201019\u2010Related</scp>\n     \
+    \       query logs of Chinese search engine users"
+  authors:
+  - Ziyi Ye
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the Association for Information Science and Technology
+  date: '2020-10-01'
+  link: https://doi.org/gq5sf8
+  _title: Investigating COVID-19-Related Query Logs of Chinese Search Engine Users.
+    Poster
+  _first_author: Ziyi Ye
+  _cache: 81e3284dafae8130ef56b2e3e8f5f065e55bae1d287e90508cb5acdd00c6ea0f
+- id: doi:10.1145/3340531.3411957
+  title: Learning Better Representations for Neural Information Retrieval with Graph
+    Information
+  authors:
+  - Xiangsheng Li
+  - Maarten de Rijke
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Weizhi Ma
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 29th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2020-10-19'
+  link: https://doi.org/gq5sf9
+  _title: Learning Better Representations for Neural Information Retrieval with Graph
+    Information
+  _first_author: Xiangsheng Li
+  _cache: 7158e9395f43f60fd5ef8a20b2ec562c57929d1214d4f4486c9ecbf1031e668e
+- id: doi:10.1145/3340531.3412094
+  title: An Empirical Study on Clarifying Question-Based Systems
+  authors:
+  - Jie Zou
+  - Evangelos Kanoulas
+  - Yiqun Liu
+  publisher: Proceedings of the 29th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2020-10-19'
+  link: https://doi.org/gq5sgb
+  _title: An Empirical Study on Clarifying Question-Based Systems
+  _first_author: Jie Zou
+  _cache: ad2728b959517850220708a51cf02f91e92dafaccf819cd7d048f2582426c165
+- id: doi:10.1145/3397271.3401163
+  title: Cascade or Recency
+  authors:
+  - Fan Zhang
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Weizhi Ma
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/gq5sgc
+  _title: 'Cascade or Recency: Constructing Better Evaluation Metrics for Session
+    Search'
+  _first_author: Fan Zhang
+  _cache: 0516d5fb33fca59a695ec704665cab153a22d7c948d2e6624faee669d5a24698
+- id: doi:10.1145/3397271.3401162
+  title: Models Versus Satisfaction
+  authors:
+  - Fan Zhang
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Xiaohui Xie
+  - Weizhi Ma
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/gg6cd3
+  _title: ' Models Versus Satisfaction: Towards a Better Understanding of Evaluation
+    Metrics'
+  _first_author: Fan Zhang
+  _cache: 4ad4aadb85ac19791bbda7f2949ab1717d8812fc4f36143b4c9cbfab2d8a1260
+- id: doi:10.1145/3397271.3401146
+  title: Preference-based Evaluation Metrics for Web Image Search
+  authors:
+  - Xiaohui Xie
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Maarten de Rijke
+  - Haitian Chen
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/gq5sgf
+  _title: Preference-based Evaluation Metrics for Web Image Search
+  _first_author: Xiaohui Xie
+  _cache: acaa62c6763fc0b4bd99724fe313d1fd169ceafa30b3e5370a9250001c531a8d
+- id: doi:10.1145/3397271.3401040
+  title: Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation
+  authors:
+  - Chong Chen
+  - Min Zhang
+  - Weizhi Ma
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/ghng5x
+  _title: Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation
+  _first_author: Chong Chen
+  _cache: 81aa422093a503263be15417c41452d09e846df1c47af16ebfd62c97016e695a
+- id: doi:10.1145/3397271.3401131
+  title: Make It a Chorus
+  authors:
+  - Chenyang Wang
+  - Min Zhang
+  - Weizhi Ma
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/gjsp4k
+  _title: 'Make It a Chorus: Knowledge- and Time-aware Item Modeling for Sequential
+    Recommendation'
+  _first_author: Chenyang Wang
+  _cache: 7087c9fda2471c5bbaf63050fcd2731f1979f7bd3ec98b7e7defae2f43730196
+- id: doi:10.1145/3397271.3401119
+  title: Beyond User Embedding Matrix
+  authors:
+  - Shaoyun Shi
+  - Weizhi Ma
+  - Min Zhang
+  - Yongfeng Zhang
+  - Xinxing Yu
+  - Houzhi Shan
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/gm8td8
+  _title: 'Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale
+    Users in Recommendation'
+  _first_author: Shaoyun Shi
+  _cache: 3cd208ed5ef776e938e906ac0e1ceaab0eba74e8c5294f87f3df4c964de20b61
+- id: doi:10.1145/3397271.3401305
+  title: Investigating Reading Behavior in Fine-grained Relevance Judgment
+  authors:
+  - Zhijing Wu
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/gq5sgh
+  _title: Investigating Reading Behavior in Fine-grained Relevance Judgment
+  _first_author: Zhijing Wu
+  _cache: 577624cbe2020d8a4279daddff3e8ebffae8cc72a748ab98f8ccf85eb992eff9
+- id: doi:10.1145/3397271.3401325
+  title: An Analysis of BERT in Document Ranking
+  authors:
+  - Jingtao Zhan
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 43rd International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2020-07-25'
+  link: https://doi.org/gq5sgk
+  _title: An Analysis of BERT in Document Ranking
+  _first_author: Jingtao Zhan
+  _cache: a8b0d68087e3122f96ee26b99453e1322609bbc037031d71cbd2e057ef89c15c
+- id: doi:10.24963/ijcai.2020/484
+  title: 'BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval'
+  authors:
+  - Yunqiu Shao
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Weizhi Ma
+  - Ken Satoh
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the Twenty-Ninth International Joint Conference on Artificial
+    Intelligence
+  date: '2020-07-01'
+  link: https://doi.org/gq5sgm
+  _title: 'BERT-PLI: Modeling Paragraph-Level Interactions for Legal Case Retrieval'
+  _first_author: Yunqiu Shao
+  _cache: 1c29e09dfe598aec973c5f20c2fb4965cd1083e0b4a2c6b49479507e72ab3794
+- id: doi:10.1145/3352683.3352686
+  title: '"Revisiting information retrieval tasks with user behavior models" by Yiqun
+    Liu and Jiaxin Mao with Martin Vesely as coordinator'
+  authors:
+  - Yiqun Liu
+  - Jiaxin Mao
+  publisher: ACM SIGWEB Newsletter
+  date: '2020-02-13'
+  link: https://doi.org/gq5sgp
+  _title: Revisiting information retrieval tasks with user behavior models
+  _first_author: Yiqun Liu
+  _cache: 94d9195304d3162a2eb04b8aa1a1580713415e01b7f3b2bc631420b409bf2cf7
+- id: doi:10.1145/3366423.3380305
+  title: Leveraging Passage-level Cumulative Gain for Document Ranking
+  authors:
+  - Zhijing Wu
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Jingtao Zhan
+  - Yukun Zheng
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of The Web Conference 2020
+  date: '2020-04-19'
+  link: https://doi.org/gq5sgq
+  _title: Leveraging Passage-level Cumulative Gain for Document Ranking
+  _first_author: Zhijing Wu
+  _cache: 9e679c09d2a5b6cde315dd6440119b03433def2052e66b9b38cbc5ed3ce1c6c2
+- id: doi:10.1145/3366423.3380303
+  title: Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation
+  authors:
+  - Chong Chen
+  - Min Zhang
+  - Weizhi Ma
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of The Web Conference 2020
+  date: '2020-04-19'
+  link: https://doi.org/gq5sgr
+  _title: Efficient Non-Sampling Factorization Machines for Optimal Context-Aware
+    Recommendation
+  _first_author: Chong Chen
+  _cache: c3554b9f1b8a5d08519b087f0f397128a03a3efab49ef7c94fe10812a62b886c
+- id: doi:10.1145/3336191.3371819
+  title: A Context-Aware Click Model for Web Search
+  authors:
+  - Jia Chen
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 13th International Conference on Web Search and Data
+    Mining
+  date: '2020-01-20'
+  link: https://doi.org/gnfjk6
+  _title: A Context-Aware Click Model for Web Search
+  _first_author: Jia Chen
+  _cache: bcd902d3ec2f8fef3bfe6205c9e15361aaf19eb529333b3ad50e88ec0965532a
+- id: doi:10.1145/3336191.3371797
+  title: Investigating Examination Behavior in Mobile Search
+  authors:
+  - Yukun Zheng
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Mark Sanderson
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 13th International Conference on Web Search and Data
+    Mining
+  date: '2020-01-20'
+  link: https://doi.org/gq5sgs
+  _title: Investigating Examination Behavior in Mobile Search
+  _first_author: Yukun Zheng
+  _cache: a4a82d319c4a7e251a4c85583fbe20a8e8fadf7671d2a2a7beb0821fd3f6f61f
+- id: doi:10.1145/3340531.3411949
+  title: Neural Logic Reasoning
+  authors:
+  - Shaoyun Shi
+  - Hanxiong Chen
+  - Weizhi Ma
+  - Jiaxin Mao
+  - Min Zhang
+  - Yongfeng Zhang
+  publisher: Proceedings of the 29th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2020-10-19'
+  link: https://doi.org/ghn7fw
+  _title: Neural Logic Reasoning
+  _first_author: Shaoyun Shi
+  _cache: 0f24baf9117ca8d8936396334efd7cc39737fb72a5414a88201fe6dc41d7b446
+- id: doi:10.1145/3340531.3411957
+  title: Learning Better Representations for Neural Information Retrieval with Graph
+    Information
+  authors:
+  - Xiangsheng Li
+  - Maarten de Rijke
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Weizhi Ma
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 29th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2020-10-19'
+  link: https://doi.org/gq5sf9
+  _title: Learning Better Representations for Neural Information Retrieval with Graph
+    Informatio
+  _first_author: Xiangsheng Li
+  _cache: f15ee2c0a18b132f060344e791e5378c4b12809a5be03fa77e63106201f1a015
+- id: doi:10.1145/3336191.3371797
+  title: Investigating Examination Behavior in Mobile Search
+  authors:
+  - Yukun Zheng
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Mark Sanderson
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 13th International Conference on Web Search and Data
+    Mining
+  date: '2020-01-20'
+  link: https://doi.org/gq5sgs
+  _title: Investigating Examination Behavior in Mobile Search
+  _first_author: Yukun Zheng
+  _cache: a4a82d319c4a7e251a4c85583fbe20a8e8fadf7671d2a2a7beb0821fd3f6f61f
+- id: doi:10.1145/3459637.3482428
+  title: Evaluating Relevance Judgments with Pairwise Discriminative Power
+  authors:
+  - Zhumin Chu
+  - Jiaxin Mao
+  - Fan Zhang
+  - Yiqun Liu
+  - Tetsuya Sakai
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 30th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2021-10-26'
+  link: https://doi.org/gq5m9q
+  _title: Evaluating Relevance Judgments with Pairwise Discriminative Power
+  _first_author: Zhumin Chu
+  _cache: 076ba031600457de111a66100f3042e197cd5487d45381d96e65310eca31f31a
+- id: doi:10.1145/3459637.3482358
+  title: Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval
+    Performance
+  authors:
+  - Jingtao Zhan
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Jiafeng Guo
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 30th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2021-10-26'
+  link: https://doi.org/gnrsz4
+  _title: Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval
+    Performance
+  _first_author: Jingtao Zhan
+  _cache: 20011463f9eb3313875abb8b480f47f3ce3d9b496498b7baa8097bdcecfe2f2d
+- id: doi:10.1145/3459637.3482438
+  title: Incorporating Query Reformulating Behavior into Web Search Evaluation
+  authors:
+  - Jia Chen
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Fan Zhang
+  - Tetsuya Sakai
+  - Weizhi Ma
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 30th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2021-10-26'
+  link: https://doi.org/gnrsz5
+  _title: Incorporating Query Reformulating Behavior into Web Search Evaluation
+  _first_author: Jia Chen
+  _cache: c25205ed9f0d1a67b659383f23001e60af141bb290e617919ede8d200c9a3fe6
+- id: doi:https://doi.org/10.1145/3404835.3463064
+  title: 'Conversational vs Traditional: Comparing Search Behavior and Outcome in
+    Legal Case Retrieval'
+  authors:
+  - Bulou Liu
+  - Yueyue Wu
+  - Yiqun Liu
+  - Fan Zhang
+  - Yunqiu Shao
+  - Chenliang Li
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gq5sbt
+  _title: 'Conversational vs Traditional: Comparing Search Behavior and Outcome in
+    Legal Case Retrieval'
+  _first_author: Bulou Liu
+  _cache: d2cb43b2601efdb932df965da534c350792107e25ec59bfcbc78ba040263d585
+- id: doi:10.1145/3404835.3463107
+  title: Investigating Session Search Behavior with Knowledge Graphs
+  authors:
+  - Xiangsheng Li
+  - Maarten de Rijke
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Weizhi Ma
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gq5sbv
+  _title: Investigating Session Search Behavior with Knowledge Graphs
+  _first_author: Xiangsheng Li
+  _cache: dc35b115f7877f3a632bd47bd73dac2f28a10c66c8836019f00fd5b3c179ae77
+- id: doi:10.1145/3404835.3463250
+  title: 'LeCaRD: A Legal Case Retrieval Dataset for Chinese Law System'
+  authors:
+  - Yixiao Ma
+  - Yunqiu Shao
+  - Yueyue Wu
+  - Yiqun Liu
+  - Ruizhe Zhang
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gpstws
+  _title: 'LeCaRD: A Legal Case Retrieval Dataset for Chinese Law System'
+  _first_author: Yixiao Ma
+  _cache: 8865eb34d4afe99e6b4e0adf9531a36b24af36f239ee58703963633d3815fab9
+- id: doi:10.1145/3404835.3462880
+  title: Optimizing Dense Retrieval Model Training with Hard Negatives
+  authors:
+  - Jingtao Zhan
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Jiafeng Guo
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gmpcgs
+  _title: Optimizing Dense Retrieval Model Training with Hard Negatives
+  _first_author: Jingtao Zhan
+  _cache: a1fc41404f1de6dd08f53078a6a1d405b52a423e88a54e61e10c8cd65e4653a5
+- id: doi:10.1145/3404835.3462876
+  title: Investigating User Behavior in Legal Case Retrieval
+  authors:
+  - Yunqiu Shao
+  - Yueyue Wu
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gq5sbw
+  _title: Investigating User Behavior in Legal Case Retrieval
+  _first_author: Yunqiu Shao
+  _cache: b61cff924720b3484b7e2230d4db2823d896571a287bbfd1ef151ddb48f5dcf4
+- id: doi:10.1145/3404835.3462916
+  title: 'Standing in Your Shoes: External Assessments for Personalized Recommender
+    Systems'
+  authors:
+  - Hongyu Lu
+  - Weizhi Ma
+  - Min Zhang
+  - Maarten de Rijke
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gq5sbx
+  _title: 'Standing in Your Shoes: External Assessments for Personalized Recommender
+    Systems'
+  _first_author: Hongyu Lu
+  _cache: d37730baf48c6231c6841ff15aeee8d8f285b72c6f9842fa2140cd3660aedff0
+- id: doi:10.1007/s11704-020-9159-0
+  title: 'Information retrieval: a view from the Chinese IR community'
+  authors:
+  - Zhumin Chen
+  - Xueqi Cheng
+  - Shoubin Dong
+  - Zhicheng Dou
+  - Jiafeng Guo
+  - Xuanjing Huang
+  - Yanyan Lan
+  - Chenliang Li
+  - Ru Li
+  - Tie-Yan Liu
+  - Yiqun Liu
+  - Jun Ma
+  - Bing Qin
+  - Mingwen Wang
+  - Jirong Wen
+  - Jun Xu
+  - Min Zhang
+  - Peng Zhang
+  - Qi Zhang
+  publisher: Frontiers of Computer Science
+  date: '2020-09-29'
+  link: https://doi.org/gq5sbz
+  _title: 'Information retrieval: a view from the Chinese IR community'
+  _first_author: Zhumin Chen
+  _cache: 213fcf6de801e3f84c99404d12967b9f3452dd29d9ee41c1bbd604902f01fef0
+- id: doi:10.1016/j.aiopen.2021.02.003
+  title: User behavior modeling for Web search evaluation
+  authors:
+  - Fan Zhang
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Min Zhang
+  - Shaoping Ma
+  publisher: AI Open
+  date: '2020-01-01'
+  link: https://doi.org/gn8nzn
+  _title: User behavior modeling for Web search evaluation
+  _first_author: Fan Zhang
+  _cache: 3104c33d6ee486a9cd72c5a9dc3ed4248effed4ce6a7d853b99a6cb86c44e29f
+- id: doi:10.1145/3448127
+  title: A Hybrid Framework for Session Context Modeling
+  authors:
+  - Jia Chen
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Ziyi Ye
+  - Weizhi Ma
+  - Chao Wang
+  - Min Zhang
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2021-07-26'
+  link: https://doi.org/gq5sb2
+  _title: A Hybrid Framework for Session Context Modeling
+  _first_author: Jia Chen
+  _cache: f7c4a0800cf6749bf70b0288a7788ec2bf102d82744a3b59520a4cfa68de2de9
+- id: doi:10.1145/3442381.3449918
+  title: Constructing a Comparison-based Click Model for Web Search
+  authors:
+  - Ruizhe Zhang
+  - Xiaohui Xie
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the Web Conference 2021
+  date: '2021-04-19'
+  link: https://doi.org/gnnd8f
+  _title: Constructing a Comparison-based Click Model for Web Search
+  _first_author: Ruizhe Zhang
+  _cache: 5fa3fa396d2f4d6fa2b1a69978275574c747240f65286eec1d222e8202e4ef77
+- id: doi:10.1145/3442381.3449943
+  title: Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation
+  authors:
+  - Xiangsheng Li
+  - Jiaxin Mao
+  - Weizhi Ma
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  - Zhaowei Wang
+  - Xiuqiang He
+  publisher: Proceedings of the Web Conference 2021
+  date: '2021-04-19'
+  link: https://doi.org/gnnfdc
+  _title: Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation
+  _first_author: Xiangsheng Li
+  _cache: fa33acc73a9bdeebeb9f7dd0225525738c04d3bda791bbb398740d653cb9c449
+- id: doi:10.1145/3442381.3450127
+  title: Towards a Better Understanding of Query Reformulation Behavior in Web Search
+  authors:
+  - Jia Chen
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Fan Zhang
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the Web Conference 2021
+  date: '2021-04-19'
+  link: https://doi.org/gnnd9h
+  _title: Towards a Better Understanding of Query Reformulation Behavior in Web Search
+  _first_author: Jia Chen
+  _cache: 2505064e3d80bfa29bda62ee630a9adb7ae415a89c40195a273572c77d68f86b
+- id: doi:10.1145/3437963.3441802
+  title: Temporal Cross-Effects in Knowledge Tracing
+  authors:
+  - Chenyang Wang
+  - Weizhi Ma
+  - Min Zhang
+  - Chuancheng Lv
+  - Fengyuan Wan
+  - Huijie Lin
+  - Taoran Tang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 14th ACM International Conference on Web Search and
+    Data Mining
+  date: '2021-03-08'
+  link: https://doi.org/gjvhx4
+  _title: Temporal Cross-Effects in Knowledge Tracing
+  _first_author: Chenyang Wang
+  _cache: 17cbcacf88001ac484748dfd0adc366e729c45d891267cc659b70fa9f97b5c11
+- id: doi:10.3389/fdgth.2021.676824
+  title: 'Know Yourself: Physical and Psychological Self-Awareness With Lifelog'
+  authors:
+  - Jiayu Li
+  - Weizhi Ma
+  - Min Zhang
+  - Pengyu Wang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Frontiers in Digital Health
+  date: '2021-08-11'
+  link: https://doi.org/gq5sb3
+  _title: 'Know Yourself: Physical and Psychological Self-awareness with Lifelog'
+  _first_author: Jiayu Li
+  _cache: 51191bca304e593f5527a6d1e0c6f0fbc7511c49ff5b4debf904a929a73aa039
+- id: doi:10.1145/3459637.3482401
+  title: WG4Rec
+  authors:
+  - Shaoyun Shi
+  - Weizhi Ma
+  - Zhen Wang
+  - Min Zhang
+  - Kun Fang
+  - Jingfang Xu
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 30th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2021-10-26'
+  link: https://doi.org/gq5sb4
+  _title: 'WG4Rec: Modeling Textual Content with Word Graph for News Recommendation'
+  _first_author: Shaoyun Shi
+  _cache: 6d6a8057e69509bbdf5ef2c4a5040c88779b8e2bcce71185831f99755f3cec2f
+- id: doi:10.1145/3447548.3467277
+  title: A Difficulty-Aware Framework for Churn Prediction and Intervention in Games
+  authors:
+  - Jiayu Li
+  - Hongyu Lu
+  - Chenyang Wang
+  - Weizhi Ma
+  - Min Zhang
+  - Xiangyu Zhao
+  - Wei Qi
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery
+    &amp; Data Mining
+  date: '2021-08-14'
+  link: https://doi.org/gq5sb5
+  _title: A Difficulty-Aware Framework forChurn Prediction and Intervention in Games
+  _first_author: Jiayu Li
+  _cache: 7c483b41ef972dbceba1bbdfa8eaf0d3cd241b2c62039c4a6f65539d89bf264b
+- id: doi:10.1145/3469887
+  title: 'LegalGNN: Legal Information Enhanced Graph Neural Network for Recommendation'
+  authors:
+  - Jun Yang
+  - Weizhi Ma
+  - Min Zhang
+  - Xin Zhou
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2022-04-30'
+  link: https://doi.org/gq5sb6
+  _title: 'LegalGNN: Legal Information Enhanced Graph Neural Network for Recommendation'
+  _first_author: Jun Yang
+  _cache: 58b4f67a8efc2c217d7369f4e6066f3509e0404cbb040b1e471363528a4fdc2f
+- id: doi:10.1145/3404835.3462793
+  title: Privacy-Aware Remote Information Retrieval User Experiments Logging Tool
+  authors:
+  - Hanyu Li
+  - Hongyu Lu
+  - Songhao Huang
+  - Weizhi Ma
+  - Min Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gq5sb7
+  _title: Privacy-Aware Remote Information Retrieval User Experiments Logging Tool
+  _first_author: Hanyu Li
+  _cache: aac869fdb13b2682b5ad92b9a3133c34f695ee5220337d9f7a6e62d4ac463959
+- id: doi:10.1609/aaai.v35i5.16515
+  title: Graph Heterogeneous Multi-Relational Recommendation
+  authors:
+  - Chong Chen
+  - Weizhi Ma
+  - Min Zhang
+  - Zhaowei Wang
+  - Xiuqiang He
+  - Chenyang Wang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2021-05-18'
+  link: https://doi.org/gq5sb8
+  _title: Graph Heterogeneous Multi-Relational Recommendation
+  _first_author: Chong Chen
+  _cache: 274c92fa9f13ac5776dad4d1efd119c13f5ae8080e0876c41970560d854ac885
+- id: doi:10.1145/3437963.3441802
+  title: Temporal Cross-Effects in Knowledge Tracing
+  authors:
+  - Chenyang Wang
+  - Weizhi Ma
+  - Min Zhang
+  - Chuancheng Lv
+  - Fengyuan Wan
+  - Huijie Lin
+  - Taoran Tang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 14th ACM International Conference on Web Search and
+    Data Mining
+  date: '2021-03-08'
+  link: https://doi.org/gjvhx4
+  _title: Temporal Cross-Effects in Knowledge Tracing
+  _first_author: Chenyang Wang
+  _cache: 17cbcacf88001ac484748dfd0adc366e729c45d891267cc659b70fa9f97b5c11
+- id: doi:10.1145/3569929
+  title: Understanding Relevance Judgments in Legal Case Retrieval
+  authors:
+  - Yunqiu Shao
+  - Yueyue Wu
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2022-10-28'
+  link: https://doi.org/gq5nr9
+  _title: Understanding Relevance Judgments in Legal Case Retrieval
+  _first_author: Yunqiu Shao
+  _cache: 7c99d10479b238f54880c23554f8897ed2a6edf98c143d077d6579c110d5ce55
+- id: doi:10.1016/j.ipm.2022.103051
+  title: 'Query Generation and Buffer Mechanism: Towards a better conversational agent
+    for legal case retrieval'
+  authors:
+  - Bulou Liu
+  - Yueyue Wu
+  - Fan Zhang
+  - Yiqun Liu
+  - Zhihong Wang
+  - Chenliang Li
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Information Processing &amp; Management
+  date: '2022-09-01'
+  link: https://doi.org/gq5bk3
+  _title: 'Query Generation and Buffer Mechanism: Towards a better conversational
+    agent for legal case retrieval'
+  _first_author: Bulou Liu
+  _cache: 517450f1effb19db3af80e6dff3460dcaadd64b4fb26fe36862ba7d44cb14f63
+- id: doi:10.1007/s11390-022-2031-y
+  title: Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document
+    Ranking
+  authors:
+  - Zhi-Jing Wu
+  - Yi-Qun Liu
+  - Jia-Xin Mao
+  - Min Zhang
+  - Shao-Ping Ma
+  publisher: Journal of Computer Science and Technology
+  date: '2022-07-01'
+  link: https://doi.org/gq5bpm
+  _title: Leveraging Document-Level and Query-Level Passage Cumulative Gain for Document
+    Ranking
+  _first_author: Zhijing Wu
+  _cache: 64ca9e5f0d8b8ce872b80f1e029bf37be99ee11405099bb92b590def2e305d7a
+- id: doi:10.1145/3511808.3557312
+  title: Evaluating Interpolation and Extrapolation Performance of Neural Retrieval
+    Models
+  authors:
+  - Jingtao Zhan
+  - Xiaohui Xie
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Jiafeng Guo
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 31st ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2022-10-17'
+  link: https://doi.org/gq5nxh
+  _title: Evaluating Interpolation and Extrapolation Performance of Neural Retrieval
+    Models
+  _first_author: Jingtao Zhan
+  _cache: eddd1fd33f120795aee6c0e7897055d0dca82644272e362ae290f29d6a23d323
+- id: doi:10.1145/3503161.3548258
+  title: Brain Topography Adaptive Network for Satisfaction Modeling in Interactive
+    Information Access System
+  authors:
+  - Ziyi Ye
+  - Xiaohui Xie
+  - Yiqun Liu
+  - Zhihong Wang
+  - Xuesong Chen
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 30th ACM International Conference on Multimedia
+  date: '2022-10-10'
+  link: https://doi.org/gq5r2m
+  _title: Brain Topography Adaptive Network for Satisfaction Modeling in Interactive
+    Information Access System
+  _first_author: Ziyi Ye
+  _cache: a177d8124d4a7d9351ef27e2bf376ec25afee78c43582633fbf58b3c04e72565
+- id: doi:10.1145/3477495.3532082
+  title: Why Don't You Click
+  authors:
+  - Ziyi Ye
+  - Xiaohui Xie
+  - Yiqun Liu
+  - Zhihong Wang
+  - Xuancheng Li
+  - Jiaji Li
+  - Xuesong Chen
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 45th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2022-07-06'
+  link: https://doi.org/gq5r2n
+  _title: 'Why Don''t You Click: Understanding Non-Click Results in Web Search with
+    Brain Signals'
+  _first_author: Ziyi Ye
+  _cache: 26fe0b0915f3137129832bb3e9ce9a8a514e8d171907bad3f461f26507dddd3f
+- id: doi:10.1145/3477495.3531998
+  title: Incorporating Retrieval Information into the Truncation of Ranking Lists
+    for Better Legal Search
+  authors:
+  - Yixiao Ma
+  - Qingyao Ai
+  - Yueyue Wu
+  - Yunqiu Shao
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 45th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2022-07-06'
+  link: https://doi.org/gq5r2p
+  _title: Incorporating Retrieval Information into the Truncation of Ranking Lists
+    for Better Legal Search
+  _first_author: Yixiao Ma
+  _cache: f622d8b8cd7e75e24f7131715847fe5266e7d44a444f76912bed8976fe7a3c31
+- id: doi:10.1145/3477495.3531943
+  title: Axiomatically Regularized Pre-training for Ad hoc Search
+  authors:
+  - Jia Chen
+  - Yiqun Liu
+  - Yan Fang
+  - Jiaxin Mao
+  - Hui Fang
+  - Shenghao Yang
+  - Xiaohui Xie
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 45th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2022-07-06'
+  link: https://doi.org/gq5r2q
+  _title: Axiomatically Regularized Pre-training for Ad hoc Search
+  _first_author: Jia Chen
+  _cache: 8d893c9c0f1c798800a1e2fb751b7d123c683acde6205c4b4bcf82c6e34d55d3
+- id: doi:10.1007/s13042-022-01523-9
+  title: Investigating human reading behavior during sentiment judgment
+  authors:
+  - Xuesong Chen
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: International Journal of Machine Learning and Cybernetics
+  date: '2022-03-06'
+  link: https://doi.org/gq5r2r
+  _title: Investigating human reading behavior during sentiment judgment
+  _first_author: Xuesong Chen
+  _cache: b2ba336336c46f237bf6011d324f0f06aba1f1f353bdcea14c79b2b8269e1e24
+- id: doi:10.1145/3527546.3527570
+  title: Report on the 15th round of NII testbeds and community for information access
+    research (NTCIR-15)
+  authors:
+  - Makoto P. Kato
+  - Yiqun Liu
+  - Noriko Kando
+  - Charles L. A. Clarke
+  publisher: ACM SIGIR Forum
+  date: '2021-12-01'
+  link: https://doi.org/gq5r2s
+  _title: Report on the 15th Round of NII Testbeds and Community for Information Access
+    Research (NTCIR-15)
+  _first_author: Makoto P. Kato
+  _cache: 9e930dcc00bd63c0d52f3306ac77d87163e8179b09e10cc2e4aa4a4119e88935
+- id: doi:10.1145/3485447.3511950
+  title: 'Global or Local: Constructing Personalized Click Models for Web Search'
+  authors:
+  - Junqi Zhang
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Xiaohui Xie
+  - Min Zhang
+  - Shaoping Ma
+  - Qi Tian
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-25'
+  link: https://doi.org/gq5r2t
+  _title: 'Global or Local: Constructing Personalized Click Models for Web Search'
+  _first_author: Junqi Zhang
+  _cache: b376772ab0d747a101d71628c54035f92a884625d2abbb2b6eb0d0729760e094
+- id: doi:10.1145/3485447.3511966
+  title: Towards a Better Understanding of Human Reading Comprehension with Brain
+    Signals
+  authors:
+  - Ziyi Ye
+  - Xiaohui Xie
+  - Yiqun Liu
+  - Zhihong Wang
+  - Xuesong Chen
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-25'
+  link: https://doi.org/gq5r2v
+  _title: Towards a Better Understanding of Human Reading Comprehension with Brain
+    Signals
+  _first_author: Ziyi Ye
+  _cache: f2858d4e895ebf9b40a2b7f082b0deaffbad0becc7fd6daa768539fe3d2f0b37
+- id: doi:10.1145/3511469
+  title: User Behavior Simulation for Search Result Re-ranking
+  authors:
+  - Junqi Zhang
+  - Yiqun Liu
+  - Jiaxin Mao
+  - Weizhi Ma
+  - Jiazheng Xu
+  - Shaoping Ma
+  - Qi Tian
+  publisher: ACM Transactions on Information Systems
+  date: '2022-02-14'
+  link: https://doi.org/gq5r2w
+  _title: User Behavior Simulation for Search Result Re-ranking
+  _first_author: Junqi Zhang
+  _cache: a9f156ce14b8a994df210823912d87af23d8f6e64880ee1017278a5c74ccb18a
+- id: doi:10.1007/s43674-021-00028-2
+  title: 'From linear to non-linear: investigating the effects of right-rail results
+    on complex SERPs'
+  authors:
+  - Yunqiu Shao
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Advances in Computational Intelligence
+  date: '2022-01-10'
+  link: https://doi.org/gq5r2x
+  _title: 'From linear to non-linear: investigating the effects of right-rail results
+    on complex SERPs'
+  _first_author: Yunqiu Shao
+  _cache: a2b5312edb8befaebec637408f096312db760ecae57beb93e4e68c403bd5b008
+- id: doi:10.1145/3488560.3502185
+  title: Web Search via an Efficient and Effective Brain-Machine Interface
+  authors:
+  - Xuesong Chen
+  - Ziyi Ye
+  - Xiaohui Xie
+  - Yiqun Liu
+  - Xiaorong Gao
+  - Weihang Su
+  - Shuqi Zhu
+  - Yike Sun
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the Fifteenth ACM International Conference on Web Search
+    and Data Mining
+  date: '2022-02-11'
+  link: https://doi.org/gq5r22
+  _title: Web Search via an Efficient and Effective Brain-Machine Interface
+  _first_author: Xuesong Chen
+  _cache: c218d77dae12fec12c956e9b900064d4b78eab1f2218456eec8f6a7236b401f3
+- id: doi:10.1145/3488560.3498516
+  title: A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced
+    Automatic Query Reformulation
+  authors:
+  - Xiangsheng Li
+  - Jiaxin Mao
+  - Weizhi Ma
+  - Zhijing Wu
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  - Zhaowei Wang
+  - Xiuqiang He
+  publisher: Proceedings of the Fifteenth ACM International Conference on Web Search
+    and Data Mining
+  date: '2022-02-11'
+  link: https://doi.org/gq5r23
+  _title: A Cooperative Neural Information Retrieval Pipeline with Knowledge Enhanced
+    Automatic Query Reformulation
+  _first_author: Xiangsheng Li
+  _cache: b283f2c2658da8485337fde45c58994a148306c05266e8736d507ac31ac2eacf
+- id: doi:10.1145/3488560.3498443
+  title: Learning Discrete Representations via Constrained Clustering for Effective
+    and Efficient Dense Retrieval
+  authors:
+  - Jingtao Zhan
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Jiafeng Guo
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the Fifteenth ACM International Conference on Web Search
+    and Data Mining
+  date: '2022-02-11'
+  link: https://doi.org/gq5r24
+  _title: Learning Discrete Representations via Constrained Clustering for Effective
+    and Efficient Dense Retrieval
+  _first_author: Jingtao Zhan
+  _cache: 216864e5c57c4face5994951a98ad54863038166a099ec4b30a7351f16736329
+- id: doi:10.1007/s11704-020-0016-y
+  title: Understanding the role of human-inspired heuristics for retrieval models
+  authors:
+  - Xiangsheng Li
+  - Yiqun Liu
+  - Jiaxin Mao
+  publisher: Frontiers of Computer Science
+  date: '2021-09-11'
+  link: https://doi.org/gq5r25
+  _title: Understanding the Role of Human-Inspired Heuristics for Retrieval Models
+  _first_author: Xiangsheng Li
+  _cache: 51023f31e4e775844b8b2a6b43d85580c707454f0efa42e923b7380a8b711dcb
+- id: doi:10.48550/arXiv.2204.02027
+  title: A Survey on Dropout Methods and Experimental Verification in Recommendation
+  authors:
+  - Yangkun Li
+  - Weizhi Ma
+  - Chong Chen
+  - Min Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  - Yuekui Yang
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gq5r42
+  _title: A Survey on Dropout Methods and Experimental Verification in Recommendation
+  _first_author: Yangkun Li
+  _cache: ec06d6125d42d75bd67701caf6576f63215361dddf325ab0e0f9d966ff968a58
+- id: doi:10.1145/3547333
+  title: A Survey on the Fairness of Recommender Systems
+  authors:
+  - Yifan Wang
+  - Weizhi Ma
+  - Min Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2022-07-09'
+  link: https://doi.org/gq5r43
+  _title: A Survey on the Fairness of Recommender Systems
+  _first_author: Yifan Wang
+  _cache: 61999e35f2ef5cd56dab241a17a0a5a5d15ce07954cfe9ae3df0faff4a521345
+- id: doi:10.1145/3534678.3539354
+  title: Make Fairness More Fair
+  authors:
+  - Jiayin Wang
+  - Weizhi Ma
+  - Jiayu Li
+  - Hongyu Lu
+  - Min Zhang
+  - Biao Li
+  - Yiqun Liu
+  - Peng Jiang
+  - Shaoping Ma
+  publisher: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2022-08-14'
+  link: https://doi.org/gq5r44
+  _title: 'Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-distribution'
+  _first_author: Jiayin Wang
+  _cache: b5efdbd47d4da764083050cfdd0a5e8f43fa6db06a2691ec0a9ebaf9f5c948fd
+- id: doi:10.1145/3534678.3539253
+  title: Towards Representation Alignment and Uniformity in Collaborative Filtering
+  authors:
+  - Chenyang Wang
+  - Yuanqing Yu
+  - Weizhi Ma
+  - Min Zhang
+  - Chong Chen
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2022-08-14'
+  link: https://doi.org/gq5r46
+  _title: Towards Representation Alignment and Uniformity in Collaborative Filtering
+  _first_author: Chenyang Wang
+  _cache: a40fe2a70fa8634dd52c9cceb3f3f4f4917cb1f1aacc65bf3f90f3bd477c7a02
+- id: doi:10.1145/3485447.3511997
+  title: Recommendation Unlearning
+  authors:
+  - Chong Chen
+  - Fei Sun
+  - Min Zhang
+  - Bolin Ding
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-25'
+  link: https://doi.org/gq5r47
+  _title: Recommendation Unlearning
+  _first_author: Chong Chen
+  _cache: 256a93e2557964f717cbffbb11dda9f4e05a09fdac04a15a4c0202732775d49c
+- id: doi:10.1145/3485447.3512023
+  title: Explainable Neural Rule Learning
+  authors:
+  - Shaoyun Shi
+  - Yuexiang Xie
+  - Zhen Wang
+  - Bolin Ding
+  - Yaliang Li
+  - Min Zhang
+  publisher: Proceedings of the ACM Web Conference 2022
+  date: '2022-04-25'
+  link: https://doi.org/gq5r48
+  _title: Explainable Neural Rule Learning
+  _first_author: Shaoyun Shi
+  _cache: b9aa35fe5cabc1b98b0f5f931d3a300268a1c814b44aade20f1ef071afbb3273

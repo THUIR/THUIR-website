@@ -68,6 +68,12 @@ twitter:
   tooltip: Twitter
   link: https://twitter.com/$LINK
 
+wechat:
+  icon: fab fa-weixin
+  text: WeChat
+  tooltip: WeChat
+  link: images/$LINK
+
 facebook:
   icon: fab fa-facebook
   text: Facebook
@@ -118,6 +124,12 @@ docs:
   icon: fas fa-book
   text: Docs
   tooltip: Documentation
+  link: $LINK
+
+code:
+  icon: fas fa-code
+  text: Code
+  tooltip: Source code
   link: $LINK
 
 source:

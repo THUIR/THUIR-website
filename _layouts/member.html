@@ -4,7 +4,7 @@ layout: default
 
 <h1>{{ page.name | default: page.title }}</h1>
 
-{%- include figure.html image=page.image -%}
+{%- include figure.html image=page.image width="300px" -%}
 
 <p class="center">
   {%- include role.html type=page.role text=true description=page.description -%}
@@ -32,7 +32,7 @@ layout: default
   {%- assign aliases = aliases | push: page.title -%}
 {%- endif -%}
 
-{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/research/?search=" -%}
+{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/publications/?search=" -%}
 
 {%- capture text -%}
   {{ page.name | default: page.title }}'s papers

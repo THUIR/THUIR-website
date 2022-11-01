@@ -1,21 +1,18 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
+title: THUIR
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /lab-website-template
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  github: THUIR
+  twitter: thuir_lab
+  wechat: thuir-wechat.png
 
 ### advanced settings
 
@@ -24,7 +21,10 @@ auto-cite:
   plugins:
     - name: sources
       input:
-        - ../_data/sources.yaml
+        - ../_data/sources-2019.yaml
+        - ../_data/sources-2020.yaml
+        - ../_data/sources-2021.yaml
+        - ../_data/sources-2022.yaml
   output: ../_data/citations.yaml
 
 # default front matter parameters for markdown files
@@ -39,6 +39,11 @@ defaults:
       type: "members"
     values:
       layout: member
+  # markdown files in /_alumni
+  - scope:
+      type: "alumni"
+    values:
+      layout: alumni
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -48,6 +53,8 @@ defaults:
 # collections
 collections:
   members:
+    output: true
+  alumni:
     output: true
 
 # sass settings
