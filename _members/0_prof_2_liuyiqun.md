@@ -1,5 +1,5 @@
 ---
-name: Yiqun Liu<br/>刘奕群
+name: Yiqun Liu 刘奕群
 image: images/people/lyq.jpg
 description: Professor (Tenured) 教研系列长聘教授
 role: pi
