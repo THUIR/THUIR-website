@@ -1,5 +1,5 @@
 ---
-name: Qingyao Ai<br/>艾清遥
+name: Qingyao Ai 艾清遥
 image: images/people/aqy.jpg
 description: Tenure-Track Assistant Professor 教研系列准聘助理教授
 role: pi

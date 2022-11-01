@@ -1,5 +1,5 @@
 ---
-name: Yi Ren<br/>任一
+name: Yi Ren 任一
 image: images/people/renyi.jpg 
 description: Ph.D. 2022- 
 role: phd 

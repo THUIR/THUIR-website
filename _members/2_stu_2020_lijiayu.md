@@ -1,5 +1,5 @@
 ---
-name: Jiayu Li<br/>李佳玉
+name: Jiayu Li 李佳玉
 image: images/people/lijiayu.jpg  
 description: Ph.D. 2020-  
 role: phd  

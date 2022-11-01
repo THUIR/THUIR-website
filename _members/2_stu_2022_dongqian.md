@@ -1,5 +1,5 @@
 ---
-name: Qian Dong<br/>董骞
+name: Qian Dong 董骞
 image: images/people/dq.jpg 
 description: Ph.D. 2022-   
 role: phd   

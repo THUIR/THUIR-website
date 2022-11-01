@@ -1,5 +1,5 @@
 ---
-name: Yifan Wang<br/>王亦凡
+name: Yifan Wang 王亦凡
 image: images/people/wyf.jpeg
 description: Ph.D. 2021- 
 role: phd 

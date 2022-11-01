@@ -1,5 +1,5 @@
 ---
-name: Yueyue Wu<br/>吴玥悦
+name: Yueyue Wu 吴玥悦
 image: images/people/wyy.jpeg 
 description: PostDoc. 2019- 
 role: postdoc

@@ -1,5 +1,5 @@
 --- 
-name: Shaorun Zhang<br/>张韶润
+name: Shaorun Zhang 张韶润
 image: images/people/zsr.jpg  
 description: Master 2021-  
 role: master  

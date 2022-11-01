@@ -1,5 +1,5 @@
 ---
-name: Zhumin Chu<br/>储著敏
+name: Zhumin Chu 储著敏
 image: images/people/ZhuminChu.jpeg
 description: Ph.D. 2019-
 role: phd

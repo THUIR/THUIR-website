@@ -1,5 +1,5 @@
 --- 
-name: Peijie Sun<br/>孙培杰
+name: Peijie Sun 孙培杰
 image: images/people/spj.jpg   
 description: PostDoc. 2022-   
 role: postdoc  

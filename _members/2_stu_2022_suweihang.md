@@ -1,5 +1,5 @@
 ---
-name: Weihang Su<br/>苏炜航
+name: Weihang Su 苏炜航
 image: images/people/swh.jpg 
 description: Ph.D. 2022- 
 role: phd 

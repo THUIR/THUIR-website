@@ -1,5 +1,5 @@
 ---
-name: Shiyuan Guo<br/>郭世圆
+name: Shiyuan Guo 郭世圆
 image: images/people/gsy.jpg  
 description: Master 2022-  
 role: master  

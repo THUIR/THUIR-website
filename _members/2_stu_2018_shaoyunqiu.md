@@ -1,5 +1,5 @@
 ---
-name: Yunqiu Shao<br/>邵韵秋
+name: Yunqiu Shao 邵韵秋
 image: images/people/syq.jpg
 description: Ph.D. 2018- 
 role: phd 
