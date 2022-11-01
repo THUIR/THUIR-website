@@ -1,5 +1,5 @@
 ---
-name: Shihong Yan 闫世宏
+name: Shihong Yan<br/>闫世宏
 image: images/people/yansh.jpeg 
 description: Ph.D. 2019- 
 role: phd 

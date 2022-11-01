@@ -1,5 +1,5 @@
 ---
-name: Zhiyu He 何祉瑜
+name: Zhiyu He<br/>何祉瑜
 image: images/people/hzy.jpeg 
 description: Master 2022- 
 role: master 

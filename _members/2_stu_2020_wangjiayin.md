@@ -1,5 +1,5 @@
 ---
-name: Jiayin Wang 汪佳茵
+name: Jiayin Wang<br/>汪佳茵
 image: images/people/JiayinWang.jpg  
 description: Master 2020-  
 role: master  

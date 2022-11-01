@@ -1,5 +1,5 @@
 ---
-name: Bulou Liu 刘布楼
+name: Bulou Liu<br/>刘布楼
 image: images/people/lbl.jpg
 description: Ph.D. 2020- 
 role: phd
