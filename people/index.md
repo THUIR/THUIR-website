@@ -5,9 +5,9 @@ nav:
   tooltip: 团队成员
 ---
 
-# <i class="fas fa-users"></i>Current
+# <i class="fas fa-users"></i>Current 在校成员
 
-## Faculty
+## Faculty 教师
 
 {%
   include list.html
@@ -25,7 +25,7 @@ nav:
 
 {% include section.html %}
 
-## Ph.D. Students
+## Ph.D. Students 博士生
 
 {%
   include list.html
@@ -36,7 +36,7 @@ nav:
 
 {% include section.html %}
 
-## Master Students
+## Master Students 硕士生
 
 {%
   include list.html
@@ -47,7 +47,7 @@ nav:
 
 {% include section.html %}
 
-## PostDocs
+## PostDocs 博士后
 
 {%
   include list.html
@@ -58,7 +58,7 @@ nav:
 
 {% include section.html %}
 
-## Staff and Project Managers
+## Staff and Project Managers 工作人员
 
 {%
   include list.html
@@ -76,7 +76,7 @@ nav:
 
 {% include section.html %}
 
-# <i class="fas fa-users"></i>Alumni
+# <i class="fas fa-users"></i>Alumni 毕业校友
 
 {%
   include list.html
