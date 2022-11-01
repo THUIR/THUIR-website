@@ -1,25 +1,29 @@
 
 - title: ACM Distinguished Members&nbsp; · &nbsp;2022
   group: honor
-  image: images/company/funds.jpg
+  image: images/awards/acm.jpg
   people: 刘奕群
+  description: 
 
 - title: “钱伟长中文信息处理科学技术奖”一等奖&nbsp; · &nbsp;2020
   group: honor
-  image: images/company/funds.jpg
+  image: images/awards/cips.jpg
   people: 刘奕群，王小川、张敏、许静芳、马少平、陈炜鹏、毛佳昕、王蟒、马为之
+  description: 
 
 - title: IBM Global Faculty Award&nbsp; · &nbsp;2020
   group: honor
-  image: images/company/funds.jpg
+  image: images/awards/ibm.jpg
   people: 张敏
+  description: 
 
 
 
 - title: 国际会议 WSDM2022 最佳论文奖
   group: awards
-  image: images/company/wsdm.jpg
+  image: images/awards/wsdm.jpg
   people: 詹靖涛
+  description:
   # paper: Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval
   # extra-links:
   # - type: preprint
@@ -28,35 +32,41 @@
 
 - title: 2021年百度奖学金
   group: awards
-  image: images/company/funds.jpg
+  image: images/awards/baidu.jpg
   people: 陈冲
+  description:
 
 - title: 2021字节跳动奖学金
   group: awards
-  image: images/company/bytedance.jpg
+  image: images/awards/bytedance.jpg
   people: 陈冲
+  description:
 
 - title: 2021年微软学者提名
   group: awards
-  image: images/company/msra.jpg
+  image: images/awards/msra.jpg
   people: 
     - 陈冲
     - 吴之璟
+  description:
 
 - title: 2020年微软学者提名
   group: awards
-  image: images/company/msra.jpg
+  image: images/awards/msra.jpg
   people: 卢泓宇
+  description:
 
 - title: 国际会议 SIGIR2020 最佳论文奖
   group: awards
-  image: images/company/sigir2020.jpg
+  image: images/awards/sigir2020.jpg
   people: 张帆
+  description:
 
 - title: 国际会议 ICTIR2019 最佳论文奖
   group: awards
-  image: images/company/funds.jpg
+  image: images/awards/ictir2019.jpg
   people: 储著敏
+  description:
   # paper: TODO
   # extra-links:
   # - type: preprint
@@ -64,40 +74,47 @@
 
 - title: 国际会议 SIGIR2018 最佳论文奖
   group: awards
-  image: images/company/sigir2018.jpg
+  image: images/awards/sigir2018.jpg
   people: 刘梦旸
+  description:
 
 - title: 国际会议 CIKM2018 最佳论文奖
   group: awards
-  image: images/company/cikm2018.jpg
+  image: images/awards/cikm2018.jpg
   people: 张俊祺
+  description:
 
 - title: 国际会议 AIRS2018 最佳论文奖
   group: awards
-  image: images/company/funds.jpg
+  image: images/awards/AIRS2018.jpg
   people: 李祥圣
+  description:
 
 - title: 国际会议 AIRS2018 最佳论文奖(提名)
   group: awards
-  image: images/company/funds.jpg
+  image: images/awards/AIRS2018.jpg
   people: 陈冲
+  description:
 
 - title: 国际会议 SIGIR2017 最佳学生论文奖
   group: awards
-  image: images/company/funds.jpg
+  image: images/awards/sigir2017.jpg
   people: 张帆
+  description:
 
 - title: 国际会议 ECIR2017 最佳博士生论坛论文奖
   group: awards
-  image: images/company/funds.jpg
+  image: images/awards/ECIR2017.jpg
   people: 毛佳昕
+  description:
 
 - title: 国际会议 AIRS2011 最佳论文奖(提名)
   group: awards
-  image: images/company/funds.jpg
   people: 姚婷
+  description:
 
-- title: 国际会议 SIGIR 最佳论文奖(提名)
+- title: 国际会议 SIGIR2015 最佳论文奖(提名)
   group: awards
-  image: images/company/funds.jpg
+  image: images/awards/SIGIR2015.jpg
   people: 王超
+  description:
