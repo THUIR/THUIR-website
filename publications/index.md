@@ -7,8 +7,6 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications 论文发表
 
-{% include section.html %}
-
 {% include search-box.html %}
 
 {% include search-info.html %}
