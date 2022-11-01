@@ -5,6 +5,8 @@ description: Engineer 工程师
 role: engineer
 aliases:
   - Y. Jin
+  - Yijiang Jin
+  - Yi-jiang Jin
 links:
   home-page: https://www.cs.tsinghua.edu.cn/info/1159/3950.htm
   email: yjjin@tsinghua.edu.cn
