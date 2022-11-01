@@ -2,26 +2,17 @@
 title: Projects&Funding
 nav:
   order: 3
-  tooltip: 项目与资助
+  tooltip: 项目与基金
 ---
 
-# <i class="fas fa-tools"></i>Projects & Funding
+# <i class="fas fa-tools"></i>Projects & Funding 项目与基金
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 国家项目
 
-{% include search-info.html %}
+{% include list.html component="card" data="projects" filters="group: national" style="small"%}
 
 {% include section.html %}
 
-## Funds
+## 企业项目
 
-{% include list.html component="card" data="projects" filters="group: funds" style="small"%}
-
-{% include section.html %}
-
-## Projects
-
-{% include list.html component="projects" data="projects" filters="group: projects" style="rich" %}
+{% include list.html component="projects" data="projects" filters="group: company" style="rich" %}
