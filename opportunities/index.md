@@ -80,6 +80,7 @@ THUIR课题组根据项目需求定期招聘指定岗位博士后，具体招聘
   text=text
 %}
 
+{% include section.html %}
 
 {% capture col1 %}
 {%
