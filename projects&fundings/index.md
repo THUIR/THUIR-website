@@ -5,7 +5,7 @@ nav:
   tooltip: 项目与基金
 ---
 
-# <i class="fas fa-tools"></i>Projects & Funding 项目与基金
+# <i class="fas fa-chart-bar"></i>Projects & Funding 项目与基金
 
 ## 国家项目
 

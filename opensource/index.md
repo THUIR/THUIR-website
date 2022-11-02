@@ -5,7 +5,7 @@ nav:
   tooltip: 开源项目与数据
 ---
 
-# <i class="fas fa-tools"></i>Opensource 开源项目与数据
+# <i class="fas fa-code-branch"></i>Opensource 开源项目与数据
 
 {%
   include link.html
