@@ -15,6 +15,7 @@ nav:
   link="THUIR"
   style="button"
 %}
+{:.center}
 
 {% include search-info.html %}
 
@@ -22,10 +23,10 @@ nav:
 
 ## Toolkits
 
-{% include list.html component="card" data="tools" filters="group: toolkit" %}
+{% include list.html component="card" data="tools" filters="group: toolkit" style="large" %}
 
 {% include section.html %}
 
 ## Datasets
 
-{% include list.html component="projects" data="tools" filters="group: dataset" style="rich" %}
+{% include list.html component="datasets" data="tools" filters="group: dataset" style="rich" %}

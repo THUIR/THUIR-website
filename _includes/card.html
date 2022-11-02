@@ -1,7 +1,11 @@
 {%- if include.style == "small" -%}
   {%- assign width = 200 -%}
 {%- else -%}
-  {%- assign width = 350 -%}
+  {%- if include.style == "large" -%}
+    {%- assign width = 200 -%}
+  {%- else -%}
+    {%- assign width = 350 -%}
+  {%- endif -%}
 {%- endif -%}
 
 {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
