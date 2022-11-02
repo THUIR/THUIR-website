@@ -1,6 +1,6 @@
 ---
 name: Zhijing Wu<br/>吴之璟
-image: https://docimg4.docs.qq.com/image/AgAABuDvuaHzREWS2plJAYTJz6J97elm.jpeg?w=1280&h=1280&_type=jpeg
+image: images/people/ZhijingWu.jpg
 description: Ph.D. 2017-2022
 role: phd
 aliases:

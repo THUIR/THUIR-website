@@ -1,6 +1,6 @@
 ---
 name: Shaoyun Shi<br/>施韶韵
-image: https://docimg9.docs.qq.com/image/AgAABuDvuaGiP5IOZr1GDZO_k5O9BziF.jpeg?w=400&h=560&_type=jpeg
+image: images/people/ShaoyunShi.jpg
 description: Ph.D. 2017-2022
 role: phd
 aliases:

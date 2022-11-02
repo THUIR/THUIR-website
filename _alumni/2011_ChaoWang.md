@@ -1,6 +1,6 @@
 ---
 name: Chao Wang<br/>王超
-image: https://docimg6.docs.qq.com/image/AgAABuDvuaHI82DsnFVNmZ_0NA4l3hWL.jpeg?w=600&h=856&_type=jpeg
+image: images/people/ChaoWang.jpg
 description: Ph.D. 2011-2016
 role: phd
 aliases:

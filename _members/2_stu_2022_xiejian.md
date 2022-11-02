@@ -1,6 +1,6 @@
 ---
 name: Jian Xie<br/>谢剑
-image: https://docimg8.docs.qq.com/image/AgAABuDvuaHJplFeAMVOG4tz4ZRlmOfX.jpeg?w=2668&h=4002&_type=jpeg
+image: images/people/JianXie.jpg
 description: Ph.D. 2022-2026
 role: phd
 aliases:
