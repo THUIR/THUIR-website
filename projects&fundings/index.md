@@ -5,7 +5,7 @@ nav:
   tooltip: 项目与基金
 ---
 
-# <i class="fas fa-tools"></i>Projects & Funding 项目与基金
+# <i class="fas fa-chart-bar"></i>Projects & Funding 项目与基金
 
 ## 国家项目
 
@@ -16,3 +16,8 @@ nav:
 ## 企业项目
 
 {% include list.html component="projects" data="projects" filters="group: company" style="rich" %}
+
+
+{% include section.html %}
+
+Special thanks to [Jia Chen](https://xuanyuan14.github.io) and [Yan Fang](https://suffoquer-fang.github.io) for the initial construction of this page.

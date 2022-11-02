@@ -12,3 +12,7 @@ nav:
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+
+{% include section.html %}
+
+Special thanks to [Yi Ren](/lab-website-template/members/2_stu_2022_renyi.html) and [Zhefan Wang]() for the initial construction of this page.
