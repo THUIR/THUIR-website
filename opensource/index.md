@@ -23,7 +23,7 @@ nav:
 
 ## Toolkits
 
-{% include list.html component="card" data="tools" filters="group: toolkit" style="large" %}
+{% include list.html component="card" data="tools" filters="group: toolkit" style="large"%}
 
 {% include section.html %}
 
