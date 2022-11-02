@@ -1,8 +1,8 @@
 ---
 title: News
-nav:
-  order: 7
-  tooltip: 新闻
+#nav:
+#  order: 7
+#  tooltip: 新闻
 ---
 
 # <i class="fas fa-feather-alt"></i>News

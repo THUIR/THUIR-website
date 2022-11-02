@@ -15,10 +15,10 @@
 {%- endif -%}
 
 {%- assign citation = include -%}
-{%- assign rich = false -%}
+<!-- {%- assign rich = false -%}
 {%- if include.style == "rich" -%}
   {%- assign rich = true -%}
-{%- endif -%}
+{%- endif -%} -->
 
 {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
@@ -27,46 +27,33 @@
   {%- assign link = citation.link | default: "" -%}
   {%- assign image = citation.image | default: "" -%}
   {%- if rich -%}
-    <div class="citation_image_small">
-      <!-- <a href="{{ link }}"> -->
+    <div class="citation_image">
+      <a href="{{ link }}">
         <img
           src="{{ image | relative_url }}"
           onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
           data-tooltip="{{ id }}"
           loading="lazy"
           alt="Citation thumbnail"
-          width="1000px"
         >
-      <!-- </a> -->
+      </a>
     </div>
   {%- endif -%}
 
   <div class="citation_text">
     {%- assign title = citation.title | default: "" -%}
-    {%- assign date = citation.date | default: "" -%}
     <div class="citation_title">
-      <!-- <a href="{{ link }}"> -->
+      <a href="{{ link }}">
         {{ title }}
-      <!-- </a> -->
+      </a>
     </div>
 
-    {%- assign people = citation.people | default: emptyarray -%}
-    {%- if people != emptyarray -%}
-      <div
-        class="citation_authors truncate"
-        tabindex="0"
-      >
-        获奖人: {{ people | join: ", " }} &nbsp;
-      </div>
-    {%- endif -%}
-
-    {%- assign paper = citation.paper | default: "" -%}
-    {%- if paper != "" -%}
+    {%- assign description = citation.description | default: "" -%}
+    {%- if description != "" -%}
       <div class="citation_details">
-        获奖论文: {{ paper }}
+        Description: {{ description }}
       </div>
     {%- endif -%}
-
 
     {%- if rich -%}
 
@@ -85,6 +72,5 @@
         {%- endfor -%}
       </div>
     {%- endif -%}
-
   </div>
 </div>

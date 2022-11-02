@@ -5,6 +5,8 @@ description: Professor (Tenured) 教研系列长聘教授
 role: pi
 aliases:
   - Y. Liu
+  - Yiqun Liu
+  - Yi-qun Liu
 links:
   home-page: http://www.thuir.cn/group/~YQLiu/
   google-scholar: https://scholar.google.com/citations?user=NJOnxh4AAAAJ

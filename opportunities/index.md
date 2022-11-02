@@ -5,7 +5,7 @@ nav:
   tooltip: 招生招聘
 ---
 
-# <i class="fas fa-envelope"></i>Contact
+# <i class="fas fa-envelope"></i>Contact 联系我们
 
 THUIR is part of the [Department of Computer Science & Technology](https://www.cs.tsinghua.edu.cn/csen/), at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 We are located on the FIT building 1-506, Tsinghua University.
@@ -80,11 +80,6 @@ THUIR课题组根据项目需求定期招聘指定岗位博士后，具体招聘
   text=text
 %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
-
-Tsinghua University FIT-1-506
-Beijing, China
-{:.center}
 
 {% capture col1 %}
 {%

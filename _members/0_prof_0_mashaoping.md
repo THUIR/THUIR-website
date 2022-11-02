@@ -5,6 +5,8 @@ description: Professor (Tenured) 教研系列长聘教授
 role: pi
 aliases:
   - S. Ma
+  - Shaoping Ma
+  - Shao-ping Ma
 links:
   home-page: http://www.thuir.cn/group/~msp/
   email: msp@tsinghua.edu.cn

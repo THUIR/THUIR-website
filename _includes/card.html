@@ -4,6 +4,12 @@
   {%- assign width = 350 -%}
 {%- endif -%}
 
+{%- if include.style == "large" -%}
+  {%- assign width = 400 -%}
+{%- endif -%}
+
+
+
 {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
 
 {%- if include.link -%}

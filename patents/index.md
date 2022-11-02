@@ -5,11 +5,7 @@ nav:
   tooltip: 专利申报
 ---
 
-# <i class="fas fa-microscope"></i>Patents
-
-课题组申请/授权专利情况
-
-{% include section.html %}
+# <i class="fas fa-microscope"></i>Patents 专利
 
 {% include search-box.html %}
 

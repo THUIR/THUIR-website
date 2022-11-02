@@ -5,6 +5,8 @@ description: Tenure-Track Assistant Professor 教研系列准聘助理教授
 role: pi
 aliases:
   - Q. Ai
+  - Qingyao Ai
+  - Qing-yao Ai
 links:
     home-page: https://ir.aiqingyao.org/home
     email: aiqy@tsinghua.edu.cn

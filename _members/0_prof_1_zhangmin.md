@@ -5,6 +5,7 @@ description: Professor (Tenured) 教研系列长聘教授
 role: pi
 aliases:
   - M Zhang
+  - Min Zhang
 links:
   home-page: http://www.thuir.cn/group/~mzhang/
   google-scholar: https://scholar.google.com/citations?user=0HtCYQEAAAAJ

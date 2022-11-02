@@ -5,18 +5,11 @@ nav:
   tooltip: 荣誉获奖
 ---
 
-# <i class="fas fa-tools"></i>Projects & Funding
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# <i class="fas fa-tools"></i>Awards 荣誉获奖
 
 {% include search-info.html %}
 
-{% include section.html %}
-
-## Honor
+## Honor 荣誉
 
 <!-- * ACM Distinguished Members，刘奕群，2022
 
@@ -32,7 +25,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## Awards
+## Awards 奖项
 
 {% include list.html component="awards" data="awards" filters="group: awards" style="rich" %}
 
