@@ -13,8 +13,6 @@ nav:
 
 {% include list.html data="patents" component="patents" style="rich" %}
 
-# test
-
 {% include section.html %}
 
 Special thanks to [Zhiyu He](/lab-website-template/members/2_stu_2022_hezhiyu.html) for the initial construction of this page.
