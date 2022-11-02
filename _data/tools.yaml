@@ -1,7 +1,7 @@
 - title: ReChorus
   subtitle: a general PyTorch framework for Top-K recommendation with implicit feedback
   group: toolkit
-  image: images/opensource/ReChorus.png
+  image: images/opensource/ReChorus.jpg
   link: https://github.com/THUIR/ReChorus
   description: ReChorus is a general PyTorch framework for Top-K recommendation with implicit feedback, especially for research purpose. It aims to provide a fair benchmark to compare different state-of-the-art algorithms. We hope this can partially alleviate the problem that different papers adopt non-comparable experimental settings, so as to form a "Chorus" of recommendation algorithms.
   repo: THUIR/ReChorus
@@ -12,7 +12,7 @@
 
 - title: TianGong-CRL Dataset
   group: dataset
-  image: images/TianGong-CRL.jpg
+  image: images/opensource/TianGong-CRL.jpg
   link: http://www.thuir.cn/TianGong-CRL/
   description: We provide this Chinene-centric TianGong-CRL dataset to support researches in epidemic related Information Retrieval (IR) tasks and information needs of Chinese people in the context of COVID-19. Refined from an 82-day search log by Sogou, the second largest search engine in China, the dataset consists of two parts. The first part provides a collection of 1492 COVID-19 related queries and the submission frequency of these queries in each province of China over an 82-day period, the second part provides a sample of COVID-19-related search logs during the period, we only provide session-level data for user privacy concerns. We also sample a subset of 1,700 sessions from TianGong-CRL and manually label each session with five intent labels.
   tags:
@@ -20,7 +20,7 @@
 
 - title: Image Annotation Dataset
   group: dataset
-  image: images/ImageAnnotation.jpg
+  image: images/opensource/ImageAnnotation.jpg
   link: https://github.com/ThuYShao/DataForTOIS
   description: On Annotation Methodologies for Image Search Evaluation
   tags:
@@ -29,7 +29,7 @@
 
 - title: User Behavior Dataset
   group: dataset
-  image: images/UserBehavior.jpg
+  image: images/opensource/UserBehavior.jpg
   link: http://www.thuir.cn/group/~YQLiu/datasets/WSDM19Wu.zip
   description: The influence of image search intents on user behavior and satisfaction
   tags:
@@ -38,7 +38,7 @@
 
 - title: Reading Attention Dataset
   group: dataset
-  image: images/ReadingAttention.jpg
+  image: images/opensource/ReadingAttention.jpg
   link: http://www.thuir.cn/group/~YQLiu/datasets/CIKM18Li.zip
   description: Understanding Reading Attention Distribution during Relevance Judgement.
   tags:
@@ -46,7 +46,7 @@
 
 - title: Sogou-SRR Dataset
   group: dataset
-  image: images/Sogou-SRR.jpg
+  image: images/opensource/Sogou-SRR.jpg
   link: http://www.thuir.cn/data-srr
   description: The Sogou-SRR (Search Result Relevance) dataset was constructed to support researches on search engine relevance estimation and ranking tasks. The dataset consists of 6,338 queries and corresponding top 10 search results. For each search result, the screenshot, title, snippet, HTML source code, parse tree, url as well as a 4-grade relevance score (1-4) and the result type are provided. The queries are sampled from search logs of Sogou.com. The sampled queries with frequency between 100 and 10,000 are usually regarded as torso queries , and usually the most important concerns for ranking algorithm design.
   tags:
@@ -54,7 +54,7 @@
 
 - title: Sogou-QCL Dataset
   group: dataset
-  image: images/Sogou-QCL.jpg
+  image: images/opensource/Sogou-QCL.jpg
   link: http://www.thuir.cn/sogouqcl
   description: The Sogou-QCL dataset was created to support research on information retrieval and related human language technologies. The dataset consists of 537,366 queries, more than 9 million Chinese web pages, and five kinds of relevance labels assessed by click models. Moreover, a 2,000-queries’ dataset with 4-level human assessed relevance labels is also offered to the public for research.
   tags:
@@ -62,7 +62,7 @@
 
 - title: SearchSuccess Dataset
   group: dataset
-  image: images/SearchSuccess.jpg
+  image: images/opensource/SearchSuccess.jpg
   link: http://www.thuir.cn/data-SearchSuccess/
   description: This dataset was created to support research on search evaluation in exploratory search. We conducted a user study which contained 166 search sessions in three domains. Users’ interactions and explicit feedback were collected during searching process. The clicked documents collected in the user study were annotated by external assessors.
   tags:
@@ -70,7 +70,7 @@
 
 - title: ZhihuRec Dataset
   group: dataset
-  image: images/ZhihuRec.jpg
+  image: images/opensource/ZhihuRec.jpg
   link: https://github.com/THUIR/ZhihuRec-Dataset
   description: ZhihuRec dataset is collected from a knowledge-sharing platform (Zhihu), which is composed of around 100M interactions collected within 10 days, 798K users, 165K questions, 554K answers, 240K authors, 70K topics, and more than 501K user query logs. There are also descriptions of users, answers, questions, authors, and topics, which are anonymous. To the best of our knowledge, this is the largest real-world interaction dataset for personalized recommendation.
   tags:

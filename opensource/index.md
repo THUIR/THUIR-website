@@ -28,4 +28,4 @@ nav:
 
 ## Datasets
 
-{% include list.html component="card" data="tools" filters="group: dataset" style="small" %}
+{% include list.html component="projects" data="tools" filters="group: dataset" style="rich" %}
