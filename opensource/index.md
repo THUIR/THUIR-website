@@ -30,3 +30,5 @@ nav:
 ## Datasets
 
 {% include list.html component="datasets" data="tools" filters="group: dataset" style="rich" %}
+
+Special thanks to [Shuqi Zhu](/lab-website-template/members/2_stu_2022_zhushuqi.html) for the initial construction of this page.
