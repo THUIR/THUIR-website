@@ -1,8 +1,8 @@
 ## Documentation
 
-[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
+[▶️ Revision Instruction](https://jw57xmsufn.feishu.cn/wiki/wikcn1wNCkb3CAjCXBhDYp087pC)
 
-[▶️ Lab Instruction](https://jw57xmsufn.feishu.cn/wiki/wikcn1wNCkb3CAjCXBhDYp087pC)
+[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
 
 [🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
 
