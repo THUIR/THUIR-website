@@ -36,9 +36,9 @@ Information Retrieval Lab at [Tsinghua University](https://www.tsinghua.edu.cn/e
 # Highlights
 
 {% capture text %}
-Led by Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), THUIR was founded in 1990s with a focus on the research of Information Retrieval. It is one of the earliest and most influential IR research labs in China. THUIR has published hundreds of papers in top-tier IR conferences/journals, and is ranked first in *The Web & Information Retrieval* in the global academic ranking of computer science research institutes, i.e., [CSRanking](https://csrankings.org). 
+Led by Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), THUIR was founded in 1990s with a focus on the research of Information Retrieval. It is one of the earliest and most influential IR research labs in China. THUIR has published hundreds of papers in top-tier IR conferences/journals, and is ranked first in *The Web & Information Retrieval* in the global academic ranking of computer science research institutes, i.e., [CSRankings](https://csrankings.org). 
 
-THUIR实验室于20世纪90年代创建，在[马少平](http://www.thuir.cn/group/~msp/)教授的带领下从事信息检索相关研究工作，是国内开展相关研究最早、最具影响力的科研单位之一。自创立至今，实验室取得了一系列有世界影响力的原创成果，累计发表论文数百篇，全球计算机学术排行榜[CSRanking](https://csrankings.org) *网络与信息检索方向*第一名，已成为世界领先的信息检索研究机构。
+THUIR实验室于20世纪90年代创建，在[马少平](http://www.thuir.cn/group/~msp/)教授的带领下从事信息检索相关研究工作，是国内开展相关研究最早、最具影响力的科研单位之一。自创立至今，实验室取得了一系列有世界影响力的原创成果，累计发表论文数百篇，全球计算机学术排行榜[CSRankings](https://csrankings.org) *网络与信息检索方向*第一名，已成为世界领先的信息检索研究机构。
 {%
   include link.html
   link="publications"
