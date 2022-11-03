@@ -1,7 +1,7 @@
 ---
 name: Jian Xie<br/>谢剑
 image: images/people/JianXie.jpg
-description: Ph.D. 2022-2026
+description: Ph.D. 2022-
 role: phd
 aliases:
   - Jian Xie
