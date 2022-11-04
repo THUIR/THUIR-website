@@ -68,7 +68,7 @@ THUIR课题组每年面向本校、外校招收博士生3-5名左右，硕士生
 {% include section.html %}
 
 {% capture text %}
-THUIR课题组根据项目需求定期招聘指定岗位博士后，具体招聘信息将在此公布，请持续关注。
+THUIR课题组长期招募博士后，欢迎有信息检索、自然语言处理、数据挖掘等方面研究经验的年轻学者加入我们的队伍！详情可参见[THUIR博士后申请](https://mp.weixin.qq.com/s/6_NKkVI9NFWUi6PZJJWX5A)。
 
 {:.center}
 {% endcapture %}
@@ -86,7 +86,7 @@ THUIR课题组根据项目需求定期招聘指定岗位博士后，具体招聘
 {%
   include figure.html
   image="images/THU-CS.jpg"
-  caption="Department of CS&T"
+  caption="Department of CST"
 %}
 {% endcapture %}
 {% capture col2 %}
