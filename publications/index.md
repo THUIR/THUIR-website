@@ -15,4 +15,4 @@ nav:
 
 {% include section.html %}
 
-Special thanks to [Yi Ren](/lab-website-template/members/2_stu_2022_renyi.html) and [Zhefan Wang]() for the initial construction of this page.
+Special thanks to [Yi Ren](/members/2_stu_2022_renyi.html) and [Zhefan Wang]() for the initial construction of this page.
