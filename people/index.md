@@ -79,6 +79,12 @@ nav:
 # <i class="fas fa-users"></i>Alumni 毕业校友
 
 {%
+  include list_reverse.html
+  data="alumni"
+  component="portrait"
+%}
+<!-- 
+{%
   include list.html
   data="alumni"
   component="portrait"
@@ -108,6 +114,7 @@ nav:
   component="portrait"
   filters="role: staff"
 %}
+-->
 {:.center}
 
 {% include section.html %}
