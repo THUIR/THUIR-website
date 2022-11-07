@@ -79,7 +79,7 @@ nav:
 # <i class="fas fa-users"></i>Alumni 毕业校友
 
 {%
-  include list.html
+  include list_reverse.html
   data="alumni"
   component="portrait"
 %}

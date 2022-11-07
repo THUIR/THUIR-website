@@ -1,0 +1,78 @@
+{%- assign emptyarray = "" | split: "," -%}
+
+{%- assign data = site.data[include.data] | default: site[include.data] | default: emptyarray -%}
+{%- assign component = include.component | append: ".html" -%}
+
+{%- assign filters = include.filters | split: "," -%}
+{%- for filter in filters -%}
+  {%- assign entry = filter | split: ":" -%}
+  {%- assign key = entry[0] | strip -%}
+  {%- assign value = entry[1] | strip | default: nil -%}
+  {%- if value contains "~" -%}
+    {%- assign value = value | remove: "~" -%}
+    {%- assign data = data | where_exp: "d", "d[key] contains value" -%}
+  {%- else -%}
+    {%- assign tonumber = value | plus: 0 -%}
+    {%- capture numbertostring -%}{{- tonumber -}}{%- endcapture -%}
+    {%- if value == numbertostring -%}
+      {%- assign value = tonumber -%}
+    {%- elsif value == "true" -%}
+      {%- assign value = true -%}
+    {%- elsif value == "false" -%}
+      {%- assign value = false -%}
+    {%- endif -%}
+    {%- assign data = data | where_exp: "d", "d[key] == value" -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign years = data | group_by_exp: "d", "d.date | date: '%Y'" | sort: "name" -%}
+
+{%- for year in years -%}
+
+{%- assign items = year.items -%}
+
+{%- if years.size > 1 -%}
+  <h3 id="{{ year.name }}">{{ year.name }}</h3>
+  {%- assign items = items | sort: "date" -%}
+{%- endif -%}
+
+{%- for d in items -%}
+
+  {%- assign link = d.link | default: d.url -%}
+  {%- assign style = d.style | default: include.style -%}
+
+  {%-
+    include {{ component }}
+    author=d.author
+    authors=d.authors
+    people=d.people
+    company=d.company
+    caption=d.caption
+    content=d.content
+    date=d.date
+    description=d.description
+    paper=d.paper
+    extra-links=d.extra-links
+    height=d.height
+    icon=d.icon
+    id=d.id
+    image=d.image
+    link=link
+    publisher=d.publisher
+    repo=d.repo
+    role=d.role
+    slug=d.slug
+    style=style
+    subtitle=d.subtitle
+    tags=d.tags
+    title=d.title
+    text=d.text
+    tooltip=d.tooltip
+    type=d.type
+    url=d.url
+    width=d.width
+  -%}
+
+{%- endfor -%}
+
+{%- endfor -%}
