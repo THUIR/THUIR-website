@@ -82,6 +82,12 @@ nav:
   include list.html
   data="alumni"
   component="portrait"
+%}
+<!-- 
+{%
+  include list.html
+  data="alumni"
+  component="portrait"
   filters="role: pi"
 %}
 {%
@@ -108,6 +114,7 @@ nav:
   component="portrait"
   filters="role: staff"
 %}
+-->
 {:.center}
 
 {% include section.html %}
