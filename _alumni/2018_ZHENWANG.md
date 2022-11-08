@@ -1,7 +1,7 @@
 ---
 name: ZHEN WANG<br/>王振
 image: images/people/ZHENWANG.jpg
-description: Ph.D. 2018-2021
+description: Master 2018-2021
 role: master
 aliases:
   - ZHEN WANG
