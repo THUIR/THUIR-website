@@ -1,7 +1,7 @@
 ---
 name: Junwei Miao<br/>缪钧玮
 image: images/people/JunweiMiao.jpg
-description: Ph.D. 2009-2012
+description: Master 2009-2012
 role: master
 aliases:
   - Junwei Miao
