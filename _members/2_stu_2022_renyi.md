@@ -5,6 +5,7 @@ description: Ph.D. 2022-
 role: phd 
 links: 
     email: renyi1006@gmail.com 
+    github: nmrenyi 
 --- 
 
 Yi is currently interested in recommender system and privacy protection. 
