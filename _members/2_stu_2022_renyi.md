@@ -8,6 +8,4 @@ links:
     github: nmrenyi 
 --- 
 
-Yi is currently interested in recommender system and privacy protection. 
-
-Besides, he is quite into Mongolian hotpot (涮羊肉 in Chinese), art, cooking, etc.
+Yi is currently interested in recommender system and privacy protection. Besides, he is quite into Mongolian hotpot (涮羊肉 in Chinese), art, cooking, etc.
