@@ -821,6 +821,25 @@
   _title: Temporal Cross-Effects in Knowledge Tracing
   _first_author: Chenyang Wang
   _cache: 17cbcacf88001ac484748dfd0adc366e729c45d891267cc659b70fa9f97b5c11
+- id: doi:10.1145/3565480
+  title: 'User Perception of Recommendation Explanation: Are Your Explanations What
+    Users Need?'
+  authors:
+  - Hongyu Lu
+  - Weizhi Ma
+  - Yifan Wang
+  - Min Zhang
+  - Xiang Wang
+  - Yiqun Liu
+  - Tat-Seng Chua
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2022-11-17'
+  link: https://doi.org/gq9psd
+  _title: 'User Perception of Recommendation Explanation: Are Your Explanations What
+    Users Need?'
+  _first_author: Hongyu Lu
+  _cache: 57a81d2b1bf5e0e5de03d3ef5c7a97bc52520f620bff3c475f171c5fb965c3e0
 - id: doi:10.1145/3569929
   title: Understanding Relevance Judgments in Legal Case Retrieval
   authors:
