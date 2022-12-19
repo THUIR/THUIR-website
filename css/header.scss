@@ -15,6 +15,7 @@ header {
   color: $white;
   background: $gray-800;
   box-shadow: $shadow;
+  z-index: 2;
 
   & * {
     font-family: $sans;
