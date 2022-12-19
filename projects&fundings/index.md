@@ -9,7 +9,7 @@ nav:
 
 ## 国家项目
 
-{% include list.html component="card" data="projects" filters="group: national" style="small"%}
+{% include list.html component="card" data="projects" filters="group: national" style="median"%}
 
 {% include section.html %}
 
