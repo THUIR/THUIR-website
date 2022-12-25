@@ -17,6 +17,9 @@
 {%- endfor -%}
 
 {%- assign url = member.url | default: "" -%}
+{%- if member.links.home-page -%}
+    {%- assign url = member.links.home-page -%}
+{%- endif -%}
 
 {::nomarkdown}
 <a {% if url %}href="{{ url | relative_url }}"{% endif %} class="portrait" style="--width: {{ width }}px">
