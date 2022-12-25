@@ -5,7 +5,7 @@ title: Home
 # THUIR: Information Retrieval Lab at Tsinghua University <br/> 清华大学智能技术与系统国家重点实验室信息检索课题组
 
 
-Information Retrieval Lab [Tsinghua University](https://www.tsinghua.edu.cn/en/) (THUIR) focuses on the research of Information Retrieval including but not limited to the theories, algorithms, and applications of intelligent search and recommendation systems. We aim to study and resolve the information mismatch between user's needs and information resources to provide the most reliable and valuable information to each individual.   
+Information Retrieval Lab at [Tsinghua University](https://www.tsinghua.edu.cn/en/) (THUIR) focuses on the research of Information Retrieval including but not limited to the theories, algorithms, and applications of intelligent search and recommendation systems. We aim to study and resolve the information mismatch between user's needs and information resources to provide the most reliable and valuable information to each individual.   
 
 清华大学智能技术与系统国家重点实验室信息检索课题组主要研究智能信息检索的理论与方法、智能推荐算法与系统，从不同角度研究如何消除用户需求与信息资源之间存在的不匹配问题，从而实现为用户提供最有价值的信息.
 
