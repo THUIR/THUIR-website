@@ -12,7 +12,7 @@
 {%- endif -%}
 
 
-<header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
+<header {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
   <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
@@ -28,6 +28,7 @@
       </span>
     {% endif %}
   </a>
+  <button class="openbtn" onclick="openNav()">&#9776; Menu</button>
   <nav class="nav_row">
     {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
     {%- for page in pages -%}
@@ -36,4 +37,15 @@
       {%- endif -%}
     {%- endfor -%}
   </nav>
+  <div id="mySidebar" class="sidebar">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
+    {%- for page in pages -%}
+      {%- if page.nav -%}
+        <!-- {%- include link.html type="link" text=page.title tooltip=page.nav.tooltip link=page.dir -%}-->
+        {%- include link.html type="link" text=page.title tooltip=page.nav.tooltip link=page.dir dropdown="true" children=page.nav.children -%}
+      {%- endif -%}
+    {%- endfor -%}
+  </div>
+
 </header>
