@@ -8,14 +8,40 @@
 header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: top;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 30px;
+  padding: 20px;
   color: $white;
-  background: $gray-800;
   box-shadow: $shadow;
-  z-index: 2;
+  position: relative;
+  z-index: 99;
+
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: var(--background);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    opacity: 0.2;
+    // filter: blur(5px);
+    z-index: -1;
+  }
+  
+  &[data-dark="false"] {
+    background: $gray-100;
+    color: $black;
+  }
+
+  &[data-dark="true"] {
+    background: $gray-900;
+    color: $white;
+  }
 
   & * {
     font-family: $sans;
@@ -81,14 +107,14 @@ header {
 
   // screen width where nav bar wraps to under logo
   // adjust based on width of your lab name and nav bar
-  @media (max-width: 1000px) {
+  @media (max-width: $page) {
     flex-direction: column;
     align-items: stretch;
   }
 
   // screen width where logo and nav bar go from horizontal to vertical
   // adjust based on width of your lab name and nav bar
-  @media (max-width: 700px) {
+  @media (max-width: $tablet) {
     .logo_row {
       flex-direction: column;
 
@@ -101,10 +127,73 @@ header {
     .nav_row {
       flex-direction: column;
       justify-content: center;
-
+      display: none;
       .link {
         width: 100%;
       }
     }
+  }
+}
+
+.sidebar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 99;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  
+}
+
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.1s;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  font-size: 20px;
+  background-color: hsla(100, 100, 100, 0.1);;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  display: none;
+  visibility: hidden;
+  height: 0px;
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-width: $tablet) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+  .openbtn {
+    display: flex;
+    visibility: visible;
+  }
+  .nav_row {
+    display: none;
   }
 }
