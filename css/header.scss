@@ -107,16 +107,16 @@ header {
 
   // screen width where nav bar wraps to under logo
   // adjust based on width of your lab name and nav bar
-  @media (max-width: $page) {
-    flex-direction: column;
-    align-items: stretch;
-  }
+  //@media (max-width: $page) {
+  //  flex-direction: column;
+    //align-items: stretch;
+  //}
 
   // screen width where logo and nav bar go from horizontal to vertical
   // adjust based on width of your lab name and nav bar
-  @media (max-width: $tablet) {
+  @media (max-width: 1000px) {
     .logo_row {
-      flex-direction: column;
+      //flex-direction: column;
 
       .logo_text {
         text-align: center;
@@ -186,7 +186,7 @@ header {
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
-@media screen and (max-width: $tablet) {
+@media screen and (max-width: 1000px) {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 18px;}
   .openbtn {
