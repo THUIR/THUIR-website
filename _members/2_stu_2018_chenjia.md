@@ -1,6 +1,6 @@
 ---
 name: Jia Chen<br/>陈佳
-image: images/people/cj.jpeg
+image: images/people/cj.jpg
 description: Ph.D. 2018-
 role: phd
 links:
