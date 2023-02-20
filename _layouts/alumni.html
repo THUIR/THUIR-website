@@ -32,7 +32,7 @@ layout: default
   {%- assign aliases = aliases | push: page.title -%}
 {%- endif -%}
 
-{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/research/?search=" -%}
+{%- assign search = aliases | join: '" "' | prepend: '"' | append: '"' | prepend: "/publications/?search=" -%}
 
 {%- capture text -%}
   {{ page.name | default: page.title }}'s papers
