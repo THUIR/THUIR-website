@@ -1,7 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 2
+  order: 3
   tooltip: 论文发表
 ---
 
