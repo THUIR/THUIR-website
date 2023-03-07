@@ -1,7 +1,7 @@
 ---
 title: Projects&Funding
 nav:
-  order: 3
+  order: 4
   tooltip: 项目与基金
 ---
 

@@ -1,6 +1,10 @@
 ---
 title: Home
+nav:
+  order: 1
+  tooltip: 首页
 ---
+
 
 # THUIR: Information Retrieval Lab at Tsinghua University <br/> 清华大学智能技术与系统国家重点实验室信息检索课题组
 
