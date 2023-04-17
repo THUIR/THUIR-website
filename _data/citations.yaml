@@ -1245,3 +1245,21 @@
   _title: Explainable Neural Rule Learning
   _first_author: Shaoyun Shi
   _cache: b9aa35fe5cabc1b98b0f5f931d3a300268a1c814b44aade20f1ef071afbb3273
+- id: doi:10.1007/978-3-031-28244-7_39
+  title: "Investigating Conversational Agent Action in\_Legal Case Retrieval"
+  authors:
+  - Bulou Liu
+  - Yiran Hu
+  - Yueyue Wu
+  - Yiqun Liu
+  - Fan Zhang
+  - Chenliang Li
+  - Min Zhang
+  - Shaoping Ma
+  - Weixing Shen
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/gr5bpx
+  _title: Investigating Conversational Agent Action in Legal Case Retrieval
+  _first_author: Bulou Liu
+  _cache: ebed16312cca4b4ef2effbdd41b0a4d6825e91fae43efc435ca4c188a98292a0
