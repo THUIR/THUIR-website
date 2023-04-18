@@ -5,7 +5,6 @@
 - id: arxiv:2304.07450
   _title: "Intent-aware Ranking Ensemble for Personalized Recommendation"
   _first_author: Jiayu Li
-  image: https://github.com/JiayuLi-997/JiayuLi-997.github.io/blob/master/images/illustration_IntEL_SIGIR23.png
   extra-links:
     - type: source code
       link: https://github.com/JiayuLi-997/IntEL-SIGIR2023
