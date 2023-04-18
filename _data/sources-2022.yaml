@@ -21,8 +21,10 @@
 - id: doi:10.1145/3503161.3548258
   _title: "Brain Topography Adaptive Network for Satisfaction Modeling in Interactive Information Access System"
   _first_author: Ziyi Ye
+  
 
 - id: doi:10.1145/3477495.3532082
+  image: images/paper/sigir2022ye.jpg
   _title: "Why Don't You Click: Understanding Non-Click Results in Web Search with Brain Signals"
   _first_author: Ziyi Ye
 
