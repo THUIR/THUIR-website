@@ -36,7 +36,7 @@
   {%- assign items = items | sort: "date" -%}
 {%- endif -%}
 
-{%- for d in items -%}
+{%- for d in items reversed-%}
 
   {%- assign link = d.link | default: d.url -%}
   {%- assign style = d.style | default: include.style -%}
