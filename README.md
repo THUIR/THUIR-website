@@ -21,4 +21,3 @@
 [❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
 
 
-ddd
