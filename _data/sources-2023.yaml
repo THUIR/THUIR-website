@@ -1,3 +1,11 @@
 - id: doi:10.1007/978-3-031-28244-7_39
   _title: "Investigating Conversational Agent Action in Legal Case Retrieval"
   _first_author: Bulou Liu
+
+- id: doi:10.1145/3539618.3591874
+  _title: "T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking"
+  _first_author: Xiaohui Xie
+
+- id: arxiv:2306.02371
+  _title: "I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval"
+  _first_author: Qian Dong
