@@ -1263,3 +1263,42 @@
   _title: Investigating Conversational Agent Action in Legal Case Retrieval
   _first_author: Bulou Liu
   _cache: ebed16312cca4b4ef2effbdd41b0a4d6825e91fae43efc435ca4c188a98292a0
+- id: doi:10.48550/arXiv.2306.02371
+  title: 'I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+    Models for Passage Retrieval'
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Haitao Li
+  - Shuaiqiang Wang
+  - Yiqun Liu
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsfjp5
+  _title: 'I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+    Models for Passage Retrieval'
+  _first_author: Qian Dong
+  _cache: b78955341535109e64677dd758e7b68ff829faf0833a45fa45202eefd833947c
+- id: doi:10.48550/arXiv.2304.03679
+  title: 'T2Ranking: A large-scale Chinese Benchmark for Passage Ranking'
+  authors:
+  - Xiaohui Xie
+  - Qian Dong
+  - Bingning Wang
+  - Feiyang Lv
+  - Ting Yao
+  - Weinan Gan
+  - Zhijing Wu
+  - Xiangsheng Li
+  - Haitao Li
+  - Yiqun Liu
+  - Jin Ma
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsfjp6
+  _title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
+  _first_author: Xiaohui Xie
+  _cache: 7532eb4e12be7c27bf9fcf1bab978d77ee735d945ff777c8e9f538636f918704

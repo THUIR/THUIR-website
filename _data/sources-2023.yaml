@@ -9,7 +9,3 @@
 - id: doi:10.48550/arXiv.2304.03679
   _title: "T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking"
   _first_author: Xiaohui Xie
-
-# - id: doi:10.1145/3580305.3599536
-#   _title: "Unbiased Delayed Feedback Label Correction in Conversion Rate Prediction"
-#   _first_author: Yifan Wang
