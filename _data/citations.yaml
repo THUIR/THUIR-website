@@ -1302,3 +1302,30 @@
   _title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
   _first_author: Xiaohui Xie
   _cache: 7532eb4e12be7c27bf9fcf1bab978d77ee735d945ff777c8e9f538636f918704
+- id: doi:10.1145/3547333
+  title: A Survey on the Fairness of Recommender Systems
+  authors:
+  - Yifan Wang
+  - Weizhi Ma
+  - Min Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: '2023-02-07'
+  link: https://doi.org/gq5r43
+  _cache: b6242565d92aa838e526f52fc15768c778d815ef3b36ff8de584dda6e904080a
+- id: doi:10.48550/arXiv.2304.11370
+  title: 'SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval'
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Jia Chen
+  - Qian Dong
+  - Yueyue Wu
+  - Yiqun Liu
+  - Chong Chen
+  - Qi Tian
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsfjrr
+  _cache: 8170d1c0e1b12b8bf358cca48a572e73ff13584317b50265aebe0b1ac3239530
