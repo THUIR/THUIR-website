@@ -1264,7 +1264,7 @@
   _first_author: Bulou Liu
   _cache: ebed16312cca4b4ef2effbdd41b0a4d6825e91fae43efc435ca4c188a98292a0
 - id: doi:10.48550/arXiv.2306.02371
-  title: 'I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+  title: 'I<sup>3</sup> Retriever: Incorporating Implicit Interaction in Pre-trained Language
     Models for Passage Retrieval'
   authors:
   - Qian Dong
@@ -1283,7 +1283,7 @@
   _first_author: Qian Dong
   _cache: b78955341535109e64677dd758e7b68ff829faf0833a45fa45202eefd833947c
 - id: doi:10.48550/arXiv.2304.03679
-  title: 'T2Ranking: A large-scale Chinese Benchmark for Passage Ranking'
+  title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
   authors:
   - Xiaohui Xie
   - Qian Dong
