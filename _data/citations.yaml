@@ -1264,8 +1264,8 @@
   _first_author: Bulou Liu
   _cache: ebed16312cca4b4ef2effbdd41b0a4d6825e91fae43efc435ca4c188a98292a0
 - id: doi:10.48550/arXiv.2306.02371
-  title: 'I<sup>3</sup> Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
+  title: 'I<sup>3</sup> Retriever: Incorporating Implicit Interaction in Pre-trained
+    Language Models for Passage Retrieval'
   authors:
   - Qian Dong
   - Yiding Liu
@@ -1329,3 +1329,17 @@
   date: '2023-01-01'
   link: https://doi.org/gsfjrr
   _cache: 8170d1c0e1b12b8bf358cca48a572e73ff13584317b50265aebe0b1ac3239530
+- id: doi:10.48550/arXiv.2304.11943
+  title: Constructing Tree-based Index for Efficient and Effective Dense Retrieval
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Jingtao Zhan
+  - Jiaxin Mao
+  - Yiqun Liu
+  - Zheng Liu
+  - Zhao Cao
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gsfk33
+  _cache: 712ded29dc6eb3f954b35ff30b9930b87d749d7b95a955667f3777ed5ed2e7e1
