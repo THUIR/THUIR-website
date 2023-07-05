@@ -101,7 +101,7 @@
   group: dataset
   image: images/opensource/T2Ranking.png
   link: https://github.com/THUIR/T2Ranking
-  description:  T<sup>2</sup>Ranking is a Large-scale Chinese Benchmark for Passage Ranking. T<sup>2</sup>Ranking comprises more than 300K queries and over 2M unique passages from real- world search engines. Specifically, we sample question-based search queries from user logs of the Sogou search engine, a popular search system in China. For each query, we extract the content of corresponding documents from different search engines. After model-based passage segmentation and clustering-based passage de-duplication, a large-scale passage corpus is obtained. For a given query and its corresponding passages, we hire expert annotators to provide 4-level relevance judgments of each query-passage pair. 
+  description:  T<sup>2</sup>Ranking is a large-scale Chinese benchmark for passage ranking, including passage retrieval and re-ranking. T<sup>2</sup>Ranking comprises more than 300K queries and over 2M unique passages from real- world search engines. Specifically, we sample question-based search queries from user logs of the Sogou search engine, a popular search system in China. For each query, we extract the content of corresponding documents from different search engines. After model-based passage segmentation and clustering-based passage de-duplication, a large-scale passage corpus is obtained. For a given query and its corresponding passages, we hire expert annotators to provide 4-level relevance judgments of each query-passage pair. 
   tags:
     - Annotation
     - Passage retrieval
