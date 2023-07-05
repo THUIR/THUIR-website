@@ -97,4 +97,10 @@
   tags:
     - Logs
 
-
+- title: T<sup>2</sup>Ranking
+  group: dataset
+  image: https://github.com/THUIR/T2Ranking/blob/main/pic/stat.png
+  link: https://github.com/THUIR/T2Ranking
+  description:  A Large-scale Chinese Benchmark for Passage Ranking.
+  tags:
+    - Annotation
