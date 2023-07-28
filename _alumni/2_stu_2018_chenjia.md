@@ -1,7 +1,7 @@
 ---
 name: Jia Chen<br/>陈佳
 image: images/people/cj.jpg
-description: Ph.D. 2018-
+description: Ph.D. 2018-2023
 role: phd
 links:
     home-page: https://xuanyuan14.github.io

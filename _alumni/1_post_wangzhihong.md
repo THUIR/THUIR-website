@@ -1,7 +1,7 @@
 ---
 name: Zhihong Wang<br/>王志红
 image: images/people/wzh.jpg
-description: PostDoc. 2021-  
+description: PostDoc. 2021-2023 
 role: postdoc  
 links:   
     email: wangzhh629@mail.tsinghua.edu.cn   
