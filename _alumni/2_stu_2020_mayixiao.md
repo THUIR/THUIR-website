@@ -1,7 +1,7 @@
 ---
 name: Yixiao Ma<br/>马奕潇
 image: images/people/myx.jpg  
-description: Master 2020-  
+description: Master 2020-2023 
 role: master  
 links:  
     home-page: https://myx666.github.io/  

@@ -1,7 +1,7 @@
 ---
 name: Xiaohui Xie<br/>谢晓晖 
 image: images/people/xxh.jpg 
-description: PostDoc. 2021- 
+description: PostDoc. 2021-2023
 role: postdoc
 links: 
     home-page: https://thuxiexiaohui.github.io/ 
