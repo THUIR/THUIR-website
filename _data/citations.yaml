@@ -1282,8 +1282,8 @@
     Models for Passage Retrieval'
   _first_author: Qian Dong
   _cache: b78955341535109e64677dd758e7b68ff829faf0833a45fa45202eefd833947c
-- id: doi:10.48550/arXiv.2304.03679
-  title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
+- id: doi:10.1145/3539618.3591874
+  title: 'T2Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
   authors:
   - Xiaohui Xie
   - Qian Dong
@@ -1296,12 +1296,11 @@
   - Haitao Li
   - Yiqun Liu
   - Jin Ma
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfjp6
-  _title: 'T<sup>2</sup>Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
-  _first_author: Xiaohui Xie
-  _cache: 7532eb4e12be7c27bf9fcf1bab978d77ee735d945ff777c8e9f538636f918704
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/gsjb5w
+  _cache: 1a3754270fb1581ef4cef6c0b06210f7643c4e1f3ee38929d4e8b79479c1d3b2
 - id: doi:10.1145/3547333
   title: A Survey on the Fairness of Recommender Systems
   authors:
@@ -1314,7 +1313,7 @@
   date: '2023-02-07'
   link: https://doi.org/gq5r43
   _cache: b6242565d92aa838e526f52fc15768c778d815ef3b36ff8de584dda6e904080a
-- id: doi:10.48550/arXiv.2304.11370
+- id: doi:10.1145/3539618.3591761
   title: 'SAILER: Structure-aware Pre-trained Language Model for Legal Case Retrieval'
   authors:
   - Haitao Li
@@ -1325,11 +1324,12 @@
   - Yiqun Liu
   - Chong Chen
   - Qi Tian
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfjrr
-  _cache: 8170d1c0e1b12b8bf358cca48a572e73ff13584317b50265aebe0b1ac3239530
-- id: doi:10.48550/arXiv.2304.11943
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/gsjb5x
+  _cache: 708c80565aa9f942e255acea19695a44137f9555df68dce2437aeb90c1999645
+- id: doi:10.1145/3539618.3591651
   title: Constructing Tree-based Index for Efficient and Effective Dense Retrieval
   authors:
   - Haitao Li
@@ -1339,7 +1339,8 @@
   - Yiqun Liu
   - Zheng Liu
   - Zhao Cao
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfk33
-  _cache: 712ded29dc6eb3f954b35ff30b9930b87d749d7b95a955667f3777ed5ed2e7e1
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2023-07-18'
+  link: https://doi.org/gsjb7q
+  _cache: 2caf947e8c6eceb7bdd3cb5e8d9c3acad34658c633c1d498f5127c811fe0876c
