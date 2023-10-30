@@ -2,10 +2,6 @@
   _title: "Investigating Conversational Agent Action in Legal Case Retrieval"
   _first_author: Bulou Liu
 
-- id: doi:10.48550/arXiv.2306.02371
-  _title: "I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval"
-  _first_author: Qian Dong
-
 - id: doi:10.1145/3539618.3591874
 
 - id: doi:10.1145/3547333
@@ -13,3 +9,15 @@
 - id: doi:10.1145/3539618.3591761
 
 - id: doi:10.1145/3539618.3591651
+
+- id: doi:10.1145/3583780.3615099
+  _title: "Understanding User Immersion in Online Short Video Interaction"
+
+- id: doi:10.1145/3583780.3614953
+  _title: "Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal Case Retrieval"
+
+- id: doi:10.1145/3583780.3614923
+  _title: "I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval"
+
+- id: doi:10.1145/3604915.3608799
+  _title: "Two-sided Calibration for Quality-aware Responsible Recommendation"
