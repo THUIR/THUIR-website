@@ -1263,25 +1263,6 @@
   _title: Investigating Conversational Agent Action in Legal Case Retrieval
   _first_author: Bulou Liu
   _cache: ebed16312cca4b4ef2effbdd41b0a4d6825e91fae43efc435ca4c188a98292a0
-- id: doi:10.48550/arXiv.2306.02371
-  title: 'I<sup>3</sup> Retriever: Incorporating Implicit Interaction in Pre-trained
-    Language Models for Passage Retrieval'
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Haitao Li
-  - Shuaiqiang Wang
-  - Yiqun Liu
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/gsfjp5
-  _title: 'I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
-  _first_author: Qian Dong
-  _cache: b78955341535109e64677dd758e7b68ff829faf0833a45fa45202eefd833947c
 - id: doi:10.1145/3539618.3591874
   title: 'T2Ranking: A Large-scale Chinese Benchmark for Passage Ranking'
   authors:
@@ -1344,3 +1325,73 @@
   date: '2023-07-18'
   link: https://doi.org/gsjb7q
   _cache: 2caf947e8c6eceb7bdd3cb5e8d9c3acad34658c633c1d498f5127c811fe0876c
+- id: doi:10.1145/3583780.3615099
+  title: Understanding User Immersion in Online Short Video Interaction
+  authors:
+  - Zhiyu He
+  - Shaorun Zhang
+  - Peijie Sun
+  - Jiayu Li
+  - Xiaohui Xie
+  - Min Zhang
+  - Yiqun Liu
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs22r7
+  _title: Understanding User Immersion in Online Short Video Interaction
+  _cache: a46c17931b9461be2773c4674abdd417eb9bc8fb69de0708dd2f57ed718722e4
+- id: doi:10.1145/3583780.3614953
+  title: Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal
+    Case Retrieval
+  authors:
+  - Bulou Liu
+  - Yiran Hu
+  - Qingyao Ai
+  - Yiqun Liu
+  - Yueyue Wu
+  - Chenliang Li
+  - Weixing Shen
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs22r8
+  _title: Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal
+    Case Retrieval
+  _cache: 76c6b2ad5c814449411bb5509f0cc800e91c3385322086e44f2e4141b6f1e387
+- id: doi:10.1145/3583780.3614923
+  title: 'I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+    Models for Passage Retrieval'
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Haitao Li
+  - Shuaiqiang Wang
+  - Yiqun Liu
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs2pcc
+  _title: 'I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+    Models for Passage Retrieval'
+  _cache: e236f2f5dc4d7e04c265f5d1edbac445d9e446907e7bdc86baf259610309b210
+- id: doi:10.1145/3604915.3608799
+  title: Two-sided Calibration for Quality-aware Responsible Recommendation
+  authors:
+  - Chenyang Wang
+  - Yankai Liu
+  - Yuanqing Yu
+  - Weizhi Ma
+  - Min Zhang
+  - Yiqun Liu
+  - Haitao Zeng
+  - Junlan Feng
+  - Chao Deng
+  publisher: Proceedings of the 17th ACM Conference on Recommender Systems
+  date: '2023-09-14'
+  link: https://doi.org/gs22r9
+  _title: Two-sided Calibration for Quality-aware Responsible Recommendation
+  _cache: 5e6bd928b81c7298e81716a69dc12f46a92660316a6e4d3abf92d36abcaa8691
