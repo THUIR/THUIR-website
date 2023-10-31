@@ -109,7 +109,7 @@ new_citations = []
 for title in publications:
     new_citations.append({'id':title, 'title':title, "authors":publications[title]['authors'], "publisher":publications[title]['publisher'], "date":publications[title]['date'].replace('/','-'), "link":publications[title]['link']})
 
-new_citations.sort(key=lambda x:x['date'])
+new_citations.sort(key=lambda x:x['date'],reverse=True)
 # exit at end of loop if error occurred
 if will_exit:
     log("One or more sources failed to be cited", 3, "red")
