@@ -14,47 +14,10 @@ except Exception as e:
 
 log("Compiling list of sources to cite")
 
-# compile master list of sources from various plugins
-sources = []
-
 # error exit flag
 will_exit = False
 
 # loop through plugins
-for plugin in config.get("plugins", []):
-    # get plugin props
-    name = plugin.get("name", "[no name]")
-    files = plugin.get("input", [])
-
-    # show progress
-    log(f"Running {name} plugin")
-
-    # loop through plugin input files
-    for file in files:
-        # show progress
-        log(file, 2)
-
-        plugin_sources = []
-        try:
-            # get data in file
-            data = load_data(file)
-            # run plugin
-            plugin_sources = import_module(f"plugins.{name}").main(data)
-        except Exception as e:
-            log(e, 3, "red")
-            will_exit = True
-
-        log(f"Got {len(plugin_sources)} sources", 2, "green")
-
-        for source in plugin_sources:
-            # include meta info about plugin and source
-            source["_plugin"] = name
-            source["_input"] = file
-            # make unique key for cache matching
-            source["_cache"] = sha256(source)
-            # add source
-            sources.append(source)
-
 # exit at end of loop if error occurred
 if will_exit:
     log("One or more input files or plugins failed", 3, "red")
@@ -93,12 +56,12 @@ def setup_webdriver():
     chrome_options = Options()
     options = [
         "--headless",
-        "--disable-gpu",
-        "--window-size=1920,1200",
-        "--ignore-certificate-errors",
-        "--disable-extensions",
-        "--no-sandbox",
-        "--disable-dev-shm-usage"
+        # "--disable-gpu",
+        # "--window-size=1920,1200",
+        # "--ignore-certificate-errors",
+        # "--disable-extensions",
+        # "--no-sandbox",
+        # "--disable-dev-shm-usage"
     ]
     for option in options:
         chrome_options.add_argument(option)
