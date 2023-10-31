@@ -27,6 +27,7 @@ auto-cite:
         - ../_data/sources-2022.yaml
         - ../_data/sources-2023.yaml
   output: ../_data/citations.yaml
+  depth: 4
 
 # default front matter parameters for markdown files
 defaults:
