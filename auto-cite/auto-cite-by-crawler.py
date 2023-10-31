@@ -111,7 +111,14 @@ for title in publications:
     new_citations.append({'id':title, 'title':title, "authors":publications[title]['authors'], "publisher":publications[title]['publisher'], "date":publications[title]['date'].replace('/','-'), "link":publications[title]['link']})
 
 def convert_to_datetime(time_string):
-    return datetime.strptime(time_string, "%Y-%m-%d")
+    try:
+        return datetime.strptime(time_string, "%Y-%m-%d")
+    except:
+        try:
+            return datetime.strptime(time_string, "%Y-%m")
+        except:
+            return datetime.strptime(time_string, "%Y")
+
 new_citations.sort(key=lambda x:convert_to_datetime(x['date']),reverse=True)
 # exit at end of loop if error occurred
 if will_exit:
