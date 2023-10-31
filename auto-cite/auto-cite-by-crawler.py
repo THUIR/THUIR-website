@@ -42,7 +42,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.os_manager import ChromeType
 from time import sleep
 from selenium.webdriver.common.by import By
-from tqdm import tqdm
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 def setup_webdriver():
@@ -76,7 +75,7 @@ for supervisor in supervisors:
         wd.find_element(By.XPATH, '//*[@id="gsc_bpf_more"]/span/span[2]').click()
         sleep(3)
 
-    for i in tqdm(range(depth)):
+    for i in range(depth):
         part = wd.find_element(By.XPATH, f'//*[@id="gsc_a_b"]/tr[{i+1}]/td[1]/a')
         href = part.get_attribute('href')
         sleep(1)
