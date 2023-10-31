@@ -83,7 +83,7 @@ for supervisor in supervisors:
         wd.switch_to.window("new_tab")
         title = wd.find_element(By.ID, 'gsc_oci_title').text
         author = wd.find_element(By.CLASS_NAME, 'gsc_oci_value').text
-        date = wd.find_element(By.XPATH, '//*[@id="gsc_oci_table"]/div[2]/div[2]').text
+        date = wd.find_element(By.XPATH, '//*[@id="gsc_oci_table"]/div[2]/div[2]').text.replace('/','-')
         pub = wd.find_element(By.XPATH, '//*[@id="gsc_oci_table"]/div[3]/div[2]').text
         cnt = 4
         while True:
@@ -107,8 +107,9 @@ for pub in citations:
 
 new_citations = []
 for title in publications:
-    new_citations.append({'id':title, 'title':title, "authors":publications[title]['authors'], "publisher":publications[title]['publisher'], "date":publications[title]['date'], "link":publications[title]['link']})
- 
+    new_citations.append({'id':title, 'title':title, "authors":publications[title]['authors'], "publisher":publications[title]['publisher'], "date":publications[title]['date'].replace('/','-'), "link":publications[title]['link']})
+
+new_citations.sort(key=lambda x:x['date'])
 # exit at end of loop if error occurred
 if will_exit:
     log("One or more sources failed to be cited", 3, "red")
