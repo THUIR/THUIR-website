@@ -73,22 +73,6 @@
   publisher: arXiv preprint arXiv:2307.00250
   date: 2023/7/1
   link: https://scholar.google.com/scholar?oi=bibs&cluster=16561044614971893568&btnI=1&hl=zh-CN
-- id: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
-  title: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Haitao Li
-  - Shuaiqiang Wang
-  - Yiqun Liu
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: arXiv preprint arXiv:2306.02371
-  date: 2023/6/4
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=8732947677751648217&btnI=1&hl=en
 - id: Method, apparatus, electronic device, and storage medium for web search
   title: Method, apparatus, electronic device, and storage medium for web search
   authors:
@@ -2728,9 +2712,9 @@
     and Development in Information Retrieval
   date: '2023-07-18'
   link: https://doi.org/gsjb5w
-- id: 'I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models
-    for Passage Retrieval'
-  title: 'I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+- id: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+    Models for Passage Retrieval'
+  title: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
     Models for Passage Retrieval'
   authors:
   - Qian Dong
