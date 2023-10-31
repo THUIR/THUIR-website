@@ -39,7 +39,7 @@ jobs:
         run: pip install requests beautifulsoup4 pandas webdriver-manager selenium
       - name: Build updated citations
         run: python ./auto-cite/auto-cite-by-crawler.py
-        timeout-minutes: 15
+        timeout-minutes: 60
       - name: Commit updated citations
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
