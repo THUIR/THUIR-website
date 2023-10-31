@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: Automatic Feature Selection By One-Shot Neural Architecture Search In Recommendation Systems
+  title: Automatic Feature Selection By One-Shot Neural Architecture Search In Recommendation Systems
+  authors:
+  - He Wei
+  - Yuekui Yang
+  - Haiyang Wu
+  - Yangyang Tang
+  - Meixi Liu
+  - Jianfeng Li
+  publisher: Proceedings of the ACM Web Conference 2023
+  date: '2023-4-30'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13051258810147895579&btnI=1&hl=en
 - id: Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal
     Case Retrieval
   title: Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal
