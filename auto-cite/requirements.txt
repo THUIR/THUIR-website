@@ -2,3 +2,4 @@ manubot==0.5.3
 PyYAML==6.0
 dict-hash==1.1.26
 selenium==4.10.0
+webdriver_manager==4.0.1
