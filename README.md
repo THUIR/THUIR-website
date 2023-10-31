@@ -19,3 +19,5 @@
 [💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
 
 [❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
+
+### 🚀 To update the publications using Google Scholar Crawler, you need to modify the depth that desired in the scholar profile of supervisors in our laboratory, in the file of [_config.yaml](https://github.com/THUIR/THUIR-website/blob/d346d5702e10760fb5b7e822c203a6a35f6f1870/_config.yaml#L30). Then, you need to create a new branch for the updated information and wait for the crawler to finishing its job. Subsequently, the updated branch could be merged to the main branch. 🥳👏
