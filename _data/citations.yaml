@@ -17,6 +17,37 @@
     Knowledge Management
   date: '2023-10-21'
   link: https://doi.org/gs22r8
+- id: Aligning the Capabilities of Large Language Models with the Context of Information
+    Retrieval via Contrastive Feedback
+  title: Aligning the Capabilities of Large Language Models with the Context of Information
+    Retrieval via Contrastive Feedback
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Zhijing Wu
+  - Haitao Li
+  - Yiqun Liu
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2309.17078
+  date: 2023/9/29
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6722217361395516314&btnI=1&hl=en
+- id: An intent taxonomy of legal case retrieval
+  title: An intent taxonomy of legal case retrieval
+  authors:
+  - Yunqiu Shao
+  - Haitao Li
+  - Yueyue Wu
+  - Yiqun Liu
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Yixiao Ma
+  - Shaoping Ma
+  publisher: ACM Transactions on Information Systems
+  date: 2023/7/25
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1661965596312907709&btnI=1&hl=en
 - id: Behavior Modeling for Point of Interest Search
   title: Behavior Modeling for Point of Interest Search
   authors:
@@ -34,76 +65,6 @@
     and Development in Information Retrieval
   date: 2023/7/19
   link: https://scholar.google.com/scholar?oi=bibs&cluster=15188732889826155832&btnI=1&hl=en
-- id: Understanding User Immersion in Online Short Video Interaction
-  title: Understanding User Immersion in Online Short Video Interaction
-  authors:
-  - Zhiyu He
-  - Shaorun Zhang
-  - Peijie Sun
-  - Jiayu Li
-  - Xiaohui Xie
-  - Min Zhang
-  - Yiqun Liu
-  publisher: Proceedings of the 32nd ACM International Conference on Information and
-    Knowledge Management
-  date: '2023-10-21'
-  link: https://doi.org/gs22r7
-- id: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
-    Process
-  title: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
-    Process
-  authors:
-  - Beining Wang
-  - Ruizhe Zhang
-  - Yueyue Wu
-  - Qingyao Ai
-  - Min Zhang
-  - Yiqun Liu
-  publisher: arXiv preprint arXiv:2310.04735
-  date: 2023/10/7
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=16912688003502688892&btnI=1&hl=en
-- id: Two-sided Calibration for Quality-aware Responsible Recommendation
-  title: Two-sided Calibration for Quality-aware Responsible Recommendation
-  authors:
-  - Chenyang Wang
-  - Yankai Liu
-  - Yuanqing Yu
-  - Weizhi Ma
-  - Min Zhang
-  - Yiqun Liu
-  - Haitao Zeng
-  - Junlan Feng
-  - Chao Deng
-  publisher: Proceedings of the 17th ACM Conference on Recommender Systems
-  date: '2023-09-14'
-  link: https://doi.org/gs22r9
-- id: Epidemiological research on rare diseases using large-scale online search queries
-    and reported case data
-  title: Epidemiological research on rare diseases using large-scale online search
-    queries and reported case data
-  authors:
-  - Lei Zhang
-  - Ye Jin
-  - Jiayu Li
-  - Zhiyu He
-  - Dingding Zhang
-  - Min Zhang
-  - Shuyang Zhang
-  publisher: Orphanet Journal of Rare Diseases
-  date: 2023/8/9
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=16198274083279419013&btnI=1&hl=en
-- id: 'LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset'
-  title: 'LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset'
-  authors:
-  - Haitao Li
-  - Yunqiu Shao
-  - Yueyue Wu
-  - Qingyao Ai
-  - Yixiao Ma
-  - Yiqun Liu
-  publisher: arXiv preprint arXiv:2310.17609
-  date: 2023/10/26
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=12204807192754161757&btnI=1&hl=en
 - id: THUIR2 at NTCIR-16 Session Search (SS) Task
   title: THUIR2 at NTCIR-16 Session Search (SS) Task
   authors:
@@ -115,6 +76,23 @@
   publisher: arXiv preprint arXiv:2307.00250
   date: 2023/7/1
   link: https://scholar.google.com/scholar?oi=bibs&cluster=16561044614971893568&btnI=1&hl=zh-CN
+- id: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+    Models for Passage Retrieval'
+  title: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
+    Models for Passage Retrieval'
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Haitao Li
+  - Shuaiqiang Wang
+  - Yiqun Liu
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs2pcc
 - id: Method, apparatus, electronic device, and storage medium for web search
   title: Method, apparatus, electronic device, and storage medium for web search
   authors:
@@ -180,6 +158,184 @@
   publisher: ACM Transactions on Information Systems
   date: 2023/2/7
   link: https://scholar.google.com/scholar?oi=bibs&cluster=16707436219214088976&btnI=1&hl=en
+- id: Understanding User Immersion in Online Short Video Interaction
+  title: Understanding User Immersion in Online Short Video Interaction
+  authors:
+  - Zhiyu He
+  - Shaorun Zhang
+  - Peijie Sun
+  - Jiayu Li
+  - Xiaohui Xie
+  - Min Zhang
+  - Yiqun Liu
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs22r7
+- id: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
+    Process
+  title: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
+    Process
+  authors:
+  - Beining Wang
+  - Ruizhe Zhang
+  - Yueyue Wu
+  - Qingyao Ai
+  - Min Zhang
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2310.04735
+  date: 2023/10/7
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16912688003502688892&btnI=1&hl=en
+- id: Two-sided Calibration for Quality-aware Responsible Recommendation
+  title: Two-sided Calibration for Quality-aware Responsible Recommendation
+  authors:
+  - Chenyang Wang
+  - Yankai Liu
+  - Yuanqing Yu
+  - Weizhi Ma
+  - Min Zhang
+  - Yiqun Liu
+  - Haitao Zeng
+  - Junlan Feng
+  - Chao Deng
+  publisher: Proceedings of the 17th ACM Conference on Recommender Systems
+  date: '2023-09-14'
+  link: https://doi.org/gs22r9
+- id: Epidemiological research on rare diseases using large-scale online search queries
+    and reported case data
+  title: Epidemiological research on rare diseases using large-scale online search
+    queries and reported case data
+  authors:
+  - Lei Zhang
+  - Ye Jin
+  - Jiayu Li
+  - Zhiyu He
+  - Dingding Zhang
+  - Min Zhang
+  - Shuyang Zhang
+  publisher: Orphanet Journal of Rare Diseases
+  date: 2023/8/9
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16198274083279419013&btnI=1&hl=en
+- id: Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction
+  title: Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction
+  authors:
+  - Yifan Wang
+  - Peijie Sun
+  - Min Zhang
+  - Qinglin Jia
+  - Jingjie Li
+  - Shaoping Ma
+  publisher: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: 2023/8/6
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5848353897809320473&btnI=1&hl=en
+- id: Measuring Item Global Residual Value for Fair Recommendation
+  title: Measuring Item Global Residual Value for Fair Recommendation
+  authors:
+  - Jiayin Wang
+  - Weizhi Ma
+  - Chumeng Jiang
+  - Min Zhang
+  - Yuan Zhang
+  - Biao Li
+  - Peng Jiang
+  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: 2023/7/19
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5552061552757004051&btnI=1&hl=en
+- id: 'Estimating Rare Disease Incidences With Large-scale Internet Search Data: Development
+    and Evaluation of a Two-step Machine Learning Method'
+  title: 'Estimating Rare Disease Incidences With Large-scale Internet Search Data:
+    Development and Evaluation of a Two-step Machine Learning Method'
+  authors:
+  - Jiayu Li
+  - Zhiyu He
+  - Min Zhang
+  - Weizhi Ma
+  - Ye Jin
+  - Lei Zhang
+  - Shuyang Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: JMIR Infodemiology
+  date: 2023/4/28
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2117292735940077583&btnI=1&hl=en
+- id: Intent-aware Ranking Ensemble for Personalized Recommendation
+  title: Intent-aware Ranking Ensemble for Personalized Recommendation
+  authors:
+  - Jiayu Li
+  - Peijie Sun
+  - Zhefan Wang
+  - Weizhi Ma
+  - Yangkun Li
+  - Min Zhang
+  - Zhoutian Feng
+  - Daiyue Xue
+  publisher: arXiv preprint arXiv:2304.07450
+  date: 2023/4/15
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14506368419755023128&btnI=1&hl=en
+- id: 'LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset'
+  title: 'LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset'
+  authors:
+  - Haitao Li
+  - Yunqiu Shao
+  - Yueyue Wu
+  - Qingyao Ai
+  - Yixiao Ma
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2310.17609
+  date: 2023/10/26
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12204807192754161757&btnI=1&hl=en
+- id: 'GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification
+    with Graph Neural Network'
+  title: 'GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification
+    with Graph Neural Network'
+  authors:
+  - Kaiyuan Zhang
+  - Ziyi Ye
+  - Qingyao Ai
+  - Xiaohui Xie
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2309.15515
+  date: 2023/9/27
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=8846508013033347030&btnI=1&hl=en
+- id: 'FARA: Future-aware Ranking Algorithm for Fairness Optimization'
+  title: 'FARA: Future-aware Ranking Algorithm for Fairness Optimization'
+  authors:
+  - Tao Yang
+  - Zhichao Xu
+  - Zhenduo Wang
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2305.16637
+  date: 2023/5/26
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13438123665277110405&btnI=1&hl=en
+- id: Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware Empirical
+    Bayes Approach
+  title: Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware
+    Empirical Bayes Approach
+  authors:
+  - Tao Yang
+  - Cuize Han
+  - Chen Luo
+  - Parth Gupta
+  - Jeff M Phillips
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2305.16606
+  date: 2023/5/26
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=8360800028327809085&btnI=1&hl=en
+- id: Unconfounded Propensity Estimation for Unbiased Ranking
+  title: Unconfounded Propensity Estimation for Unbiased Ranking
+  authors:
+  - Dan Luo
+  - Lixin Zou
+  - Qingyao Ai
+  - Zhiyu Chen
+  - Chenliang Li
+  - Dawei Yin
+  - Brian D Davison
+  publisher: arXiv preprint arXiv:2305.09918
+  date: 2023/5/17
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16326096889192671596&btnI=1&hl=en
 - id: 'User Perception of Recommendation Explanation: Are Your Explanations What Users
     Need?'
   title: 'User Perception of Recommendation Explanation: Are Your Explanations What
@@ -1414,64 +1570,6 @@
     and Development in Information Retrieval
   date: 2020/7/25
   link: https://scholar.google.com/scholar?oi=bibs&cluster=5884398697788885506&btnI=1&hl=en
-- id: Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction
-  title: Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction
-  authors:
-  - Yifan Wang
-  - Peijie Sun
-  - Min Zhang
-  - Qinglin Jia
-  - Jingjie Li
-  - Shaoping Ma
-  publisher: Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery
-    and Data Mining
-  date: 2023/8/6
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=5848353897809320473&btnI=1&hl=en
-- id: Measuring Item Global Residual Value for Fair Recommendation
-  title: Measuring Item Global Residual Value for Fair Recommendation
-  authors:
-  - Jiayin Wang
-  - Weizhi Ma
-  - Chumeng Jiang
-  - Min Zhang
-  - Yuan Zhang
-  - Biao Li
-  - Peng Jiang
-  publisher: Proceedings of the 46th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval
-  date: 2023/7/19
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=5552061552757004051&btnI=1&hl=en
-- id: 'Estimating Rare Disease Incidences With Large-scale Internet Search Data: Development
-    and Evaluation of a Two-step Machine Learning Method'
-  title: 'Estimating Rare Disease Incidences With Large-scale Internet Search Data:
-    Development and Evaluation of a Two-step Machine Learning Method'
-  authors:
-  - Jiayu Li
-  - Zhiyu He
-  - Min Zhang
-  - Weizhi Ma
-  - Ye Jin
-  - Lei Zhang
-  - Shuyang Zhang
-  - Yiqun Liu
-  - Shaoping Ma
-  publisher: JMIR Infodemiology
-  date: 2023/4/28
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=2117292735940077583&btnI=1&hl=en
-- id: Intent-aware Ranking Ensemble for Personalized Recommendation
-  title: Intent-aware Ranking Ensemble for Personalized Recommendation
-  authors:
-  - Jiayu Li
-  - Peijie Sun
-  - Zhefan Wang
-  - Weizhi Ma
-  - Yangkun Li
-  - Min Zhang
-  - Zhoutian Feng
-  - Daiyue Xue
-  publisher: arXiv preprint arXiv:2304.07450
-  date: 2023/4/15
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=14506368419755023128&btnI=1&hl=en
 - id: 'Information Retrieval Meets Large Language Models: A Strategic Report from
     Chinese IR Community'
   title: 'Information Retrieval Meets Large Language Models: A Strategic Report from
@@ -1643,56 +1741,6 @@
   publisher: arXiv preprint arXiv:2006.15498
   date: 2020/6/28
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9175052514062160901&btnI=1&hl=en
-- id: 'GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification
-    with Graph Neural Network'
-  title: 'GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification
-    with Graph Neural Network'
-  authors:
-  - Kaiyuan Zhang
-  - Ziyi Ye
-  - Qingyao Ai
-  - Xiaohui Xie
-  - Yiqun Liu
-  publisher: arXiv preprint arXiv:2309.15515
-  date: 2023/9/27
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=8846508013033347030&btnI=1&hl=en
-- id: 'FARA: Future-aware Ranking Algorithm for Fairness Optimization'
-  title: 'FARA: Future-aware Ranking Algorithm for Fairness Optimization'
-  authors:
-  - Tao Yang
-  - Zhichao Xu
-  - Zhenduo Wang
-  - Qingyao Ai
-  publisher: arXiv preprint arXiv:2305.16637
-  date: 2023/5/26
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=13438123665277110405&btnI=1&hl=en
-- id: Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware Empirical
-    Bayes Approach
-  title: Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware
-    Empirical Bayes Approach
-  authors:
-  - Tao Yang
-  - Cuize Han
-  - Chen Luo
-  - Parth Gupta
-  - Jeff M Phillips
-  - Qingyao Ai
-  publisher: arXiv preprint arXiv:2305.16606
-  date: 2023/5/26
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=8360800028327809085&btnI=1&hl=en
-- id: Unconfounded Propensity Estimation for Unbiased Ranking
-  title: Unconfounded Propensity Estimation for Unbiased Ranking
-  authors:
-  - Dan Luo
-  - Lixin Zou
-  - Qingyao Ai
-  - Zhiyu Chen
-  - Chenliang Li
-  - Dawei Yin
-  - Brian D Davison
-  publisher: arXiv preprint arXiv:2305.09918
-  date: 2023/5/17
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=16326096889192671596&btnI=1&hl=en
 - id: 'THUIR@ COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment'
   title: 'THUIR@ COLIEE 2023: More Parameters and Legal Knowledge for Legal Case Entailment'
   authors:
@@ -2696,20 +2744,3 @@
     and Development in Information Retrieval
   date: '2023-07-18'
   link: https://doi.org/gsjb5w
-- id: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
-  title: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
-    Models for Passage Retrieval'
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Haitao Li
-  - Shuaiqiang Wang
-  - Yiqun Liu
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: Proceedings of the 32nd ACM International Conference on Information and
-    Knowledge Management
-  date: '2023-10-21'
-  link: https://doi.org/gs2pcc
