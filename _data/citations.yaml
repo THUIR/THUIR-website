@@ -14,23 +14,6 @@
     Knowledge Management
   date: '2023-10-21'
   link: https://doi.org/gs22r8
-- id: Aligning the Capabilities of Large Language Models with the Context of Information
-    Retrieval via Contrastive Feedback
-  title: Aligning the Capabilities of Large Language Models with the Context of Information
-    Retrieval via Contrastive Feedback
-  authors:
-  - Qian Dong
-  - Yiding Liu
-  - Qingyao Ai
-  - Zhijing Wu
-  - Haitao Li
-  - Yiqun Liu
-  - Shuaiqiang Wang
-  - Dawei Yin
-  - Shaoping Ma
-  publisher: arXiv preprint arXiv:2309.17078
-  date: 2023/9/29
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=6722217361395516314&btnI=1&hl=en
 - id: An intent taxonomy of legal case retrieval
   title: An intent taxonomy of legal case retrieval
   authors:
