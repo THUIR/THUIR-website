@@ -1,3 +1,6 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
 - id: Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal
     Case Retrieval
   title: Leveraging Event Schema to Ask Clarifying Questions for Conversational Legal
@@ -14,6 +17,23 @@
     Knowledge Management
   date: '2023-10-21'
   link: https://doi.org/gs22r8
+- id: Aligning the Capabilities of Large Language Models with the Context of Information
+    Retrieval via Contrastive Feedback
+  title: Aligning the Capabilities of Large Language Models with the Context of Information
+    Retrieval via Contrastive Feedback
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Zhijing Wu
+  - Haitao Li
+  - Yiqun Liu
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2309.17078
+  date: 2023/9/29
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6722217361395516314&btnI=1&hl=en
 - id: An intent taxonomy of legal case retrieval
   title: An intent taxonomy of legal case retrieval
   authors:
@@ -45,6 +65,76 @@
     and Development in Information Retrieval
   date: 2023/7/19
   link: https://scholar.google.com/scholar?oi=bibs&cluster=15188732889826155832&btnI=1&hl=en
+- id: Understanding User Immersion in Online Short Video Interaction
+  title: Understanding User Immersion in Online Short Video Interaction
+  authors:
+  - Zhiyu He
+  - Shaorun Zhang
+  - Peijie Sun
+  - Jiayu Li
+  - Xiaohui Xie
+  - Min Zhang
+  - Yiqun Liu
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs22r7
+- id: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
+    Process
+  title: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
+    Process
+  authors:
+  - Beining Wang
+  - Ruizhe Zhang
+  - Yueyue Wu
+  - Qingyao Ai
+  - Min Zhang
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2310.04735
+  date: 2023/10/7
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16912688003502688892&btnI=1&hl=en
+- id: Two-sided Calibration for Quality-aware Responsible Recommendation
+  title: Two-sided Calibration for Quality-aware Responsible Recommendation
+  authors:
+  - Chenyang Wang
+  - Yankai Liu
+  - Yuanqing Yu
+  - Weizhi Ma
+  - Min Zhang
+  - Yiqun Liu
+  - Haitao Zeng
+  - Junlan Feng
+  - Chao Deng
+  publisher: Proceedings of the 17th ACM Conference on Recommender Systems
+  date: '2023-09-14'
+  link: https://doi.org/gs22r9
+- id: Epidemiological research on rare diseases using large-scale online search queries
+    and reported case data
+  title: Epidemiological research on rare diseases using large-scale online search
+    queries and reported case data
+  authors:
+  - Lei Zhang
+  - Ye Jin
+  - Jiayu Li
+  - Zhiyu He
+  - Dingding Zhang
+  - Min Zhang
+  - Shuyang Zhang
+  publisher: Orphanet Journal of Rare Diseases
+  date: 2023/8/9
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16198274083279419013&btnI=1&hl=en
+- id: 'LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset'
+  title: 'LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset'
+  authors:
+  - Haitao Li
+  - Yunqiu Shao
+  - Yueyue Wu
+  - Qingyao Ai
+  - Yixiao Ma
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2310.17609
+  date: 2023/10/26
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12204807192754161757&btnI=1&hl=en
 - id: THUIR2 at NTCIR-16 Session Search (SS) Task
   title: THUIR2 at NTCIR-16 Session Search (SS) Task
   authors:
@@ -1355,64 +1445,6 @@
     and Development in Information Retrieval
   date: 2020/7/25
   link: https://scholar.google.com/scholar?oi=bibs&cluster=5884398697788885506&btnI=1&hl=en
-- id: Understanding User Immersion in Online Short Video Interaction
-  title: Understanding User Immersion in Online Short Video Interaction
-  authors:
-  - Zhiyu He
-  - Shaorun Zhang
-  - Peijie Sun
-  - Jiayu Li
-  - Xiaohui Xie
-  - Min Zhang
-  - Yiqun Liu
-  publisher: Proceedings of the 32nd ACM International Conference on Information and
-    Knowledge Management
-  date: '2023-10-21'
-  link: https://doi.org/gs22r7
-- id: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
-    Process
-  title: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
-    Process
-  authors:
-  - Beining Wang
-  - Ruizhe Zhang
-  - Yueyue Wu
-  - Qingyao Ai
-  - Min Zhang
-  - Yiqun Liu
-  publisher: arXiv preprint arXiv:2310.04735
-  date: 2023/10/7
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=16912688003502688892&btnI=1&hl=en
-- id: Two-sided Calibration for Quality-aware Responsible Recommendation
-  title: Two-sided Calibration for Quality-aware Responsible Recommendation
-  authors:
-  - Chenyang Wang
-  - Yankai Liu
-  - Yuanqing Yu
-  - Weizhi Ma
-  - Min Zhang
-  - Yiqun Liu
-  - Haitao Zeng
-  - Junlan Feng
-  - Chao Deng
-  publisher: Proceedings of the 17th ACM Conference on Recommender Systems
-  date: '2023-09-14'
-  link: https://doi.org/gs22r9
-- id: Epidemiological research on rare diseases using large-scale online search queries
-    and reported case data
-  title: Epidemiological research on rare diseases using large-scale online search
-    queries and reported case data
-  authors:
-  - Lei Zhang
-  - Ye Jin
-  - Jiayu Li
-  - Zhiyu He
-  - Dingding Zhang
-  - Min Zhang
-  - Shuyang Zhang
-  publisher: Orphanet Journal of Rare Diseases
-  date: 2023/8/9
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=16198274083279419013&btnI=1&hl=en
 - id: Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction
   title: Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction
   authors:
