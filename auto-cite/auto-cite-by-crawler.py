@@ -106,10 +106,6 @@ for pub in citations:
         pub.pop("_cache")
     publications[title] = pub
 
-new_citations = []
-for title in publications:
-    new_citations.append({'id':title, 'title':title, "authors":publications[title]['authors'], "publisher":publications[title]['publisher'], "date":publications[title]['date'].replace('/','-'), "link":publications[title]['link']})
-
 def convert_to_datetime(time_string):
     try:
         return datetime.strptime(time_string, "%Y-%m-%d")
@@ -118,6 +114,13 @@ def convert_to_datetime(time_string):
             return datetime.strptime(time_string, "%Y-%m")
         except:
             return datetime.strptime(time_string, "%Y")
+
+new_citations = []
+for title in publications:
+    date = publications[title]['date'].replace('/','-')
+    converted_date = convert_to_datetime(date)
+    date = converted_date.strftime("%Y-%m-%d")
+    new_citations.append({'id':title, 'title':title, "authors":publications[title]['authors'], "publisher":publications[title]['publisher'], "date":date, "link":publications[title]['link']})
 
 new_citations.sort(key=lambda x:convert_to_datetime(x['date']),reverse=True)
 # exit at end of loop if error occurred
