@@ -114,7 +114,10 @@ def convert_to_datetime(time_string):
     try:
         return datetime.strptime(time_string, "%Y-%m-%d")
     except:
-        return datetime.strptime(time_string, "%Y-%m")
+        try:
+            return datetime.strptime(time_string, "%Y-%m")
+        except:
+            return datetime.strptime(time_string, "%Y")
 
 new_citations.sort(key=lambda x:convert_to_datetime(x['date']),reverse=True)
 # exit at end of loop if error occurred
