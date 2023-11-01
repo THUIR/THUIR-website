@@ -93,7 +93,7 @@ for supervisor in supervisors:
                 break
             except:
                 cnt+=1
-        publications[title] = {'title':title, 'authors':[a.strip() for a in author.split(",")], 'publisher':pub, 'date':date, 'link':url}
+        publications[title.lower()] = {'title':title, 'authors':[a.strip() for a in author.split(",")], 'publisher':pub, 'date':date, 'link':url}
         sleep(1)
         wd.close()
         wd.switch_to.window(wd.window_handles[0])
@@ -104,7 +104,7 @@ for pub in citations:
         pub.pop("id")
     if '_cache' in pub:
         pub.pop("_cache")
-    publications[title] = pub
+    publications[title.lower()] = pub
 
 def convert_to_datetime(time_string):
     try:
@@ -116,11 +116,11 @@ def convert_to_datetime(time_string):
             return datetime.strptime(time_string, "%Y")
 
 new_citations = []
-for title in publications:
-    date = publications[title]['date'].replace('/','-')
+for id in publications:
+    date = publications[id]['date'].replace('/','-')
     converted_date = convert_to_datetime(date)
     date = converted_date.strftime("%Y-%m-%d")
-    new_citations.append({'id':title, 'title':title, "authors":publications[title]['authors'], "publisher":publications[title]['publisher'], "date":date, "link":publications[title]['link']})
+    new_citations.append({'id':id, 'title':publications[id]['title'], "authors":publications[id]['authors'], "publisher":publications[id]['publisher'], "date":date, "link":publications[id]['link']})
 
 new_citations.sort(key=lambda x:convert_to_datetime(x['date']),reverse=True)
 # exit at end of loop if error occurred
