@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'caseformer: pre-training for legal case retrieval'
+  title: 'Caseformer: Pre-training for Legal Case Retrieval'
+  authors:
+  - Weihang Su
+  - Qingyao Ai
+  - Yueyue Wu
+  - Yixiao Ma
+  - Haitao Li
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2311.00333
+  date: '2023-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6548833419984147654&btnI=1&hl=en
 - id: 'lecardv2: a large-scale chinese legal case retrieval dataset'
   title: 'LeCaRDv2: A Large-Scale Chinese Legal Case Retrieval Dataset'
   authors:
