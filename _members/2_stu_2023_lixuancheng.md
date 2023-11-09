@@ -1,6 +1,6 @@
 ---
 name: Xuancheng Li<br/>李宣成
-image: images/people/default.png
+image: images/logo.jpg
 description: Ph.D. 2023-  
 role: phd  
 ---
