@@ -1,6 +1,6 @@
 ---
 name: Beining Wang<br/>王贝宁
-image: images/logo.jpg
+image: images/people/default.png
 description: Ph.D. 2023-  
 role: phd  
 ---
