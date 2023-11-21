@@ -47,7 +47,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 def setup_webdriver():
     # setup webdriver
-    chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM, driver_version="118.0.5993.0").install())
+    chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
 
     chrome_options = Options()
     options = [
