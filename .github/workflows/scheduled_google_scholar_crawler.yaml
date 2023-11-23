@@ -1,17 +1,8 @@
-name: Auto Cite by Crawler
+name: Scheduled Auto Cite by Crawler
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "_config.yaml"
-  pull_request:
-    paths:
-      - "_config.yaml"
-  # workflow_dispatch:
-  # schedule:
-  #   - cron: "0 0 * * 1"
+  schedule:
+    - cron: '00 9 * * *' 
 
 jobs:
   update_research:
