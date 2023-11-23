@@ -9,9 +9,8 @@ on:
   pull_request:
     paths:
       - "_config.yaml"
-  # workflow_dispatch:
-  # schedule:
-  #   - cron: "0 0 * * 1"
+  schedule:
+    - cron: '40 8 * * *'
 
 jobs:
   update_research:
