@@ -1,6 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: vertical allocation-based fair exposure amortizing in ranking
+  title: Vertical Allocation-based Fair Exposure Amortizing in Ranking
+  authors:
+  - Tao Yang
+  - Zhichao Xu
+  - Qingyao Ai
+  publisher: Annual International ACM SIGIR Conference on Research and Development
+    in Information Retrieval in the Asia Pacific Region
+  date: '2023-11-26'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4630192280997082198&btnI=1&hl=en
+- id: 'chuweb21d: a deduped english document collection for web search tasks'
+  title: 'Chuweb21D: A Deduped English Document Collection for Web Search Tasks'
+  authors:
+  - Zhumin Chu
+  - Tetsuya Sakai
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Annual International ACM SIGIR Conference on Research and Development
+    in Information Retrieval in the Asia Pacific Region
+  date: '2023-11-26'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12996143086614470224&btnI=1&hl=en
+- id: result diversification for legal case retrieval
+  title: Result Diversification for Legal Case Retrieval
+  authors:
+  - Ruizhe Zhang
+  - Qingyao Ai
+  - Yueyue Wu
+  - Yixiao Ma
+  - Yiqun Liu
+  publisher: Annual International ACM SIGIR Conference on Research and Development
+    in Information Retrieval in the Asia Pacific Region
+  date: '2023-11-26'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=812514203678700621&btnI=1&hl=en
 - id: language generation from human brain activities
   title: Language Generation from Human Brain Activities
   authors:
