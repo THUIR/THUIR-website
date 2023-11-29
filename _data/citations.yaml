@@ -1,6 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: vertical allocation-based fair exposure amortizing in ranking
+  title: Vertical Allocation-based Fair Exposure Amortizing in Ranking
+  authors:
+  - Tao Yang
+  - Zhichao Xu
+  - Qingyao Ai
+  publisher: Annual International ACM SIGIR Conference on Research and Development
+    in Information Retrieval in the Asia Pacific Region
+  date: '2023-11-26'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4630192280997082198&btnI=1&hl=en
 - id: language generation from human brain activities
   title: Language Generation from Human Brain Activities
   authors:
