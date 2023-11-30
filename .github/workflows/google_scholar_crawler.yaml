@@ -17,7 +17,7 @@ jobs:
   update_research:
     name: Auto Cite by Crawler
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 600
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -39,7 +39,7 @@ jobs:
         run: pip install requests beautifulsoup4 pandas webdriver-manager selenium
       - name: Build updated citations
         run: python ./auto-cite/auto-cite-by-crawler.py
-        timeout-minutes: 60
+        timeout-minutes: 600
       - name: Commit updated citations
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
