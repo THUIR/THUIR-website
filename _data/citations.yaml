@@ -86,20 +86,6 @@
     Knowledge Management
   date: '2023-10-21'
   link: https://doi.org/gs22r8
-- id: understanding user immersion in online short video interaction
-  title: Understanding User Immersion in Online Short Video Interaction
-  authors:
-  - Zhiyu He
-  - Shaorun Zhang
-  - Peijie Sun
-  - Jiayu Li
-  - Xiaohui Xie
-  - Min Zhang
-  - Yiqun Liu
-  publisher: Proceedings of the 32nd ACM International Conference on Information and
-    Knowledge Management
-  date: '2023-10-21'
-  link: https://doi.org/gs22r7
 - id: 'i^ 3 retriever: incorporating implicit interaction in pre-trained language
     models for passage retrieval'
   title: 'I^ 3 Retriever: Incorporating Implicit Interaction in Pre-trained Language
@@ -117,6 +103,20 @@
     Knowledge Management
   date: '2023-10-21'
   link: https://doi.org/gs2pcc
+- id: understanding user immersion in online short video interaction
+  title: Understanding User Immersion in Online Short Video Interaction
+  authors:
+  - Zhiyu He
+  - Shaorun Zhang
+  - Peijie Sun
+  - Jiayu Li
+  - Xiaohui Xie
+  - Min Zhang
+  - Yiqun Liu
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs22r7
 - id: investigating the influence of legal case retrieval systems on users' decision
     process
   title: Investigating the Influence of Legal Case Retrieval Systems on Users' Decision
