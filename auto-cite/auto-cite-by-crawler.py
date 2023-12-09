@@ -47,6 +47,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 def setup_webdriver():
     # setup webdriver
+    # chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM, driver_version="119.0.6045.0").install())
     chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
 
     chrome_options = Options()
@@ -72,12 +73,15 @@ for supervisor in supervisors:
     depth = config.get("depth", 10)
     wd.get(supervisor)
     wd.find_element(By.XPATH, '//*[@id="gsc_a_ha"]/a').click()
-    for i in range(3):
+    for i in range(10):
         wd.find_element(By.XPATH, '//*[@id="gsc_bpf_more"]/span/span[2]').click()
-        sleep(3)
+        sleep(1)
 
     for i in range(depth):
-        part = wd.find_element(By.XPATH, f'//*[@id="gsc_a_b"]/tr[{i+1}]/td[1]/a')
+        try:
+            part = wd.find_element(By.XPATH, f'//*[@id="gsc_a_b"]/tr[{i+1}]/td[1]/a')
+        except:
+            break
         href = part.get_attribute('href')
         sleep(1)
         wd.execute_script(f"window.open('{href}', 'new_tab')")
@@ -93,6 +97,7 @@ for supervisor in supervisors:
                 break
             except:
                 cnt+=1
+        print(title, f'{i+1}/{depth}')
         publications[title.lower()] = {'title':title, 'authors':[a.strip() for a in author.split(",")], 'publisher':pub, 'date':date, 'link':url}
         sleep(1)
         wd.close()

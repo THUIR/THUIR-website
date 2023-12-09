@@ -20,12 +20,12 @@ jobs:
         run: python -m pip install --upgrade --requirement ./auto-cite/requirements.txt
       - name: Installed package list
         run: apt list --installed
-      - name: Remove Chrome
-        run: sudo apt purge google-chrome-stable
-      - name: Remove default Chromium
-        run: sudo apt purge chromium-browser
-      - name: Install a new Chromium
-        run: sudo apt install -y chromium-browser
+      # - name: Remove Chrome
+      #   run: sudo apt purge google-chrome-stable
+      # - name: Remove default Chromium
+      #   run: sudo apt purge chromium-browser
+      # - name: Install a new Chromium
+      #   run: sudo apt install -y chromium-browser
       - name: Install all necessary packages
         run: pip install requests beautifulsoup4 pandas webdriver-manager selenium
       - name: Build updated citations
