@@ -59,6 +59,21 @@
   publisher: arXiv preprint arXiv:2311.09889
   date: '2023-11-16'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=2969503613506500697&btnI=1&hl=en
+- id: prediction of canal discharge under complex conditions based on a long short-term
+    memory neural network
+  title: Prediction of canal discharge under complex conditions based on a long short-term
+    memory neural network
+  authors:
+  - GUO Shiyuan
+  - MA Weizhi
+  - LU Ruilin
+  - LIU Jinlong
+  - YANG Zhigang
+  - WANG Zhongjing
+  - ZHANG Min
+  publisher: Journal of Tsinghua University (Science and Technology)
+  date: '2023-11-06'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15569393599578274672&btnI=1&hl=en
 - id: 'caseformer: pre-training for legal case retrieval'
   title: 'Caseformer: Pre-training for Legal Case Retrieval'
   authors:
