@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'wikiformer: pre-training with structured information of wikipedia for ad-hoc
+    retrieval'
+  title: 'Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc
+    Retrieval'
+  authors:
+  - Weihang Su
+  - Qingyao Ai
+  - Xiangsheng Li
+  - Jia Chen
+  - Yiqun Liu
+  - Xiaolong Wu
+  - Shengluan Hou
+  publisher: arXiv preprint arXiv:2312.10661
+  date: '2023-12-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3278137604895711479&btnI=1&hl=en
 - id: relevance feedback with brain signals
   title: Relevance Feedback with Brain Signals
   authors:
@@ -47,6 +62,23 @@
     in Information Retrieval in the Asia Pacific Region
   date: '2023-11-26'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=812514203678700621&btnI=1&hl=en
+- id: collaborative word-based pre-trained item representation for transferable recommendation
+  title: Collaborative Word-based Pre-trained Item Representation for Transferable
+    Recommendation
+  authors:
+  - Shenghao Yang
+  - Chenyang Wang
+  - Yankai Liu
+  - Kangping Xu
+  - Weizhi Ma
+  - Yiqun Liu
+  - Min Zhang
+  - Haitao Zeng
+  - Junlan Feng
+  - Chao Deng
+  publisher: arXiv preprint arXiv:2311.10501
+  date: '2023-11-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10025630305073217507&btnI=1&hl=en
 - id: language generation from human brain activities
   title: Language Generation from Human Brain Activities
   authors:
