@@ -2,7 +2,7 @@ name: Scheduled Auto Cite by Crawler
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '30 1 * * *' 
 
 jobs:
   update_research:
