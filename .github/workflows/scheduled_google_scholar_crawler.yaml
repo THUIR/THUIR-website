@@ -2,7 +2,7 @@ name: Scheduled Auto Cite by Crawler
 
 on:
   schedule:
-    - cron: '30 1 * * *' 
+    - cron: '00 2 * * *' 
 
 jobs:
   update_research:
@@ -34,12 +34,13 @@ jobs:
       - name: Create and checkout new branch
         run: |
           git checkout -b auto-cite-by-crawler
-      - name: Commit updated citations
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          file_pattern: "_data/citations.yaml"
-          commit_message: "Generate citations by crawler"
-          push_options: --force
+      - name: Commit and push
+        run: |
+          git config --local user.email "qian.dong.97@qq.com"
+          git config --local user.name "Qian Dong"
+          git add .
+          git commit -m "Auto Cite by Crawler"
+          git push origin auto-cite-by-crawler
       - name: Merge branch into main
         run: |
           git checkout main
