@@ -16,6 +16,41 @@
   publisher: arXiv preprint arXiv:2312.10661
   date: '2023-12-17'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3278137604895711479&btnI=1&hl=en
+- id: overview of the ntcir-17 unbiased learning to rank evaluation 2 (ultre-2) task
+  title: Overview of the NTCIR-17 Unbiased Learning to Rank Evaluation 2 (ULTRE-2)
+    Task
+  authors:
+  - Zechun Niu
+  - Jiaxin Mao
+  - Qingyao Ai
+  - Lixin Zou
+  - Shuaiqiang Wang
+  - Dawei Yin
+  publisher: Proceedings of the NTCIR-17 Conference
+  date: '2023-12-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15118729469503414132&btnI=1&hl=en
+- id: evia 2023 preface
+  title: EVIA 2023 Preface
+  authors:
+  - Qingyao Ai
+  - Douglas W Oard
+  publisher: (No Title)
+  date: '2023-12-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7931116765831299438&btnI=1&hl=en
+- id: overview of the ntcir-17 session search (ss-2) task
+  title: Overview of the NTCIR-17 Session Search (SS-2) Task
+  authors:
+  - Haitao Li
+  - Jia Chen
+  - Jiannan Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Xinyan Han
+  - Beining Wang
+  - Yiqun Liu
+  publisher: (No Title)
+  date: '2023-12-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4128402174273317392&btnI=1&hl=en
 - id: relevance feedback with brain signals
   title: Relevance Feedback with Brain Signals
   authors:
