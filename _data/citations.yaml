@@ -1,6 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: combining multiple supervision for robust zero-shot dense retrieval
+  title: Combining Multiple Supervision for Robust Zero-shot Dense Retrieval
+  authors:
+  - Yan Fang
+  - Qingyao Ai
+  - Jingtao Zhan
+  - Yiqun Liu
+  - Xiaolong Wu
+  - Zhao Cao
+  publisher: "Recently, dense retrieval (DR) models, which represent queries and documents\
+    \ with fixed-width vectors and retrieve relevant ones via nearest neighbor search,\
+    \ have drawn increasing attention from the IR community. However, previous studies\
+    \ have shown that the effectiveness of DR critically relies on sufficient training\
+    \ signals, which leads to severe performance degradation when applied in out-of-domain\
+    \ scenarios, where large-scale training data are usually unavailable. To solve\
+    \ this problem, existing studies adopt a data-augmentation-plus-joint-training\
+    \ paradigm to construct weak/pseudo supervisions on the target domain and combine\
+    \ them with the large-scale human annotated data on the source domain to train\
+    \ the DR models. However, they don\u2019t explicitly distinguish the data and\
+    \ the supervision signals in the training process and simply assume that the DR\
+    \ models are mighty enough to capture and memorize different domain knowledge\
+    \ and relevance matching patterns without guidance, which, as shown in this paper,\
+    \ is not true. Based on this observation, we propose a Robust Multi-Supervision\
+    \ Combining strategy (RMSC) that decouples the domain and supervision signals\
+    \ by explicitly telling the DR models how the domain data and supervision signals\
+    \ are combined in the training data with specially designed soft tokens. With\
+    \ the extra soft tokens to store the domain-specific and supervisionspecific knowledge,\
+    \ RMSC allows the DR models to conduct retrieval based on human-like relevance\
+    \ matching patterns and target-specific language distribution on the target domain\
+    \ without human annotations. Extensive experiments on zeroshot \u2026"
+  date: '2024-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9135270897029363210&btnI=1&hl=en
 - id: 'wikiformer: pre-training with structured information of wikipedia for ad-hoc
     retrieval'
   title: 'Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc
