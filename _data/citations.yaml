@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'pre: a peer review based large language model evaluator'
+  title: 'PRE: A Peer Review Based Large Language Model Evaluator'
+  authors:
+  - Zhumin Chu
+  - Qingyao Ai
+  - Yiteng Tu
+  - Haitao Li
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2401.15641
+  date: '2024-01-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=603756173351366052&btnI=1&hl=en
 - id: combining multiple supervision for robust zero-shot dense retrieval
   title: Combining Multiple Supervision for Robust Zero-shot Dense Retrieval
   authors:
