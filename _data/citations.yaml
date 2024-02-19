@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: intersectional two-sided fairness in recommendation
+  title: Intersectional Two-sided Fairness in Recommendation
+  authors:
+  - Yifan Wang
+  - Peijie Sun
+  - Weizhi Ma
+  - Min Zhang
+  - Yuan Zhang
+  - Peng Jiang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2402.02816
+  date: '2024-02-05'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3727000015309436663&btnI=1&hl=en
 - id: 'pre: a peer review based large language model evaluator'
   title: 'PRE: A Peer Review Based Large Language Model Evaluator'
   authors:
