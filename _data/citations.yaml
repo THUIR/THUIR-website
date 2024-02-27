@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'recommender for its purpose: repeat and exploration in food delivery recommendations'
+  title: 'Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations'
+  authors:
+  - Jiayu Li
+  - Aixin Sun
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2402.14440
+  date: '2024-02-22'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3964537571764301513&btnI=1&hl=en
 - id: intersectional two-sided fairness in recommendation
   title: Intersectional Two-sided Fairness in Recommendation
   authors:
