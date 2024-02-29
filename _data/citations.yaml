@@ -1,6 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: query augmentation by decoding semantics from brain signals
+  title: Query Augmentation by Decoding Semantics from Brain Signals
+  authors:
+  - Ziyi Ye
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Yiqun Liu
+  - Maarten de Rijke
+  - Christina Lioma
+  - Tuukka Ruotsalo
+  publisher: arXiv preprint arXiv:2402.15708
+  date: '2024-02-24'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13268684534738195250&btnI=1&hl=en
+- id: 'easyrl4rec: a user-friendly code library for reinforcement learning based recommender
+    systems'
+  title: 'EasyRL4Rec: A User-Friendly Code Library for Reinforcement Learning Based
+    Recommender Systems'
+  authors:
+  - Yuanqing Yu
+  - Chongming Gao
+  - Jiawei Chen
+  - Heng Tang
+  - Yuefeng Sun
+  - Qian Chen
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2402.15164
+  date: '2024-02-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18388076781405427196&btnI=1&hl=en
+- id: multi-agent collaboration framework for recommender systems
+  title: Multi-Agent Collaboration Framework for Recommender Systems
+  authors:
+  - Zhefan Wang
+  - Yuanqing Yu
+  - Wendi Zheng
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2402.15235
+  date: '2024-02-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17948713872764840208&btnI=1&hl=en
 - id: 'recommender for its purpose: repeat and exploration in food delivery recommendations'
   title: 'Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations'
   authors:
