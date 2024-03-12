@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'situnes: a situational music recommendation dataset with physiological and
+    psychological signals'
+  title: 'SiTunes: A Situational Music Recommendation Dataset with Physiological and
+    Psychological Signals'
+  authors:
+  - Vadim Grigorev
+  - Jiayu Li
+  - Weizhi Ma
+  - Zhiyu He
+  - Min Zhang
+  - Yiqun Liu
+  - Ming Yan
+  - Ji Zhang
+  publisher: Proceedings of the 2024 ACM SIGIR Conference on Human Information Interaction
+    and Retrieval
+  date: '2024-03-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10198239629169695210&btnI=1&hl=en
 - id: gender biased legal case retrieval system on users' decision process
   title: Gender Biased Legal Case Retrieval System on Users' Decision Process
   authors:
