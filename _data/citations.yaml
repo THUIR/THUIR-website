@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: unsupervised real-time hallucination detection based on the internal states
+    of large language models
+  title: Unsupervised Real-Time Hallucination Detection based on the Internal States
+    of Large Language Models
+  authors:
+  - Weihang Su
+  - Changyue Wang
+  - Qingyao Ai
+  - Yiran Hu
+  - Zhijing Wu
+  - Yujia Zhou
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2403.06448
+  date: '2024-03-11'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10402739034022401547&btnI=1&hl=en
 - id: 'situnes: a situational music recommendation dataset with physiological and
     psychological signals'
   title: 'SiTunes: A Situational Music Recommendation Dataset with Physiological and
