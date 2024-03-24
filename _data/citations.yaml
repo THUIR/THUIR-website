@@ -1,6 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: improving legal case retrieval with brain signals
+  title: Improving Legal Case Retrieval with Brain Signals
+  authors:
+  - Ruizhe Zhang
+  - Qingyao Ai
+  - Ziyi Ye
+  - Yueyue Wu
+  - Xiaohui Xie
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2403.13242
+  date: '2024-03-20'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13291148673665173499&btnI=1&hl=en
+- id: evaluation ethics of llms in legal domain
+  title: Evaluation Ethics of LLMs in Legal Domain
+  authors:
+  - Ruizhe Zhang
+  - Haitao Li
+  - Yueyue Wu
+  - Qingyao Ai
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2403.11152
+  date: '2024-03-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=8385922089748828676&btnI=1&hl=en
+- id: 'dragin: dynamic retrieval augmented generation based on the real-time information
+    needs of large language models'
+  title: 'DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information
+    Needs of Large Language Models'
+  authors:
+  - Weihang Su
+  - Yichen Tang
+  - Qingyao Ai
+  - Zhijing Wu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2403.10081
+  date: '2024-03-15'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15778406211501796690&btnI=1&hl=en
 - id: unsupervised real-time hallucination detection based on the internal states
     of large language models
   title: Unsupervised Real-Time Hallucination Detection based on the Internal States
