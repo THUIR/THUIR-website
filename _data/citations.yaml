@@ -1,6 +1,101 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: a situation-aware enhancer for personalized recommendation
+  title: A Situation-aware Enhancer for Personalized Recommendation
+  authors:
+  - Jiayu Li
+  - Peijie Sun
+  - Chumeng Jiang
+  - Weizhi Ma
+  - Qingyao Ai
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18317
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
+- id: sequential recommendation with latent relations based on large language model
+  title: Sequential Recommendation with Latent Relations based on Large Language Model
+  authors:
+  - Shenghao Yang
+  - Weizhi Ma
+  - Peijie Sun
+  - Qingyao Ai
+  - Yiqun Liu
+  - Mingchen Cai
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18348
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
+- id: 'to recommend or not: recommendability identification in conversations with
+    pre-trained language models'
+  title: 'To Recommend or Not: Recommendability Identification in Conversations with
+    Pre-trained Language Models'
+  authors:
+  - Zhefan Wang
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18628
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3713776143734638975&btnI=1&hl=en
+- id: common sense enhanced knowledge-based recommendation with large language model
+  title: Common Sense Enhanced Knowledge-based Recommendation with Large Language
+    Model
+  authors:
+  - Shenghao Yang
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  - Qingyao Ai
+  - Yiqun Liu
+  - Mingchen Cai
+  publisher: arXiv preprint arXiv:2403.18325
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3108142761496633351&btnI=1&hl=en
+- id: 'blade: enhancing black-box large language models with small domain-specific
+    models'
+  title: 'BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific
+    Models'
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Jia Chen
+  - Qian Dong
+  - Zhijing Wu
+  - Yiqun Liu
+  - Chong Chen
+  - Qi Tian
+  publisher: arXiv preprint arXiv:2403.18365
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16112467808889004495&btnI=1&hl=en
+- id: scaling laws for dense retrieval
+  title: Scaling Laws For Dense Retrieval
+  authors:
+  - Yan Fang
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Weihang Su
+  - Jia Chen
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2403.18684
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13988804045575951155&btnI=1&hl=en
+- id: 'delta: pre-train a discriminative encoder for legal case retrieval via structural
+    word alignment'
+  title: 'DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural
+    Word Alignment'
+  authors:
+  - Haitao Li
+  - Qingyao Ai
+  - Xinyan Han
+  - Jia Chen
+  - Qian Dong
+  - Yiqun Liu
+  - Chong Chen
+  - Qi Tian
+  publisher: arXiv preprint arXiv:2403.18435
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4955305781382797248&btnI=1&hl=en
 - id: improving legal case retrieval with brain signals
   title: Improving Legal Case Retrieval with Brain Signals
   authors:
