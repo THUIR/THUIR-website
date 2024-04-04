@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: capability-aware prompt reformulation learning for text-to-image generation
+  title: Capability-aware Prompt Reformulation Learning for Text-to-Image Generation
+  authors:
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Yiqun Liu
+  - Jia Chen
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2403.19716
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12247474990663297437&btnI=1&hl=en
 - id: a situation-aware enhancer for personalized recommendation
   title: A Situation-aware Enhancer for Personalized Recommendation
   authors:
