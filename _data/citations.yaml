@@ -1,6 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: towards an in-depth comprehension of case relevance for better legal retrieval
+  title: Towards an In-Depth Comprehension of Case Relevance for Better Legal Retrieval
+  authors:
+  - Haitao Li
+  - You Chen
+  - Zhekai Ge
+  - Qingyao Ai
+  - Yiqun Liu
+  - Quan Zhou
+  - Shuai Huo
+  publisher: arXiv preprint arXiv:2404.00947
+  date: '2024-04-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15560127458667291138&btnI=1&hl=en
+- id: 'eeg-svrec: an eeg dataset with user multidimensional affective engagement labels
+    in short video recommendation'
+  title: 'EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement
+    Labels in Short Video Recommendation'
+  authors:
+  - Shaorun Zhang
+  - Zhiyu He
+  - Ziyi Ye
+  - Peijie Sun
+  - Qingyao Ai
+  - Min Zhang
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2404.01008
+  date: '2024-04-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9741497275027325164&btnI=1&hl=en
 - id: capability-aware prompt reformulation learning for text-to-image generation
   title: Capability-aware Prompt Reformulation Learning for Text-to-Image Generation
   authors:
