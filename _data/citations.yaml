@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'investigating the robustness of counterfactual learning to rank models: a reproducibility
+    study'
+  title: 'Investigating the Robustness of Counterfactual Learning to Rank Models:
+    A Reproducibility Study'
+  authors:
+  - Zechun Niu
+  - Jiaxin Mao
+  - Qingyao Ai
+  - Ji-Rong Wen
+  publisher: arXiv preprint arXiv:2404.03707
+  date: '2024-04-04'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1995308600988451047&btnI=1&hl=en
 - id: towards an in-depth comprehension of case relevance for better legal retrieval
   title: Towards an In-Depth Comprehension of Case Relevance for Better Legal Retrieval
   authors:
