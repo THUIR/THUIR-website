@@ -41,6 +41,22 @@
   publisher: arXiv preprint arXiv:2404.01008
   date: '2024-04-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9741497275027325164&btnI=1&hl=en
+- id: 'aiming at the target: filter collaborative information for cross-domain recommendation'
+  title: 'Aiming at the Target: Filter Collaborative Information for Cross-Domain
+    Recommendation'
+  authors:
+  - Hanyu Li
+  - Weizhi Ma
+  - Peijie Sun
+  - Jiayu Li
+  - Cunxiang Yin
+  - Yancheng He
+  - Guoqiang Xu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2403.20296
+  date: '2024-03-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11113158598514835835&btnI=1&hl=en
 - id: capability-aware prompt reformulation learning for text-to-image generation
   title: Capability-aware Prompt Reformulation Learning for Text-to-Image Generation
   authors:
@@ -185,6 +201,30 @@
   publisher: arXiv preprint arXiv:2403.10081
   date: '2024-03-15'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=15778406211501796690&btnI=1&hl=en
+- id: language generation from brain recordings
+  title: Language Generation from Brain Recordings
+  authors:
+  - Ziyi Ye
+  - Qingyao Ai
+  - Yiqun Liu
+  - Maarten de Rijke
+  - Min Zhang
+  - Christina Lioma
+  - Tuukka Ruotsalo
+  publisher: "Language Generation from Brain Recordings Page 1 1 1 Language Generation\
+    \ from Brain Recordings Ziyi Ye Tsinghua University 2024.3.12 Page 2 2 Introduction\
+    \ \u2022 Application of Brain-Computer Interface (BCI) \u2022 Instruction decoding\
+    \ [NeuraLink 2021] \u2022 Emotion recognition [Edgar 2020] \u2022 Sematic decoding\
+    \ \u2022 Visual information reconstruction [Takagi 2023] \u2022 Language information\
+    \ reconstruction [Makin 2020] Fig: Neuralink's monkey use BCI to play games [Cooney\
+    \ 2021] Fig: Emotion recognition [Edgar 2020] Fig: Speech decoding [Makin 2020]\
+    \ Page 3 3 Background \u2022 Existing language BCIs \u2022 Pre-defining a series\
+    \ of semantic candidates \u2022 Limitations \u2022 A limited number of semantic\
+    \ candidates (usually 2-50) \u2022 High task dependency Feature extraction Pre-defined\
+    \ semantic candidates Fig:Language BCIs by pre-definition and post-hoc selection/classification\
+    \ sunny rainy apple Page 4 4 Background \u2022 Emergence of \u2026"
+  date: '2024-03-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2188151616339769955&btnI=1&hl=en
 - id: unsupervised real-time hallucination detection based on the internal states
     of large language models
   title: Unsupervised Real-Time Hallucination Detection based on the Internal States
