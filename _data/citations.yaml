@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: collaborative-enhanced prediction of spending on newly downloaded mobile games
+    under consumption uncertainty
+  title: Collaborative-Enhanced Prediction of Spending on Newly Downloaded Mobile
+    Games under Consumption Uncertainty
+  authors:
+  - Peijie Sun
+  - Yifan Wang
+  - Min Zhang
+  - Chuhan Wu
+  - Yan Fang
+  - Hong Zhu
+  - Yuan Fang
+  - Meng Wang
+  publisher: arXiv preprint arXiv:2404.08301
+  date: '2024-04-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5910314318718340249&btnI=1&hl=en
 - id: 'investigating the robustness of counterfactual learning to rank models: a reproducibility
     study'
   title: 'Investigating the Robustness of Counterfactual Learning to Rank Models:
