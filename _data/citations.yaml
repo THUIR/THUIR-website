@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: introducing eeg analyses to help personal music preference prediction
+  title: Introducing EEG Analyses to Help Personal Music Preference Prediction
+  authors:
+  - Zhiyu He
+  - Jiayu Li
+  - Weizhi Ma
+  - Min Zhang
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2404.15753
+  date: '2024-04-24'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1963437854575802064&btnI=1&hl=en
 - id: a user-centric benchmark for evaluating large language models
   title: A User-Centric Benchmark for Evaluating Large Language Models
   authors:
