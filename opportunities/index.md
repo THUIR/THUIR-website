@@ -107,7 +107,7 @@ THUIR课题组长期招聘实习生，欢迎有志于从事信息检索方向研
 {:.center} 
 {% endcapture %}
 
-{% include feature.html image="images/internship.png" title="Internship Recruitment 实习生招募" text=text %}
+{% include feature.html image="images/internship.png" title="Internship 实习生招募" text=text %}
 
 {% include section.html %}
 
