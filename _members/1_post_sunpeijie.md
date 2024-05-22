@@ -4,7 +4,7 @@ image: images/people/spj.jpg
 description: PostDoc. 2022-   
 role: postdoc  
 links:  
-    home-page: https://site.peijiesun.com/  
+    home-page: https://peijiesun.com/  
     email: sun.hfut@gmail.com  
     github: PeiJieSun  
 --- 
