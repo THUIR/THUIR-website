@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: double correction framework for denoising recommendation
+  title: Double Correction Framework for Denoising Recommendation
+  authors:
+  - Zhuangzhuang He
+  - Yifan Wang
+  - Yonghui Yang
+  - Peijie Sun
+  - Le Wu
+  - Haoyue Bai
+  - Jinqi Gong
+  - Richang Hong
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2405.11272
+  date: '2024-05-18'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3836990425232582256&btnI=1&hl=en
 - id: introducing eeg analyses to help personal music preference prediction
   title: Introducing EEG Analyses to Help Personal Music Preference Prediction
   authors:
