@@ -899,16 +899,6 @@
   publisher: US
   date: '2023-06-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=10587731948401906348&btnI=1&hl=zh-CN
-- id: 'fara: future-aware ranking algorithm for fairness optimization'
-  title: 'FARA: Future-aware Ranking Algorithm for Fairness Optimization'
-  authors:
-  - Tao Yang
-  - Zhichao Xu
-  - Zhenduo Wang
-  - Qingyao Ai
-  publisher: arXiv preprint arXiv:2305.16637
-  date: '2023-05-26'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=13438123665277110405&btnI=1&hl=en
 - id: mitigating exploitation bias in learning to rank with an uncertainty-aware empirical
     bayes approach
   title: Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware
@@ -923,6 +913,16 @@
   publisher: arXiv preprint arXiv:2305.16606
   date: '2023-05-26'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=8360800028327809085&btnI=1&hl=en
+- id: 'fara: future-aware ranking algorithm for fairness optimization'
+  title: 'FARA: Future-aware Ranking Algorithm for Fairness Optimization'
+  authors:
+  - Tao Yang
+  - Zhichao Xu
+  - Zhenduo Wang
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2305.16637
+  date: '2023-05-26'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13438123665277110405&btnI=1&hl=en
 - id: unconfounded propensity estimation for unbiased ranking
   title: Unconfounded Propensity Estimation for Unbiased Ranking
   authors:
