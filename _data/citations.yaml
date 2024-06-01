@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'rechorus2. 0: a modular and task-flexible recommendation library'
+  title: 'ReChorus2. 0: A Modular and Task-Flexible Recommendation Library'
+  authors:
+  - Jiayu Li
+  - Hanyu Li
+  - Zhiyu He
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2405.18058
+  date: '2024-05-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5467624664078001929&btnI=1&hl=en
 - id: double correction framework for denoising recommendation
   title: Double Correction Framework for Denoising Recommendation
   authors:
