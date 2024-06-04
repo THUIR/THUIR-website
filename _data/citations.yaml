@@ -1040,6 +1040,17 @@
   publisher: arXiv preprint arXiv:2304.12650
   date: '2023-04-25'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=402706869445855833&btnI=1&hl=en
+- id: an in-depth investigation of user response simulation for conversational search
+  title: An In-depth Investigation of User Response Simulation for Conversational
+    Search
+  authors:
+  - Zhenduo Wang
+  - Zhichao Xu
+  - Qingyao Ai
+  - Vivek Srikumar
+  publisher: arXiv preprint arXiv:2304.07944
+  date: '2023-04-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4930157059821567771&btnI=1&hl=en
 - id: metric-agnostic ranking optimization
   title: Metric-agnostic Ranking Optimization
   authors:
@@ -1058,17 +1069,6 @@
   publisher: arXiv preprint arXiv:2304.07988
   date: '2023-04-17'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9902659388964711449&btnI=1&hl=en
-- id: an in-depth investigation of user response simulation for conversational search
-  title: An In-depth Investigation of User Response Simulation for Conversational
-    Search
-  authors:
-  - Zhenduo Wang
-  - Zhichao Xu
-  - Qingyao Ai
-  - Vivek Srikumar
-  publisher: arXiv preprint arXiv:2304.07944
-  date: '2023-04-17'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=4930157059821567771&btnI=1&hl=en
 - id: intent-aware ranking ensemble for personalized recommendation
   title: Intent-aware Ranking Ensemble for Personalized Recommendation
   authors:
