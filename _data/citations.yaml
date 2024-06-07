@@ -1,6 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: popularity-aware alignment and contrast for mitigating popularity bias
+  title: Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias
+  authors:
+  - Miaomiao Cai
+  - Lei Chen
+  - Yifan Wang
+  - Haoyue Bai
+  - Peijie Sun
+  - Le Wu
+  - Min Zhang
+  - Meng Wang
+  publisher: arXiv preprint arXiv:2405.20718
+  date: '2024-05-31'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15531412059069354817&btnI=1&hl=en
 - id: 'rechorus2. 0: a modular and task-flexible recommendation library'
   title: 'ReChorus2. 0: A Modular and Task-Flexible Recommendation Library'
   authors:
