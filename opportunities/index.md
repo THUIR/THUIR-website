@@ -43,9 +43,11 @@ We are located on the FIT building 1-506, Tsinghua University.
 5. 具有良好的英语阅读能力
 
 **团队成就**
+
 在检索和LLM领域，我们的研究成果在SIGIR、WSDM、CIKM、WWW、TOIS、KDD、AAAI、IJCAI、ACL、EMNLP等顶级会议和期刊上发表。在Legal AI领域，我们的技术和解决方案已被工业界广泛采纳。
 
 **培养计划**
+
 加入我们后，我们会在你进组之前与你进行深入的交流，之后会给你量身定制一套个性化培养方案。在4周的快速入门后，你将有机会参与真实的科研项目，与本领域顶尖博士生一同工作，发表高质量研究成果。
 
 Hard work always pays off! 以往多位实习生如王同学、唐同学、谢同学等，通过实习期间的努力，与我们共同在AAAI、ACL等顶级会议上发表高质量的论文，并有多篇论文在投。目前他们都选择继续留在THUIR，深入实习期间的研究，攻读博士学位。
