@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'eeg-imagenet: an electroencephalogram dataset and benchmarks with image visual
+    stimuli of multi-granularity labels'
+  title: 'EEG-ImageNet: An Electroencephalogram Dataset and Benchmarks with Image
+    Visual Stimuli of Multi-Granularity Labels'
+  authors:
+  - Shuqi Zhu
+  - Ziyi Ye
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2406.07151
+  date: '2024-06-11'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6970981452900712615&btnI=1&hl=en
 - id: popularity-aware alignment and contrast for mitigating popularity bias
   title: Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias
   authors:
