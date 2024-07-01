@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'stard: a chinese statute retrieval dataset with real queries issued by non-professionals'
+  title: 'STARD: A Chinese Statute Retrieval Dataset with Real Queries Issued by Non-professionals'
+  authors:
+  - Weihang Su
+  - Yiran Hu
+  - Anzhe Xie
+  - Qingyao Ai
+  - Zibing Que
+  - Ning Zheng
+  - Yun Liu
+  - Weixing Shen
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2406.15313
+  date: '2024-06-21'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13563195106854225731&btnI=1&hl=en
 - id: 'eeg-imagenet: an electroencephalogram dataset and benchmarks with image visual
     stimuli of multi-granularity labels'
   title: 'EEG-ImageNet: An Electroencephalogram Dataset and Benchmarks with Image
