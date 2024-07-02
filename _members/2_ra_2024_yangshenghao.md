@@ -1,8 +1,8 @@
 --- 
 name: Shenghao Yang<br/>杨圣豪 
 image: images/people/yangsh.jpg  
-description: Master 2021-  
-role: master  
+description: Research assistant 2024-
+role: ra  
 links:  
     home-page: https://ysh-1998.github.io/  
     email: yangsh824@gmail.com  

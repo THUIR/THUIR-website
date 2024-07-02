@@ -1,7 +1,7 @@
 ---
 name: Zhumin Chu<br/>储著敏
 image: images/people/ZhuminChu.jpeg
-description: Ph.D. 2019-
+description: Ph.D. 2019-2024
 role: phd
 links: 
     home-page: https://chuzhumin98.github.io/ 
