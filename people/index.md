@@ -47,6 +47,17 @@ nav:
 
 {% include section.html %}
 
+## Research Assistants 研究助理
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: ra"
+%}
+  
+{% include section.html %}
+
 ## PostDocs 博士后
 
 {%

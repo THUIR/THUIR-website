@@ -1,7 +1,7 @@
 ---
 name: Yan Fang<br/>方言
 image: images/people/fy.jpg
-description: Master 2021-
+description: Master 2021-2024
 role: master 
 links: 
     home-page: https://suffoquer-fang.github.io 

@@ -1,8 +1,8 @@
 ---
 name: Jiayin Wang<br/>汪佳茵
 image: images/people/JiayinWang.jpg  
-description: Master 2020-2023 
-role: master  
+description: Research assistant 2023-
+role: ra  
 links:   
     home-page: https://alice1998.github.io  
     email: alicethu0208@gmail.com  
