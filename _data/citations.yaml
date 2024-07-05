@@ -1,6 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: prompt refinement with image pivot for text-to-image generation
+  title: Prompt Refinement with Image Pivot for Text-to-Image Generation
+  authors:
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Yiqun Liu
+  - Yingwei Pan
+  - Ting Yao
+  - Jiaxin Mao
+  - Shaoping Ma
+  - Tao Mei
+  publisher: arXiv preprint arXiv:2407.00247
+  date: '2024-06-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5923422040727090335&btnI=1&hl=en
 - id: 'stard: a chinese statute retrieval dataset with real queries issued by non-professionals'
   title: 'STARD: A Chinese Statute Retrieval Dataset with Real Queries Issued by Non-professionals'
   authors:
