@@ -1,6 +1,67 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: unsupervised large language model alignment for information retrieval via contrastive
+    feedback
+  title: Unsupervised Large Language Model Alignment for Information Retrieval via
+    Contrastive Feedback
+  authors:
+  - Qian Dong
+  - Yiding Liu
+  - Qingyao Ai
+  - Zhijing Wu
+  - Haitao Li
+  - Yiqun Liu
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Shaoping Ma
+  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2024-07-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=244538991667803402&btnI=1&hl=en
+- id: 'easyrl4rec: an easy-to-use library for reinforcement learning based recommender
+    systems'
+  title: 'EasyRL4Rec: An Easy-to-use Library for Reinforcement Learning Based Recommender
+    Systems'
+  authors:
+  - Yuanqing Yu
+  - Chongming Gao
+  - Jiawei Chen
+  - Heng Tang
+  - Yuefeng Sun
+  - Qian Chen
+  - Weizhi Ma
+  - Min Zhang
+  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2024-07-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11194931778520386668&btnI=1&hl=en
+- id: 'macrec: a multi-agent collaboration framework for recommendation'
+  title: 'MACRec: A Multi-Agent Collaboration Framework for Recommendation'
+  authors:
+  - Zhefan Wang
+  - Yuanqing Yu
+  - Wendi Zheng
+  - Weizhi Ma
+  - Min Zhang
+  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2024-07-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2055601099317038213&btnI=1&hl=en
+- id: unbiased learning-to-rank needs unconfounded propensity estimation
+  title: Unbiased Learning-to-Rank Needs Unconfounded Propensity Estimation
+  authors:
+  - Dan Luo
+  - Lixin Zou
+  - Qingyao Ai
+  - Zhiyu Chen
+  - Chenliang Li
+  - Dawei Yin
+  - Brian D Davison
+  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2024-07-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=434985736173913319&btnI=1&hl=en
 - id: prompt refinement with image pivot for text-to-image generation
   title: Prompt Refinement with Image Pivot for Text-to-Image Generation
   authors:
@@ -136,19 +197,6 @@
   publisher: arXiv preprint arXiv:2404.03707
   date: '2024-04-04'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1995308600988451047&btnI=1&hl=en
-- id: towards an in-depth comprehension of case relevance for better legal retrieval
-  title: Towards an In-Depth Comprehension of Case Relevance for Better Legal Retrieval
-  authors:
-  - Haitao Li
-  - You Chen
-  - Zhekai Ge
-  - Qingyao Ai
-  - Yiqun Liu
-  - Quan Zhou
-  - Shuai Huo
-  publisher: arXiv preprint arXiv:2404.00947
-  date: '2024-04-01'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=15560127458667291138&btnI=1&hl=en
 - id: 'eeg-svrec: an eeg dataset with user multidimensional affective engagement labels
     in short video recommendation'
   title: 'EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement
@@ -164,6 +212,19 @@
   publisher: arXiv preprint arXiv:2404.01008
   date: '2024-04-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9741497275027325164&btnI=1&hl=en
+- id: towards an in-depth comprehension of case relevance for better legal retrieval
+  title: Towards an In-Depth Comprehension of Case Relevance for Better Legal Retrieval
+  authors:
+  - Haitao Li
+  - You Chen
+  - Zhekai Ge
+  - Qingyao Ai
+  - Yiqun Liu
+  - Quan Zhou
+  - Shuai Huo
+  publisher: arXiv preprint arXiv:2404.00947
+  date: '2024-04-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15560127458667291138&btnI=1&hl=en
 - id: 'aiming at the target: filter collaborative information for cross-domain recommendation'
   title: 'Aiming at the Target: Filter Collaborative Information for Cross-Domain
     Recommendation'
@@ -191,18 +252,6 @@
   publisher: arXiv preprint arXiv:2403.19716
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=12247474990663297437&btnI=1&hl=en
-- id: a situation-aware enhancer for personalized recommendation
-  title: A Situation-aware Enhancer for Personalized Recommendation
-  authors:
-  - Jiayu Li
-  - Peijie Sun
-  - Chumeng Jiang
-  - Weizhi Ma
-  - Qingyao Ai
-  - Min Zhang
-  publisher: arXiv preprint arXiv:2403.18317
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
 - id: sequential recommendation with latent relations based on large language model
   title: Sequential Recommendation with Latent Relations based on Large Language Model
   authors:
@@ -216,6 +265,31 @@
   publisher: arXiv preprint arXiv:2403.18348
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
+- id: scaling laws for dense retrieval
+  title: Scaling Laws For Dense Retrieval
+  authors:
+  - Yan Fang
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Weihang Su
+  - Jia Chen
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2403.18684
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13988804045575951155&btnI=1&hl=en
+- id: a situation-aware enhancer for personalized recommendation
+  title: A Situation-aware Enhancer for Personalized Recommendation
+  authors:
+  - Jiayu Li
+  - Peijie Sun
+  - Chumeng Jiang
+  - Weizhi Ma
+  - Qingyao Ai
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18317
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
 - id: 'to recommend or not: recommendability identification in conversations with
     pre-trained language models'
   title: 'To Recommend or Not: Recommendability Identification in Conversations with
@@ -257,19 +331,6 @@
   publisher: arXiv preprint arXiv:2403.18365
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=16112467808889004495&btnI=1&hl=en
-- id: scaling laws for dense retrieval
-  title: Scaling Laws For Dense Retrieval
-  authors:
-  - Yan Fang
-  - Jingtao Zhan
-  - Qingyao Ai
-  - Jiaxin Mao
-  - Weihang Su
-  - Jia Chen
-  - Yiqun Liu
-  publisher: arXiv preprint arXiv:2403.18684
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=13988804045575951155&btnI=1&hl=en
 - id: 'delta: pre-train a discriminative encoder for legal case retrieval via structural
     word alignment'
   title: 'DELTA: Pre-train a Discriminative Encoder for Legal Case Retrieval via Structural
