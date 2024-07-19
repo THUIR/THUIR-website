@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: mitigating entity-level hallucination in large language models
+  title: Mitigating Entity-Level Hallucination in Large Language Models
+  authors:
+  - Weihang Su
+  - Yichen Tang
+  - Qingyao Ai
+  - Changyue Wang
+  - Zhijing Wu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2407.09417
+  date: '2024-07-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17879385658863337890&btnI=1&hl=en
 - id: unsupervised large language model alignment for information retrieval via contrastive
     feedback
   title: Unsupervised Large Language Model Alignment for Information Retrieval via
