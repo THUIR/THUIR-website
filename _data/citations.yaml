@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'lekube: a legal knowledge update benchmark'
+  title: 'LeKUBE: A Legal Knowledge Update BEnchmark'
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Hu Yiran
+  - Qingyao Ai
+  - Yueyue Wu
+  - Cheng Luo
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2407.14192
+  date: '2024-07-19'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9646984026516623403&btnI=1&hl=en
 - id: mitigating entity-level hallucination in large language models
   title: Mitigating Entity-Level Hallucination in Large Language Models
   authors:
