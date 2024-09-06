@@ -1,8 +1,8 @@
 ---
 name: Haitao Li<br/>李海涛
 image: images/people/lht.jpg  
-description: Master 2022-  
-role: master  
+description: Ph.D. 2022-  
+role: phd  
 links:  
     home-page: https://cshaitao.github.io/   
     email: liht22@mails.tsinghua.edu.cn  
