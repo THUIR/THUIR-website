@@ -6,9 +6,11 @@ on:
       - main
     paths:
       - "_config.yaml"
+      - "auto-cite/**"
   pull_request:
     paths:
       - "_config.yaml"
+      - "auto-cite/**"
   # workflow_dispatch:
   # schedule:
   #   - cron: "0 0 * * 1"

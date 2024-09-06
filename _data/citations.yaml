@@ -1,6 +1,59 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: "comparing point\u2010wise and pair\u2010wise relevance judgment with brain\
+    \ signals"
+  title: "Comparing point\u2010wise and pair\u2010wise relevance judgment with brain\
+    \ signals"
+  authors:
+  - Shuqi Zhu
+  - Xiaohui Xie
+  - Ziyi Ye
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Journal of the Association for Information Science and Technology
+  date: '2024-09-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11969437063741713808&btnI=1&hl=en
+- id: generative language reconstruction from brain recordings
+  title: Generative Language Reconstruction from Brain Recordings
+  authors:
+  - Ziyi Ye
+  - Qingyao Ai
+  - Yiqun Liu
+  - Maarten de Rijke
+  - Min Zhang
+  - Christina Lioma
+  - Tuukka Ruotsalo
+  publisher: "Language reconstruction from non-invasive brain recordings has been\
+    \ a long-standing challenge. Existing research has addressed this challenge with\
+    \ a classification setup, where a set of language candidates are pre-constructed\
+    \ and then matched with the representation decoded from brain recordings. Here,\
+    \ we propose a new method that addresses language reconstruction through auto-regressive\
+    \ generation, which directly uses the representation decoded from functional magnetic\
+    \ resonance imaging (fMRI) as the input for a large language model (LLM), removing\
+    \ the reliance on the accuracy of pre-constructed candidates. While an LLM can\
+    \ already generate high-quality content, our approach produces results more closely\
+    \ aligned with the visual or auditory language stimuli in response to which brain\
+    \ recordings are sampled, especially for content deemed \u201Csurprising\u201D\
+    \ for the LLM. Furthermore, we show that the proposed approach can be used in\
+    \ an auto-regressive manner to reconstruct a 10-minute-long stimulus, which outperforms\
+    \ previous methods with a classification setup. Our findings demonstrate the effectiveness\
+    \ of employing brain language interfaces in a generative setup and delineate a\
+    \ promising path to investigating language formation in the human brain."
+  date: '2024-08-14'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1469206308519461357&btnI=1&hl=en
+- id: 'cfe2: counterfactual editing for search result explanation'
+  title: 'CFE2: Counterfactual Editing for Search Result Explanation'
+  authors:
+  - Zhichao Xu
+  - Hemank Lamba
+  - Qingyao Ai
+  - Joel Tetreault
+  - Alex Jaimes
+  publisher: Proceedings of the 2024 ACM SIGIR International Conference on Theory
+    of Information Retrieval
+  date: '2024-08-02'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10741023126015229667&btnI=1&hl=en
 - id: 'lekube: a legal knowledge update benchmark'
   title: 'LeKUBE: A Legal Knowledge Update BEnchmark'
   authors:
