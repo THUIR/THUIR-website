@@ -1,8 +1,8 @@
 ---
 name: Zhiyu He<br/>何祉瑜
 image: images/people/hzy.jpeg 
-description: Master 2022- 
-role: master 
+description: Ph.D. 2022- 
+role: phd 
 links: 
     email: hezy22@mails.tsinghua.edu.cn 
     github: hezy18 
