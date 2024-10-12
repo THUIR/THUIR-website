@@ -1,6 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'beyond scalar reward model: learning generative judge from preference data'
+  title: 'Beyond Scalar Reward Model: Learning Generative Judge from Preference Data'
+  authors:
+  - Ziyi Ye
+  - Xiangsheng Li
+  - Qiuchi Li
+  - Qingyao Ai
+  - Yujia Zhou
+  - Wei Shen
+  - Dong Yan
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2410.03742
+  date: '2024-10-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16395162004016382741&btnI=1&hl=en
+- id: 'lexeval: a comprehensive chinese legal benchmark for evaluating large language
+    models'
+  title: 'LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language
+    Models'
+  authors:
+  - Haitao Li
+  - You Chen
+  - Qingyao Ai
+  - Yueyue Wu
+  - Ruizhe Zhang
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2409.20288
+  date: '2024-09-30'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7968372114126733363&btnI=1&hl=en
 - id: "comparing point\u2010wise and pair\u2010wise relevance judgment with brain\
     \ signals"
   title: "Comparing point\u2010wise and pair\u2010wise relevance judgment with brain\
