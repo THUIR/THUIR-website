@@ -1,6 +1,49 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'steptool: a step-grained reinforcement learning framework for tool learning
+    in llms'
+  title: 'StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning
+    in LLMs'
+  authors:
+  - Yuanqing Yu
+  - Zhefan Wang
+  - Weizhi Ma
+  - Zhicheng Guo
+  - Jingtao Zhan
+  - Shuai Wang
+  - Chuhan Wu
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2410.07745
+  date: '2024-10-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1516482186641552345&btnI=1&hl=en
+- id: large language models as evaluators for recommendation explanations
+  title: Large Language Models as Evaluators for Recommendation Explanations
+  authors:
+  - Xiaoyu Zhang
+  - Yishan Li
+  - Jiayin Wang
+  - Bowen Sun
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  publisher: Proceedings of the 18th ACM Conference on Recommender Systems
+  date: '2024-10-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18372768278974710976&btnI=1&hl=en
+- id: 'right tool, right job: recommendation for repeat and exploration consumption
+    in food delivery'
+  title: 'Right Tool, Right Job: Recommendation for Repeat and Exploration Consumption
+    in Food Delivery'
+  authors:
+  - Jiayu Li
+  - Aixin Sun
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  publisher: Proceedings of the 18th ACM Conference on Recommender Systems
+  date: '2024-10-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14287885740564190611&btnI=1&hl=en
 - id: 'beyond scalar reward model: learning generative judge from preference data'
   title: 'Beyond Scalar Reward Model: Learning Generative Judge from Preference Data'
   authors:
@@ -144,18 +187,6 @@
     and Development in Information Retrieval
   date: '2024-07-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=11194931778520386668&btnI=1&hl=en
-- id: 'macrec: a multi-agent collaboration framework for recommendation'
-  title: 'MACRec: A Multi-Agent Collaboration Framework for Recommendation'
-  authors:
-  - Zhefan Wang
-  - Yuanqing Yu
-  - Wendi Zheng
-  - Weizhi Ma
-  - Min Zhang
-  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval
-  date: '2024-07-10'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=2055601099317038213&btnI=1&hl=en
 - id: unbiased learning-to-rank needs unconfounded propensity estimation
   title: Unbiased Learning-to-Rank Needs Unconfounded Propensity Estimation
   authors:
@@ -170,6 +201,18 @@
     and Development in Information Retrieval
   date: '2024-07-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=434985736173913319&btnI=1&hl=en
+- id: 'macrec: a multi-agent collaboration framework for recommendation'
+  title: 'MACRec: A Multi-Agent Collaboration Framework for Recommendation'
+  authors:
+  - Zhefan Wang
+  - Yuanqing Yu
+  - Wendi Zheng
+  - Weizhi Ma
+  - Min Zhang
+  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2024-07-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2055601099317038213&btnI=1&hl=en
 - id: prompt refinement with image pivot for text-to-image generation
   title: Prompt Refinement with Image Pivot for Text-to-Image Generation
   authors:
