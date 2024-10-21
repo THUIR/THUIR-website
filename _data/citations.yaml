@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: predicting gate operation in open canal control with multitask sequential model
+  title: Predicting Gate Operation in Open Canal Control With Multitask Sequential
+    Model
+  authors:
+  - Shiyuan Guo
+  - Weizhi Ma
+  - Zhigang Yang
+  - Jinlong Liu
+  - Zhongjing Wang
+  - Min Zhang
+  publisher: IEEE Transactions on Industrial Informatics
+  date: '2024-10-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16998002757204237141&btnI=1&hl=en
 - id: 'steptool: a step-grained reinforcement learning framework for tool learning
     in llms'
   title: 'StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning
