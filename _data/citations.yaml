@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'brain-computer interface meets information retrieval: perspective on next-generation
+    information system'
+  title: 'Brain-Computer Interface Meets Information Retrieval: Perspective on Next-generation
+    Information System'
+  authors:
+  - Ziyi Ye
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Proceedings of the 1st International Workshop on Brain-Computer Interfaces
+    (BCI) for Multimedia Understanding
+  date: '2024-10-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2729248998115225523&btnI=1&hl=en
+- id: automatic large language model evaluation via peer review
+  title: Automatic Large Language Model Evaluation via Peer Review
+  authors:
+  - Zhumin Chu
+  - Qingyao Ai
+  - Yiteng Tu
+  - Haitao Li
+  - Yiqun Liu
+  publisher: Proceedings of the 33rd ACM International Conference on Information and
+    Knowledge Management
+  date: '2024-10-21'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3715084288291653195&btnI=1&hl=en
 - id: 'calibraeval: calibrating prediction distribution to mitigate selection bias
     in llms-as-judges'
   title: 'CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias
