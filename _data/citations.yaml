@@ -13,6 +13,19 @@
     (BCI) for Multimedia Understanding
   date: '2024-10-28'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=2729248998115225523&btnI=1&hl=en
+- id: query augmentation with brain signals
+  title: Query Augmentation with Brain Signals
+  authors:
+  - Ziyi Ye
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Yiqun Liu
+  - Maarten de Rijke
+  - Christina Lioma
+  - Tuukka Ruotsalo
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18138185575064609128&btnI=1&hl=en
 - id: automatic large language model evaluation via peer review
   title: Automatic Large Language Model Evaluation via Peer Review
   authors:
