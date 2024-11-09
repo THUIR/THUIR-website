@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'beyond utility: evaluating llm as recommender'
+  title: 'Beyond Utility: Evaluating LLM as Recommender'
+  authors:
+  - Chumeng Jiang
+  - Jiayin Wang
+  - Weizhi Ma
+  - Charles LA Clarke
+  - Shuai Wang
+  - Chuhan Wu
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2411.00331
+  date: '2024-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13691887376177201280&btnI=1&hl=en
 - id: 'persrv: personalized sticker retrieval with vision-language model'
   title: 'PerSRV: Personalized Sticker Retrieval with Vision-Language Model'
   authors:
