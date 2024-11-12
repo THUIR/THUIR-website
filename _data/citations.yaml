@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: a user-centric multi-intent benchmark for evaluating large language models
+  title: A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models
+  authors:
+  - Jiayin Wang
+  - Fengran Mo
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  - Jian-Yun Nie
+  publisher: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+    Processing
+  date: '2024-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=618902460846252148&btnI=1&hl=en
 - id: 'beyond utility: evaluating llm as recommender'
   title: 'Beyond Utility: Evaluating LLM as Recommender'
   authors:
