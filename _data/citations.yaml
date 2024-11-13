@@ -27,6 +27,23 @@
   publisher: arXiv preprint arXiv:2411.00331
   date: '2024-11-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=13691887376177201280&btnI=1&hl=en
+- id: 'stard: a chinese statute retrieval dataset derived from real-life queries by
+    non-professionals'
+  title: 'STARD: A Chinese Statute Retrieval Dataset Derived from Real-life Queries
+    by Non-professionals'
+  authors:
+  - Weihang Su
+  - Yiran Hu
+  - Anzhe Xie
+  - Qingyao Ai
+  - Quezi Bing
+  - Ning Zheng
+  - Yun Liu
+  - Weixing Shen
+  - Yiqun Liu
+  publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2024'
+  date: '2024-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17170071477068419021&btnI=1&hl=en
 - id: 'persrv: personalized sticker retrieval with vision-language model'
   title: 'PerSRV: Personalized Sticker Retrieval with Vision-Language Model'
   authors:
