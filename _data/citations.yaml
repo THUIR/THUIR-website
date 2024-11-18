@@ -1,6 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: interpret the internal states of recommendation model with sparse autoencoder
+  title: Interpret the Internal States of Recommendation Model with Sparse Autoencoder
+  authors:
+  - Jiayin Wang
+  - Xiaoyu Zhang
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2411.06112
+  date: '2024-11-09'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18077587377125200085&btnI=1&hl=en
 - id: a user-centric multi-intent benchmark for evaluating large language models
   title: A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models
   authors:
