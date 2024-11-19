@@ -1,6 +1,222 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: interpret the internal states of recommendation model with sparse autoencoder
+  title: Interpret the Internal States of Recommendation Model with Sparse Autoencoder
+  authors:
+  - Jiayin Wang
+  - Xiaoyu Zhang
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2411.06112
+  date: '2024-11-09'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18077587377125200085&btnI=1&hl=en
+- id: a user-centric multi-intent benchmark for evaluating large language models
+  title: A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models
+  authors:
+  - Jiayin Wang
+  - Fengran Mo
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  - Jian-Yun Nie
+  publisher: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+    Processing
+  date: '2024-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=618902460846252148&btnI=1&hl=en
+- id: 'beyond utility: evaluating llm as recommender'
+  title: 'Beyond Utility: Evaluating LLM as Recommender'
+  authors:
+  - Chumeng Jiang
+  - Jiayin Wang
+  - Weizhi Ma
+  - Charles LA Clarke
+  - Shuai Wang
+  - Chuhan Wu
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2411.00331
+  date: '2024-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13691887376177201280&btnI=1&hl=en
+- id: 'stard: a chinese statute retrieval dataset derived from real-life queries by
+    non-professionals'
+  title: 'STARD: A Chinese Statute Retrieval Dataset Derived from Real-life Queries
+    by Non-professionals'
+  authors:
+  - Weihang Su
+  - Yiran Hu
+  - Anzhe Xie
+  - Qingyao Ai
+  - Quezi Bing
+  - Ning Zheng
+  - Yun Liu
+  - Weixing Shen
+  - Yiqun Liu
+  publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2024'
+  date: '2024-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17170071477068419021&btnI=1&hl=en
+- id: 'persrv: personalized sticker retrieval with vision-language model'
+  title: 'PerSRV: Personalized Sticker Retrieval with Vision-Language Model'
+  authors:
+  - Heng Er Metilda Chee
+  - Jiayin Wang
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2410.21801
+  date: '2024-10-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13051186181124067386&btnI=1&hl=en
+- id: 'brain-computer interface meets information retrieval: perspective on next-generation
+    information system'
+  title: 'Brain-Computer Interface Meets Information Retrieval: Perspective on Next-generation
+    Information System'
+  authors:
+  - Ziyi Ye
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Proceedings of the 1st International Workshop on Brain-Computer Interfaces
+    (BCI) for Multimedia Understanding
+  date: '2024-10-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2729248998115225523&btnI=1&hl=en
+- id: query augmentation with brain signals
+  title: Query Augmentation with Brain Signals
+  authors:
+  - Ziyi Ye
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Yiqun Liu
+  - Maarten de Rijke
+  - Christina Lioma
+  - Tuukka Ruotsalo
+  publisher: Proceedings of the 32nd ACM International Conference on Multimedia
+  date: '2024-10-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18138185575064609128&btnI=1&hl=en
+- id: automatic large language model evaluation via peer review
+  title: Automatic Large Language Model Evaluation via Peer Review
+  authors:
+  - Zhumin Chu
+  - Qingyao Ai
+  - Yiteng Tu
+  - Haitao Li
+  - Yiqun Liu
+  publisher: Proceedings of the 33rd ACM International Conference on Information and
+    Knowledge Management
+  date: '2024-10-21'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3715084288291653195&btnI=1&hl=en
+- id: 'calibraeval: calibrating prediction distribution to mitigate selection bias
+    in llms-as-judges'
+  title: 'CalibraEval: Calibrating Prediction Distribution to Mitigate Selection Bias
+    in LLMs-as-Judges'
+  authors:
+  - Haitao Li
+  - Junjie Chen
+  - Qingyao Ai
+  - Zhumin Chu
+  - Yujia Zhou
+  - Qian Dong
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2410.15393
+  date: '2024-10-20'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4984174168343474622&btnI=1&hl=en
+- id: predicting gate operation in open canal control with multitask sequential model
+  title: Predicting Gate Operation in Open Canal Control With Multitask Sequential
+    Model
+  authors:
+  - Shiyuan Guo
+  - Weizhi Ma
+  - Zhigang Yang
+  - Jinlong Liu
+  - Zhongjing Wang
+  - Min Zhang
+  publisher: IEEE Transactions on Industrial Informatics
+  date: '2024-10-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16998002757204237141&btnI=1&hl=en
+- id: an automatic and cost-efficient peer-review framework for language generation
+    evaluation
+  title: An Automatic and Cost-Efficient Peer-Review Framework for Language Generation
+    Evaluation
+  authors:
+  - Junjie Chen
+  - Weihang Su
+  - Zhumin Chu
+  - Haitao Li
+  - Qinyao Ai
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2410.12265
+  date: '2024-10-16'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9153674731009643979&btnI=1&hl=en
+- id: 'steptool: a step-grained reinforcement learning framework for tool learning
+    in llms'
+  title: 'StepTool: A Step-grained Reinforcement Learning Framework for Tool Learning
+    in LLMs'
+  authors:
+  - Yuanqing Yu
+  - Zhefan Wang
+  - Weizhi Ma
+  - Zhicheng Guo
+  - Jingtao Zhan
+  - Shuai Wang
+  - Chuhan Wu
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2410.07745
+  date: '2024-10-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1516482186641552345&btnI=1&hl=en
+- id: large language models as evaluators for recommendation explanations
+  title: Large Language Models as Evaluators for Recommendation Explanations
+  authors:
+  - Xiaoyu Zhang
+  - Yishan Li
+  - Jiayin Wang
+  - Bowen Sun
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  publisher: Proceedings of the 18th ACM Conference on Recommender Systems
+  date: '2024-10-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18372768278974710976&btnI=1&hl=en
+- id: 'right tool, right job: recommendation for repeat and exploration consumption
+    in food delivery'
+  title: 'Right Tool, Right Job: Recommendation for Repeat and Exploration Consumption
+    in Food Delivery'
+  authors:
+  - Jiayu Li
+  - Aixin Sun
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  publisher: Proceedings of the 18th ACM Conference on Recommender Systems
+  date: '2024-10-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14287885740564190611&btnI=1&hl=en
+- id: 'beyond scalar reward model: learning generative judge from preference data'
+  title: 'Beyond Scalar Reward Model: Learning Generative Judge from Preference Data'
+  authors:
+  - Ziyi Ye
+  - Xiangsheng Li
+  - Qiuchi Li
+  - Qingyao Ai
+  - Yujia Zhou
+  - Wei Shen
+  - Dong Yan
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2410.03742
+  date: '2024-10-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16395162004016382741&btnI=1&hl=en
+- id: 'lexeval: a comprehensive chinese legal benchmark for evaluating large language
+    models'
+  title: 'LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language
+    Models'
+  authors:
+  - Haitao Li
+  - You Chen
+  - Qingyao Ai
+  - Yueyue Wu
+  - Ruizhe Zhang
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2409.20288
+  date: '2024-09-30'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7968372114126733363&btnI=1&hl=en
 - id: "comparing point\u2010wise and pair\u2010wise relevance judgment with brain\
     \ signals"
   title: "Comparing point\u2010wise and pair\u2010wise relevance judgment with brain\
@@ -116,18 +332,6 @@
     and Development in Information Retrieval
   date: '2024-07-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=11194931778520386668&btnI=1&hl=en
-- id: 'macrec: a multi-agent collaboration framework for recommendation'
-  title: 'MACRec: A Multi-Agent Collaboration Framework for Recommendation'
-  authors:
-  - Zhefan Wang
-  - Yuanqing Yu
-  - Wendi Zheng
-  - Weizhi Ma
-  - Min Zhang
-  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval
-  date: '2024-07-10'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=2055601099317038213&btnI=1&hl=en
 - id: unbiased learning-to-rank needs unconfounded propensity estimation
   title: Unbiased Learning-to-Rank Needs Unconfounded Propensity Estimation
   authors:
@@ -142,6 +346,18 @@
     and Development in Information Retrieval
   date: '2024-07-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=434985736173913319&btnI=1&hl=en
+- id: 'macrec: a multi-agent collaboration framework for recommendation'
+  title: 'MACRec: A Multi-Agent Collaboration Framework for Recommendation'
+  authors:
+  - Zhefan Wang
+  - Yuanqing Yu
+  - Wendi Zheng
+  - Weizhi Ma
+  - Min Zhang
+  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2024-07-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2055601099317038213&btnI=1&hl=en
 - id: prompt refinement with image pivot for text-to-image generation
   title: Prompt Refinement with Image Pivot for Text-to-Image Generation
   authors:
@@ -618,6 +834,36 @@
   publisher: arXiv preprint arXiv:2401.15641
   date: '2024-01-28'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=603756173351366052&btnI=1&hl=en
+- id: 'ledqa: a chinese legal case document-based question answering dataset'
+  title: 'LeDQA: A Chinese Legal Case Document-based Question Answering Dataset'
+  authors:
+  - Bulou Liu
+  - Zhenhao Zhu
+  - Qingyao Ai
+  - Yiqun Liu
+  - Yueyue Wu
+  publisher: Legal question answering based on case documents is a pivotal legal AI
+    application and helps extract key elements from the legal case documents to promote
+    downstream tasks. Intuitively, the form of this task is similar to legal machine
+    reading comprehension. However, in existing legal machine reading comprehension
+    datasets, the background information is much shorter than the legal case documents,
+    and the questions are not designed from the perspective of legal knowledge. In
+    this paper, we present LeDQA 1, the first Chinese legal case document-based question
+    answering dataset to our best knowledge. Specifically, we build a comprehensive
+    question schema (including 48 element-based questions) for the Chinese civil law
+    by legal professionals. And considering the cost of human annotations are too
+    expensive, we use one of the SOTA LLMs (ie, GPT-4) to annotate the relevant sentences
+    to these questions in each case document. The constructed dataset originates from
+    Chinese civil cases and contains 100 case documents, 4,800 casequestion pairs
+    and 132,048 sentence-level relevance annotations. We implement several text matching
+    algorithms for relevant sentence selection and various Large Language Models (LLMs)
+    for legal question answering on LeDQA. The experimental results indicate that
+    incorporating relevant sentences can benefit the performance of question answering
+    models, but further efforts are still required to address the remaining challenges
+    such as retrieving irrelevant sentences and incorrect reasoning between retrieved
+    sentences.
+  date: '2024-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12507360554455884684&btnI=1&hl=en
 - id: combining multiple supervision for robust zero-shot dense retrieval
   title: Combining Multiple Supervision for Robust Zero-shot Dense Retrieval
   authors:
