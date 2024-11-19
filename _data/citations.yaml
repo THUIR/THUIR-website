@@ -332,6 +332,18 @@
     and Development in Information Retrieval
   date: '2024-07-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=11194931778520386668&btnI=1&hl=en
+- id: 'macrec: a multi-agent collaboration framework for recommendation'
+  title: 'MACRec: A Multi-Agent Collaboration Framework for Recommendation'
+  authors:
+  - Zhefan Wang
+  - Yuanqing Yu
+  - Wendi Zheng
+  - Weizhi Ma
+  - Min Zhang
+  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2024-07-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2055601099317038213&btnI=1&hl=en
 - id: unbiased learning-to-rank needs unconfounded propensity estimation
   title: Unbiased Learning-to-Rank Needs Unconfounded Propensity Estimation
   authors:
@@ -346,18 +358,6 @@
     and Development in Information Retrieval
   date: '2024-07-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=434985736173913319&btnI=1&hl=en
-- id: 'macrec: a multi-agent collaboration framework for recommendation'
-  title: 'MACRec: A Multi-Agent Collaboration Framework for Recommendation'
-  authors:
-  - Zhefan Wang
-  - Yuanqing Yu
-  - Wendi Zheng
-  - Weizhi Ma
-  - Min Zhang
-  publisher: Proceedings of the 47th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval
-  date: '2024-07-10'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=2055601099317038213&btnI=1&hl=en
 - id: prompt refinement with image pivot for text-to-image generation
   title: Prompt Refinement with Image Pivot for Text-to-Image Generation
   authors:
@@ -561,19 +561,6 @@
   publisher: arXiv preprint arXiv:2403.18348
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
-- id: scaling laws for dense retrieval
-  title: Scaling Laws For Dense Retrieval
-  authors:
-  - Yan Fang
-  - Jingtao Zhan
-  - Qingyao Ai
-  - Jiaxin Mao
-  - Weihang Su
-  - Jia Chen
-  - Yiqun Liu
-  publisher: arXiv preprint arXiv:2403.18684
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=13988804045575951155&btnI=1&hl=en
 - id: a situation-aware enhancer for personalized recommendation
   title: A Situation-aware Enhancer for Personalized Recommendation
   authors:
@@ -611,6 +598,19 @@
   publisher: arXiv preprint arXiv:2403.18325
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3108142761496633351&btnI=1&hl=en
+- id: scaling laws for dense retrieval
+  title: Scaling Laws For Dense Retrieval
+  authors:
+  - Yan Fang
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Weihang Su
+  - Jia Chen
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2403.18684
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13988804045575951155&btnI=1&hl=en
 - id: 'blade: enhancing black-box large language models with small domain-specific
     models'
   title: 'BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific
@@ -1601,6 +1601,17 @@
   publisher: ACM Transactions on Information Systems
   date: '2023-02-07'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=16707436219214088976&btnI=1&hl=en
+- id: "\u9762\u5411\u641C\u7D22\u5F15\u64CE\u7ADE\u4EF7\u6392\u540D\u7684\u5173\u952E\
+    \u8BCD\u5546\u4E1A\u4EF7\u503C\u5206\u6790"
+  title: "\u9762\u5411\u641C\u7D22\u5F15\u64CE\u7ADE\u4EF7\u6392\u540D\u7684\u5173\
+    \u952E\u8BCD\u5546\u4E1A\u4EF7\u503C\u5206\u6790"
+  authors:
+  - "\u738B\u5029\uFF0C \u5218\u5955\u7FA4\uFF0C \u9A6C\u5C11\u5E73\uFF0C \u8339\u7ACB\
+    \u4E91"
+  publisher: "\u300A \u5E7F\u897F\u5E08\u8303\u5927\u5B66\u5B66\u62A5\u300B(\u81EA\
+    \u7136\u79D1\u5B66\u7248)"
+  date: '2023-02-06'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15182080978836586459&btnI=1&hl=en
 - id: diverse legal case search
   title: Diverse legal case search
   authors:
@@ -1873,36 +1884,6 @@
   publisher: arXiv preprint arXiv:2208.07563
   date: '2022-08-16'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9966295767457125865&btnI=1&hl=en
-- id: make fairness more fair
-  title: Make Fairness More Fair
-  authors:
-  - Jiayin Wang
-  - Weizhi Ma
-  - Jiayu Li
-  - Hongyu Lu
-  - Min Zhang
-  - Biao Li
-  - Yiqun Liu
-  - Peng Jiang
-  - Shaoping Ma
-  publisher: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery
-    and Data Mining
-  date: '2022-08-14'
-  link: https://doi.org/gq5r44
-- id: towards representation alignment and uniformity in collaborative filtering
-  title: Towards representation alignment and uniformity in collaborative filtering
-  authors:
-  - Chenyang Wang
-  - Yuanqing Yu
-  - Weizhi Ma
-  - Min Zhang
-  - Chong Chen
-  - Yiqun Liu
-  - Shaoping Ma
-  publisher: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery
-    and Data Mining
-  date: '2022-08-14'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=10341346961492718409&btnI=1&hl=en
 - id: 'make fairness more fair: fair item utility estimation and exposure re-distribution'
   title: 'Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution'
   authors:
@@ -1919,6 +1900,36 @@
     and Data Mining
   date: '2022-08-14'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9550480348620141940&btnI=1&hl=en
+- id: towards representation alignment and uniformity in collaborative filtering
+  title: Towards representation alignment and uniformity in collaborative filtering
+  authors:
+  - Chenyang Wang
+  - Yuanqing Yu
+  - Weizhi Ma
+  - Min Zhang
+  - Chong Chen
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2022-08-14'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10341346961492718409&btnI=1&hl=en
+- id: make fairness more fair
+  title: Make Fairness More Fair
+  authors:
+  - Jiayin Wang
+  - Weizhi Ma
+  - Jiayu Li
+  - Hongyu Lu
+  - Min Zhang
+  - Biao Li
+  - Yiqun Liu
+  - Peng Jiang
+  - Shaoping Ma
+  publisher: Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2022-08-14'
+  link: https://doi.org/gq5r44
 - id: disentangled modeling of domain and relevance for adaptable dense retrieval
   title: Disentangled modeling of domain and relevance for adaptable dense retrieval
   authors:
