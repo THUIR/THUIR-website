@@ -165,7 +165,7 @@
   group: dataset
   # image: images/opensource/T2Ranking.png
   link: https://github.com/bebr2/LeKUBE
-  description: LeKUBE serves as a benchmark for knowledge updating methods in the legal domain, which is distinct from general domain knowledge updating. The legal domain presents unique challenges such as legal reasoning, application of law, and the length of legal regulations. LeKUBE concentrates on these challenges, providing a comprehensive evaluation of knowledge updating methods in the legal domain across five dimensions: accuracy, generalizability, locality, retainability, and scalability. 
+  description: LeKUBE serves as a benchmark for knowledge updating methods in the legal domain, which is distinct from general domain knowledge updating. The legal domain presents unique challenges such as legal reasoning, application of law, and the length of legal regulations. LeKUBE concentrates on these challenges, providing a comprehensive evaluation of knowledge updating methods in the legal domain across five dimensions (accuracy, generalizability, locality, retainability, and scalability). 
   tags:
     - Legal
 
