@@ -1,3 +1,21 @@
+- title:“钱伟长中文信息处理科学技术奖”一等奖&nbsp; · &nbsp;2020
+  group: honor
+  image: images/awards/cips.jpg
+  people: 张敏、刘奕群、马为之、艾清遥、江鹏、孙培杰、林肖、盖坤、蔡庆芃、马少平
+  description: 
+
+- title: SIGIR Early Career Researcher Award&nbsp; · &nbsp;2024
+  group: honor
+  image: images/awards/sigir2024.png
+  people: 艾清遥
+  description: 
+
+- title: 北京市科学技术进步奖一等奖&nbsp; · &nbsp;2022
+  group: honor
+  image: images/awards/bj.png
+  people: 刘奕群, 张敏, 李东海, 吴玥悦, 艾清遥, 谢晓晖, 王志红, 郭晓妮, 梁永涛, 杜斟, 蒋欣, 马少平
+  description: 
+
 - title: 日本大川人才基金奖励&nbsp; · &nbsp;2022
   group: honor
   image: images/awards/okawa.jpg
@@ -23,7 +41,35 @@
   people: 张敏
   description: 
 
+- title: 国际会议 SIGIR2024 最佳论文奖
+  group: awards
+  image: images/awards/fangzhanbest.jpg
+  people: 方言、詹靖涛
+  description:
 
+- title: 国际会议 SIGIR2024 时间检验奖
+  group: awards
+  image: images/awards/zhangtestoftime.jpg
+  people: 张永锋
+  description:
+
+- title: 西贝尔学者奖学金
+  group: awards
+  image: images/awards/siebelli.png
+  people: 李海涛
+  description:
+
+- title: 吴文俊人工智能科学技术奖优秀博士学位论文奖
+  group: awards
+  image: images/awards/wwjchenjia.png
+  people: 陈佳
+  description:
+
+- title: 人工智能学会优秀博士论文提名奖
+  group: awards
+  image: images/awards/wwjchenjia.png
+  people: 陈冲
+  description:
 
 - title: 国际会议 WSDM2022 最佳论文奖
   group: awards
