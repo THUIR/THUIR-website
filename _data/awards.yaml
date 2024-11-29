@@ -41,6 +41,12 @@
   people: 张敏
   description: 
 
+- title: 国际会议 EMNLP2024 Resource Award
+  group: awards
+  image: images/awards/emnlp24.jpg
+  people: 汪佳茵
+  description:
+
 - title: 国际会议 SIGIR2024 最佳论文奖
   group: awards
   image: images/awards/fangzhanbest.jpg
