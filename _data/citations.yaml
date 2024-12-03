@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: feature-enhanced neural collaborative reasoning for explainable recommendation
+  title: Feature-Enhanced Neural Collaborative Reasoning for Explainable Recommendation
+  authors:
+  - Xiaoyu Zhang
+  - Shaoyun Shi
+  - Yishan Li
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  publisher: ACM Transactions on Information Systems
+  date: '2024-11-26'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=8751371869371722368&btnI=1&hl=en
 - id: interpret the internal states of recommendation model with sparse autoencoder
   title: Interpret the Internal States of Recommendation Model with Sparse Autoencoder
   authors:
