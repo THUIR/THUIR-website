@@ -1,6 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'lekube: a knowledge update benchmark for legal domain'
+  title: 'LeKUBE: A Knowledge Update BEnchmark for Legal Domain'
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Yiran Hu
+  - Qingyao Ai
+  - Yueyue Wu
+  - Cheng Luo
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  publisher: Proceedings of the 2024 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region
+  date: '2024-12-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4475632568864672185&btnI=1&hl=en
+- id: 'llms-as-judges: a comprehensive survey on llm-based evaluation methods'
+  title: 'LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods'
+  authors:
+  - Haitao Li
+  - Qian Dong
+  - Junjie Chen
+  - Huixue Su
+  - Yujia Zhou
+  - Qingyao Ai
+  - Ziyi Ye
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2412.05579
+  date: '2024-12-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1470853745787139407&btnI=1&hl=en
 - id: feature-enhanced neural collaborative reasoning for explainable recommendation
   title: Feature-Enhanced Neural Collaborative Reasoning for Explainable Recommendation
   authors:
