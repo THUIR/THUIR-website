@@ -603,6 +603,17 @@
   publisher: arXiv preprint arXiv:2403.18348
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
+- id: 'to recommend or not: recommendability identification in conversations with
+    pre-trained language models'
+  title: 'To Recommend or Not: Recommendability Identification in Conversations with
+    Pre-trained Language Models'
+  authors:
+  - Zhefan Wang
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18628
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3713776143734638975&btnI=1&hl=en
 - id: a situation-aware enhancer for personalized recommendation
   title: A Situation-aware Enhancer for Personalized Recommendation
   authors:
@@ -615,17 +626,6 @@
   publisher: arXiv preprint arXiv:2403.18317
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
-- id: 'to recommend or not: recommendability identification in conversations with
-    pre-trained language models'
-  title: 'To Recommend or Not: Recommendability Identification in Conversations with
-    Pre-trained Language Models'
-  authors:
-  - Zhefan Wang
-  - Weizhi Ma
-  - Min Zhang
-  publisher: arXiv preprint arXiv:2403.18628
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=3713776143734638975&btnI=1&hl=en
 - id: common sense enhanced knowledge-based recommendation with large language model
   title: Common Sense Enhanced Knowledge-based Recommendation with Large Language
     Model
