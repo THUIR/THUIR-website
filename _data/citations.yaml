@@ -614,18 +614,6 @@
   publisher: arXiv preprint arXiv:2403.18628
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3713776143734638975&btnI=1&hl=en
-- id: a situation-aware enhancer for personalized recommendation
-  title: A Situation-aware Enhancer for Personalized Recommendation
-  authors:
-  - Jiayu Li
-  - Peijie Sun
-  - Chumeng Jiang
-  - Weizhi Ma
-  - Qingyao Ai
-  - Min Zhang
-  publisher: arXiv preprint arXiv:2403.18317
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
 - id: common sense enhanced knowledge-based recommendation with large language model
   title: Common Sense Enhanced Knowledge-based Recommendation with Large Language
     Model
@@ -640,6 +628,18 @@
   publisher: arXiv preprint arXiv:2403.18325
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3108142761496633351&btnI=1&hl=en
+- id: a situation-aware enhancer for personalized recommendation
+  title: A Situation-aware Enhancer for Personalized Recommendation
+  authors:
+  - Jiayu Li
+  - Peijie Sun
+  - Chumeng Jiang
+  - Weizhi Ma
+  - Qingyao Ai
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18317
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
 - id: scaling laws for dense retrieval
   title: Scaling Laws For Dense Retrieval
   authors:
