@@ -603,18 +603,6 @@
   publisher: arXiv preprint arXiv:2403.18348
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
-- id: a situation-aware enhancer for personalized recommendation
-  title: A Situation-aware Enhancer for Personalized Recommendation
-  authors:
-  - Jiayu Li
-  - Peijie Sun
-  - Chumeng Jiang
-  - Weizhi Ma
-  - Qingyao Ai
-  - Min Zhang
-  publisher: arXiv preprint arXiv:2403.18317
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
 - id: 'to recommend or not: recommendability identification in conversations with
     pre-trained language models'
   title: 'To Recommend or Not: Recommendability Identification in Conversations with
@@ -640,6 +628,18 @@
   publisher: arXiv preprint arXiv:2403.18325
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3108142761496633351&btnI=1&hl=en
+- id: a situation-aware enhancer for personalized recommendation
+  title: A Situation-aware Enhancer for Personalized Recommendation
+  authors:
+  - Jiayu Li
+  - Peijie Sun
+  - Chumeng Jiang
+  - Weizhi Ma
+  - Qingyao Ai
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18317
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
 - id: scaling laws for dense retrieval
   title: Scaling Laws For Dense Retrieval
   authors:
