@@ -1,6 +1,35 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'legalagentbench: evaluating llm agents in legal domain'
+  title: 'LegalAgentBench: Evaluating LLM Agents in Legal Domain'
+  authors:
+  - Haitao Li
+  - Junjie Chen
+  - Jingli Yang
+  - Qingyao Ai
+  - Wei Jia
+  - Youfeng Liu
+  - Kai Lin
+  - Yueyue Wu
+  - Guozhi Yuan
+  - Yiran Hu
+  - Wuyue Wang
+  - Yiqun Liu
+  - Minlie Huang
+  publisher: arXiv preprint arXiv:2412.17259
+  date: '2024-12-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16266164485547069996&btnI=1&hl=en
+- id: knowledge editing through chain-of-thought
+  title: Knowledge Editing through Chain-of-Thought
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2412.17727
+  date: '2024-12-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4193463402296767787&btnI=1&hl=en
 - id: 'lekube: a knowledge update benchmark for legal domain'
   title: 'LeKUBE: A Knowledge Update BEnchmark for Legal Domain'
   authors:
@@ -259,6 +288,24 @@
   publisher: arXiv preprint arXiv:2409.20288
   date: '2024-09-30'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=7968372114126733363&btnI=1&hl=en
+- id: improving generative information retrieval systems based on user feedback
+  title: Improving Generative Information Retrieval Systems Based on User Feedback
+  authors:
+  - Qingyao Ai
+  - Zhicheng Dou
+  - Min Zhang
+  publisher: Information Access in the Era of Generative AI
+  date: '2024-09-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9447461964417109746&btnI=1&hl=en
+- id: foundations of generative information retrieval
+  title: Foundations of Generative Information Retrieval
+  authors:
+  - Qingyao Ai
+  - Jingtao Zhan
+  - Yiqun Liu
+  publisher: Information Access in the Era of Generative AI
+  date: '2024-09-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1985739059682163166&btnI=1&hl=en
 - id: "comparing point\u2010wise and pair\u2010wise relevance judgment with brain\
     \ signals"
   title: "Comparing point\u2010wise and pair\u2010wise relevance judgment with brain\
