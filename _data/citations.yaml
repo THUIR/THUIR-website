@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: unsupervised dense retrieval with conterfactual contrastive learning
+  title: Unsupervised dense retrieval with conterfactual contrastive learning
+  authors:
+  - Haitian Chen
+  - Qingyao Ai
+  - Xiao Wang
+  - Yiqun Liu
+  - Fen Lin
+  - Qin Liu
+  publisher: arXiv preprint arXiv:2412.20756
+  date: '2024-12-30'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3120853353501893162&btnI=1&hl=en
 - id: 'legalagentbench: evaluating llm agents in legal domain'
   title: 'LegalAgentBench: Evaluating LLM Agents in Legal Domain'
   authors:
