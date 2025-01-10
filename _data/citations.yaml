@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: improving genir systems based on user feedback
+  title: Improving GenIR Systems Based on User Feedback
+  authors:
+  - Qingyao Ai
+  - Zhicheng Dou
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2501.02838
+  date: '2025-01-06'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18121178834461888584&btnI=1&hl=en
+- id: foundations of genir
+  title: Foundations of GenIR
+  authors:
+  - Qingyao Ai
+  - Jingtao Zhan
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2501.02842
+  date: '2025-01-06'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17591457688176209676&btnI=1&hl=en
 - id: unsupervised dense retrieval with conterfactual contrastive learning
   title: Unsupervised dense retrieval with conterfactual contrastive learning
   authors:
