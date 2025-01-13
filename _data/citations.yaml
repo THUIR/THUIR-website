@@ -264,19 +264,6 @@
   publisher: arXiv preprint arXiv:2410.07745
   date: '2024-10-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1516482186641552345&btnI=1&hl=en
-- id: large language models as evaluators for recommendation explanations
-  title: Large Language Models as Evaluators for Recommendation Explanations
-  authors:
-  - Xiaoyu Zhang
-  - Yishan Li
-  - Jiayin Wang
-  - Bowen Sun
-  - Weizhi Ma
-  - Peijie Sun
-  - Min Zhang
-  publisher: Proceedings of the 18th ACM Conference on Recommender Systems
-  date: '2024-10-08'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=18372768278974710976&btnI=1&hl=en
 - id: 'right tool, right job: recommendation for repeat and exploration consumption
     in food delivery'
   title: 'Right Tool, Right Job: Recommendation for Repeat and Exploration Consumption
@@ -290,6 +277,19 @@
   publisher: Proceedings of the 18th ACM Conference on Recommender Systems
   date: '2024-10-08'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=14287885740564190611&btnI=1&hl=en
+- id: large language models as evaluators for recommendation explanations
+  title: Large Language Models as Evaluators for Recommendation Explanations
+  authors:
+  - Xiaoyu Zhang
+  - Yishan Li
+  - Jiayin Wang
+  - Bowen Sun
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  publisher: Proceedings of the 18th ACM Conference on Recommender Systems
+  date: '2024-10-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18372768278974710976&btnI=1&hl=en
 - id: 'beyond scalar reward model: learning generative judge from preference data'
   title: 'Beyond Scalar Reward Model: Learning Generative Judge from Preference Data'
   authors:
@@ -667,19 +667,6 @@
   publisher: arXiv preprint arXiv:2403.19716
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=12247474990663297437&btnI=1&hl=en
-- id: sequential recommendation with latent relations based on large language model
-  title: Sequential Recommendation with Latent Relations based on Large Language Model
-  authors:
-  - Shenghao Yang
-  - Weizhi Ma
-  - Peijie Sun
-  - Qingyao Ai
-  - Yiqun Liu
-  - Mingchen Cai
-  - Min Zhang
-  publisher: arXiv preprint arXiv:2403.18348
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
 - id: 'to recommend or not: recommendability identification in conversations with
     pre-trained language models'
   title: 'To Recommend or Not: Recommendability Identification in Conversations with
@@ -717,6 +704,19 @@
   publisher: arXiv preprint arXiv:2403.18317
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
+- id: sequential recommendation with latent relations based on large language model
+  title: Sequential Recommendation with Latent Relations based on Large Language Model
+  authors:
+  - Shenghao Yang
+  - Weizhi Ma
+  - Peijie Sun
+  - Qingyao Ai
+  - Yiqun Liu
+  - Mingchen Cai
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18348
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
 - id: scaling laws for dense retrieval
   title: Scaling Laws For Dense Retrieval
   authors:
