@@ -60,6 +60,27 @@
   publisher: arXiv preprint arXiv:2412.17727
   date: '2024-12-23'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=4193463402296767787&btnI=1&hl=en
+- id: 'pre-trained models for search and recommendation: introduction to the special
+    issue-part 1'
+  title: 'Pre-trained Models for Search and Recommendation: Introduction to the Special
+    Issue-Part 1'
+  authors:
+  - Wenjie Wang
+  - Zheng Liu
+  - Fuli Feng
+  - Zhicheng Dou
+  - Qingyao Ai
+  - Grace Hui Yang
+  - Defu Lian
+  - Lu Hou
+  - Nick Craswell
+  - Aixin Sun
+  - Hamed Zamani
+  - Donald Metzler
+  - Maarten de Rijke
+  publisher: ACM Transactions on Information Systems
+  date: '2024-12-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12676329730996940650&btnI=1&hl=en
 - id: 'lekube: a knowledge update benchmark for legal domain'
   title: 'LeKUBE: A Knowledge Update BEnchmark for Legal Domain'
   authors:
