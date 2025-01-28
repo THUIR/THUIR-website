@@ -19,6 +19,23 @@
   publisher: arXiv preprint arXiv:2501.02842
   date: '2025-01-06'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17591457688176209676&btnI=1&hl=en
+- id: 'decoupling knowledge and context: an efficient and effective retrieval augmented
+    generation framework via cross attention'
+  title: 'Decoupling Knowledge and Context: An Efficient and Effective Retrieval Augmented
+    Generation Framework via Cross Attention'
+  authors:
+  - Qian Dong
+  - Qingyao Ai
+  - Hongning Wang
+  - Yiding Liu
+  - Haitao Li
+  - Weihang Su
+  - Yiqun Liu
+  - Tat-Seng Chua
+  - Shaoping Ma
+  publisher: Context
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7003452528920398658&btnI=1&hl=en
 - id: unsupervised dense retrieval with conterfactual contrastive learning
   title: Unsupervised dense retrieval with conterfactual contrastive learning
   authors:
