@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'rbft: robust fine-tuning for retrieval-augmented generation against retrieval
+    defects'
+  title: 'RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval
+    Defects'
+  authors:
+  - Yiteng Tu
+  - Weihang Su
+  - Yujia Zhou
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2501.18365
+  date: '2025-01-30'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12614548178308397688&btnI=1&hl=en
 - id: parametric retrieval augmented generation
   title: Parametric Retrieval Augmented Generation
   authors:
