@@ -30,10 +30,15 @@ We are located on the FIT building 1-506, Tsinghua University.
 
 **研究方向**
 
-1. 搜索：检索增强生成 (RAG)，大语言模型在复杂信息检索任务中的评测
-2. AI for Legal：研究预训练、指令调优和对齐技术在法律领域的应用
-3. 推荐系统：Recommendation Models, LLM Evaluation and Simulation, LLM-based Modeling
-4. Brain Machine Interface for Search
+* 搜索组：
+  * Core IR：排序模型、检索模型、检索增强生成 (RAG)，大语言模型复杂信息检索任务性能评测等
+  * AI for Legal：研究预训练、指令调优、对齐技术、智能体技术在法律领域的应用
+  * Brain Machine Interface for Search：基于脑电信号的搜索技术
+  * LLM for Social Simulation：基于大模型的用户、社会模拟
+* 推荐组：
+  * Recommendation Models
+  * LLM Evaluation and Simulation
+  * LLM-based Modeling
 
 **基本要求**
 1. 拥有人工智能领域的基础理论知识
@@ -90,7 +95,7 @@ THUIR课题组每年面向本校、外校招收博士生3-5名左右，硕士生
 {%
   include link.html
   link="mailto:aiqy@tsinghua.edu.cn"
-  text="艾清遥 助理教授"
+  text="艾清遥 副教授"
   icon="fas fa-envelope"
   style="button"
 %}
