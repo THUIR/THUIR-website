@@ -35,7 +35,7 @@ We are located on the FIT building 1-506, Tsinghua University.
   * AI for Legal：研究预训练、指令调优、对齐技术、智能体技术在法律领域的应用
   * Brain Machine Interface for Search：基于脑电信号的搜索技术
   * LLM for Social Simulation：基于大模型的用户、社会模拟
-* 推荐系统：
+* 推荐组：
   * Recommendation Models
   * LLM Evaluation and Simulation
   * LLM-based Modeling
