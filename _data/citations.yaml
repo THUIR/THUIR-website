@@ -1,6 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'rbft: robust fine-tuning for retrieval-augmented generation against retrieval
+    defects'
+  title: 'RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval
+    Defects'
+  authors:
+  - Yiteng Tu
+  - Weihang Su
+  - Yujia Zhou
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2501.18365
+  date: '2025-01-30'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12614548178308397688&btnI=1&hl=en
+- id: parametric retrieval augmented generation
+  title: Parametric Retrieval Augmented Generation
+  authors:
+  - Weihang Su
+  - Yichen Tang
+  - Qingyao Ai
+  - Junxi Yan
+  - Changyue Wang
+  - Hongning Wang
+  - Ziyi Ye
+  - Yujia Zhou
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2501.15915
+  date: '2025-01-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17355577501383931776&btnI=1&hl=en
 - id: improving genir systems based on user feedback
   title: Improving GenIR Systems Based on User Feedback
   authors:
@@ -19,6 +47,23 @@
   publisher: arXiv preprint arXiv:2501.02842
   date: '2025-01-06'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17591457688176209676&btnI=1&hl=en
+- id: 'decoupling knowledge and context: an efficient and effective retrieval augmented
+    generation framework via cross attention'
+  title: 'Decoupling Knowledge and Context: An Efficient and Effective Retrieval Augmented
+    Generation Framework via Cross Attention'
+  authors:
+  - Qian Dong
+  - Qingyao Ai
+  - Hongning Wang
+  - Yiding Liu
+  - Haitao Li
+  - Weihang Su
+  - Yiqun Liu
+  - Tat-Seng Chua
+  - Shaoping Ma
+  publisher: Context
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7003452528920398658&btnI=1&hl=en
 - id: unsupervised dense retrieval with conterfactual contrastive learning
   title: Unsupervised dense retrieval with conterfactual contrastive learning
   authors:
@@ -60,6 +105,27 @@
   publisher: arXiv preprint arXiv:2412.17727
   date: '2024-12-23'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=4193463402296767787&btnI=1&hl=en
+- id: 'pre-trained models for search and recommendation: introduction to the special
+    issue-part 1'
+  title: 'Pre-trained Models for Search and Recommendation: Introduction to the Special
+    Issue-Part 1'
+  authors:
+  - Wenjie Wang
+  - Zheng Liu
+  - Fuli Feng
+  - Zhicheng Dou
+  - Qingyao Ai
+  - Grace Hui Yang
+  - Defu Lian
+  - Lu Hou
+  - Nick Craswell
+  - Aixin Sun
+  - Hamed Zamani
+  - Donald Metzler
+  - Maarten de Rijke
+  publisher: ACM Transactions on Information Systems
+  date: '2024-12-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12676329730996940650&btnI=1&hl=en
 - id: 'lekube: a knowledge update benchmark for legal domain'
   title: 'LeKUBE: A Knowledge Update BEnchmark for Legal Domain'
   authors:
@@ -264,19 +330,6 @@
   publisher: arXiv preprint arXiv:2410.07745
   date: '2024-10-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1516482186641552345&btnI=1&hl=en
-- id: 'right tool, right job: recommendation for repeat and exploration consumption
-    in food delivery'
-  title: 'Right Tool, Right Job: Recommendation for Repeat and Exploration Consumption
-    in Food Delivery'
-  authors:
-  - Jiayu Li
-  - Aixin Sun
-  - Weizhi Ma
-  - Peijie Sun
-  - Min Zhang
-  publisher: Proceedings of the 18th ACM Conference on Recommender Systems
-  date: '2024-10-08'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=14287885740564190611&btnI=1&hl=en
 - id: large language models as evaluators for recommendation explanations
   title: Large Language Models as Evaluators for Recommendation Explanations
   authors:
@@ -290,6 +343,19 @@
   publisher: Proceedings of the 18th ACM Conference on Recommender Systems
   date: '2024-10-08'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=18372768278974710976&btnI=1&hl=en
+- id: 'right tool, right job: recommendation for repeat and exploration consumption
+    in food delivery'
+  title: 'Right Tool, Right Job: Recommendation for Repeat and Exploration Consumption
+    in Food Delivery'
+  authors:
+  - Jiayu Li
+  - Aixin Sun
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  publisher: Proceedings of the 18th ACM Conference on Recommender Systems
+  date: '2024-10-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14287885740564190611&btnI=1&hl=en
 - id: 'beyond scalar reward model: learning generative judge from preference data'
   title: 'Beyond Scalar Reward Model: Learning Generative Judge from Preference Data'
   authors:
@@ -667,6 +733,31 @@
   publisher: arXiv preprint arXiv:2403.19716
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=12247474990663297437&btnI=1&hl=en
+- id: sequential recommendation with latent relations based on large language model
+  title: Sequential Recommendation with Latent Relations based on Large Language Model
+  authors:
+  - Shenghao Yang
+  - Weizhi Ma
+  - Peijie Sun
+  - Qingyao Ai
+  - Yiqun Liu
+  - Mingchen Cai
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18348
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
+- id: a situation-aware enhancer for personalized recommendation
+  title: A Situation-aware Enhancer for Personalized Recommendation
+  authors:
+  - Jiayu Li
+  - Peijie Sun
+  - Chumeng Jiang
+  - Weizhi Ma
+  - Qingyao Ai
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2403.18317
+  date: '2024-03-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
 - id: 'to recommend or not: recommendability identification in conversations with
     pre-trained language models'
   title: 'To Recommend or Not: Recommendability Identification in Conversations with
@@ -692,31 +783,6 @@
   publisher: arXiv preprint arXiv:2403.18325
   date: '2024-03-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3108142761496633351&btnI=1&hl=en
-- id: a situation-aware enhancer for personalized recommendation
-  title: A Situation-aware Enhancer for Personalized Recommendation
-  authors:
-  - Jiayu Li
-  - Peijie Sun
-  - Chumeng Jiang
-  - Weizhi Ma
-  - Qingyao Ai
-  - Min Zhang
-  publisher: arXiv preprint arXiv:2403.18317
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=14944205059483397659&btnI=1&hl=en
-- id: sequential recommendation with latent relations based on large language model
-  title: Sequential Recommendation with Latent Relations based on Large Language Model
-  authors:
-  - Shenghao Yang
-  - Weizhi Ma
-  - Peijie Sun
-  - Qingyao Ai
-  - Yiqun Liu
-  - Mingchen Cai
-  - Min Zhang
-  publisher: arXiv preprint arXiv:2403.18348
-  date: '2024-03-27'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=11580845234495594059&btnI=1&hl=en
 - id: scaling laws for dense retrieval
   title: Scaling Laws For Dense Retrieval
   authors:
