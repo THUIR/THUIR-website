@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: "pre-trained models for search and recommendation: introduction to the special\
+    \ issue\u2014part 1"
+  title: "Pre-Trained Models for Search and Recommendation: Introduction to the Special\
+    \ Issue\u2014Part 1"
+  authors:
+  - Wenjie Wang
+  - Zheng Liu
+  - Fuli Feng
+  - Zhicheng Dou
+  - Qingyao Ai
+  - Grace Hui Yang
+  - Defu Lian
+  - Lu Hou
+  - Aixin Sun
+  - Hamed Zamani
+  - Donald Metzler
+  - Maarten de Rijke
+  publisher: ACM Transactions on Information Systems
+  date: '2025-02-06'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17804602122972121198&btnI=1&hl=en
 - id: 'rbft: robust fine-tuning for retrieval-augmented generation against retrieval
     defects'
   title: 'RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval
