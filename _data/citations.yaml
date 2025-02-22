@@ -198,19 +198,6 @@
   publisher: arXiv preprint arXiv:2411.06112
   date: '2024-11-09'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=18077587377125200085&btnI=1&hl=en
-- id: a user-centric multi-intent benchmark for evaluating large language models
-  title: A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models
-  authors:
-  - Jiayin Wang
-  - Fengran Mo
-  - Weizhi Ma
-  - Peijie Sun
-  - Min Zhang
-  - Jian-Yun Nie
-  publisher: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
-    Processing
-  date: '2024-11-01'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=618902460846252148&btnI=1&hl=en
 - id: 'beyond utility: evaluating llm as recommender'
   title: 'Beyond Utility: Evaluating LLM as Recommender'
   authors:
@@ -224,6 +211,19 @@
   publisher: arXiv preprint arXiv:2411.00331
   date: '2024-11-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=13691887376177201280&btnI=1&hl=en
+- id: a user-centric multi-intent benchmark for evaluating large language models
+  title: A User-Centric Multi-Intent Benchmark for Evaluating Large Language Models
+  authors:
+  - Jiayin Wang
+  - Fengran Mo
+  - Weizhi Ma
+  - Peijie Sun
+  - Min Zhang
+  - Jian-Yun Nie
+  publisher: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+    Processing
+  date: '2024-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=618902460846252148&btnI=1&hl=en
 - id: 'stard: a chinese statute retrieval dataset derived from real-life queries by
     non-professionals'
   title: 'STARD: A Chinese Statute Retrieval Dataset Derived from Real-life Queries
