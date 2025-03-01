@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'casegen: a benchmark for multi-stage legal case documents generation'
+  title: 'CaseGen: A Benchmark for Multi-Stage Legal Case Documents Generation'
+  authors:
+  - Haitao Li
+  - Jiaying Ye
+  - Yiran Hu
+  - Jia Chen
+  - Qingyao Ai
+  - Yueyue Wu
+  - Junjie Chen
+  - Yifan Chen
+  - Cheng Luo
+  - Quan Zhou
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2502.17943
+  date: '2025-02-25'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=8538036991974106464&btnI=1&hl=en
 - id: "pre-trained models for search and recommendation: introduction to the special\
     \ issue\u2014part 1"
   title: "Pre-Trained Models for Search and Recommendation: Introduction to the Special\
