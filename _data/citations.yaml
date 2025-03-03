@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: intelligence test
+  title: Intelligence Test
+  authors:
+  - Jingtao Zhan
+  - Jiahao Zhao
+  - Jiayu Li
+  - Yiqun Liu
+  - Bo Zhang
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Hongning Wang
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2502.18858
+  date: '2025-02-26'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4313393510537653607&btnI=1&hl=en
 - id: 'casegen: a benchmark for multi-stage legal case documents generation'
   title: 'CaseGen: A Benchmark for Multi-Stage Legal Case Documents Generation'
   authors:
