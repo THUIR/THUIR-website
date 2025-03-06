@@ -1,6 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: intelligence test
+  title: Intelligence Test
+  authors:
+  - Jingtao Zhan
+  - Jiahao Zhao
+  - Jiayu Li
+  - Yiqun Liu
+  - Bo Zhang
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Hongning Wang
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2502.18858
+  date: '2025-02-26'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4313393510537653607&btnI=1&hl=en
+- id: 'casegen: a benchmark for multi-stage legal case documents generation'
+  title: 'CaseGen: A Benchmark for Multi-Stage Legal Case Documents Generation'
+  authors:
+  - Haitao Li
+  - Jiaying Ye
+  - Yiran Hu
+  - Jia Chen
+  - Qingyao Ai
+  - Yueyue Wu
+  - Junjie Chen
+  - Yifan Chen
+  - Cheng Luo
+  - Quan Zhou
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2502.17943
+  date: '2025-02-25'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=8538036991974106464&btnI=1&hl=en
 - id: "pre-trained models for search and recommendation: introduction to the special\
     \ issue\u2014part 1"
   title: "Pre-Trained Models for Search and Recommendation: Introduction to the Special\
@@ -67,6 +100,29 @@
   publisher: arXiv preprint arXiv:2501.02842
   date: '2025-01-06'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17591457688176209676&btnI=1&hl=en
+- id: 'neurophysiir: international workshop on neurophysiological approaches for interactive
+    information retrieval'
+  title: 'NeuroPhysIIR: International Workshop on NeuroPhysiological Approaches for
+    Interactive Information Retrieval'
+  authors:
+  - Jacek Gwizdka
+  - Javed Mostafa
+  - Min Zhang
+  - Kaixin Ji
+  - Yashar Moshfeghi
+  - Tuukka Ruotsalo
+  - Damiano Spina
+  publisher: "The International Workshop on NeuroPhysiological Approaches for Interactive\
+    \ Information Retrieval (NeuroPhysIIR\u201925) aims to bringing together researchers\
+    \ from information science, humancomputer interaction, cognitive neuroscience,\
+    \ and related fields, to foster cross-disciplinary collaboration and accelerate\
+    \ progress in neurophysiologically-informed IIR research. As the third edition\
+    \ following successful workshops at SIGIR\u201915 [5] and CHIIR\u201917 [6], we\
+    \ anticipate that the interactive nature of this workshop will not only raise\
+    \ awareness but also lower the entry barriers for engaging with this exciting\
+    \ research area within the wider IIR community."
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17904878638936368144&btnI=1&hl=en
 - id: 'decoupling knowledge and context: an efficient and effective retrieval augmented
     generation framework via cross attention'
   title: 'Decoupling Knowledge and Context: An Efficient and Effective Retrieval Augmented
