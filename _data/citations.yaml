@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'lexrag: benchmarking retrieval-augmented generation in multi-turn legal consultation
+    conversation'
+  title: 'LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal
+    Consultation Conversation'
+  authors:
+  - Haitao Li
+  - Yifan Chen
+  - Yiran Hu
+  - Qingyao Ai
+  - Junjie Chen
+  - Xiaoyu Yang
+  - Jianhui Yang
+  - Yueyue Wu
+  - Zeyang Liu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2502.20640
+  date: '2025-02-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3860881952225570182&btnI=1&hl=en
 - id: intelligence test
   title: Intelligence Test
   authors:
