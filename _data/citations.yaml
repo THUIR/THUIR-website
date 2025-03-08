@@ -1,6 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'qilin: a multimodal information retrieval dataset with app-level user sessions'
+  title: 'Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions'
+  authors:
+  - Jia Chen
+  - Qian Dong
+  - Haitao Li
+  - Xiaohui He
+  - Yan Gao
+  - Shaosheng Cao
+  - Yi Wu
+  - Ping Yang
+  - Chen Xu
+  - Yao Hu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2503.00501
+  date: '2025-03-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5796567533759113011&btnI=1&hl=en
 - id: 'lexrag: benchmarking retrieval-augmented generation in multi-turn legal consultation
     conversation'
   title: 'LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal
