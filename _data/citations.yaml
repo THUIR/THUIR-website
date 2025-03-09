@@ -90,6 +90,22 @@
   publisher: ACM Transactions on Information Systems
   date: '2025-02-06'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17804602122972121198&btnI=1&hl=en
+- id: evaluating intelligence via trial and error
+  title: Evaluating Intelligence via Trial and Error
+  authors:
+  - Jingtao Zhan
+  - Jiahao Zhao
+  - Jiayu Li
+  - Yiqun Liu
+  - Bo Zhang
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Hongning Wang
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2502.18858
+  date: '2025-02-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10566352017242935431&btnI=1&hl=en
 - id: 'rbft: robust fine-tuning for retrieval-augmented generation against retrieval
     defects'
   title: 'RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval
