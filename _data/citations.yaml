@@ -1,6 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'qilin: a multimodal information retrieval dataset with app-level user sessions'
+  title: 'Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions'
+  authors:
+  - Jia Chen
+  - Qian Dong
+  - Haitao Li
+  - Xiaohui He
+  - Yan Gao
+  - Shaosheng Cao
+  - Yi Wu
+  - Ping Yang
+  - Chen Xu
+  - Yao Hu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2503.00501
+  date: '2025-03-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5796567533759113011&btnI=1&hl=en
+- id: 'lexrag: benchmarking retrieval-augmented generation in multi-turn legal consultation
+    conversation'
+  title: 'LexRAG: Benchmarking Retrieval-Augmented Generation in Multi-Turn Legal
+    Consultation Conversation'
+  authors:
+  - Haitao Li
+  - Yifan Chen
+  - Yiran Hu
+  - Qingyao Ai
+  - Junjie Chen
+  - Xiaoyu Yang
+  - Jianhui Yang
+  - Yueyue Wu
+  - Zeyang Liu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2502.20640
+  date: '2025-02-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3860881952225570182&btnI=1&hl=en
 - id: intelligence test
   title: Intelligence Test
   authors:
@@ -54,6 +90,22 @@
   publisher: ACM Transactions on Information Systems
   date: '2025-02-06'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17804602122972121198&btnI=1&hl=en
+- id: evaluating intelligence via trial and error
+  title: Evaluating Intelligence via Trial and Error
+  authors:
+  - Jingtao Zhan
+  - Jiahao Zhao
+  - Jiayu Li
+  - Yiqun Liu
+  - Bo Zhang
+  - Qingyao Ai
+  - Jiaxin Mao
+  - Hongning Wang
+  - Min Zhang
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2502.18858
+  date: '2025-02-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10566352017242935431&btnI=1&hl=en
 - id: 'rbft: robust fine-tuning for retrieval-augmented generation against retrieval
     defects'
   title: 'RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval
