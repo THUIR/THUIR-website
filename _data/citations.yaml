@@ -134,6 +134,16 @@
   publisher: arXiv preprint arXiv:2501.15915
   date: '2025-01-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17355577501383931776&btnI=1&hl=en
+- id: option-id based elimination for multiple choice questions
+  title: Option-ID Based Elimination For Multiple Choice Questions
+  authors:
+  - Zhenhao Zhu
+  - Bulou Liu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2501.15175
+  date: '2025-01-25'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11389186394074487180&btnI=1&hl=en
 - id: improving genir systems based on user feedback
   title: Improving GenIR Systems Based on User Feedback
   authors:
