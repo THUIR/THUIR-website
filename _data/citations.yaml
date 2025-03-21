@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: overview of the ntcir-18 automatic evaluation of llms (aeollm) task
+  title: Overview of the NTCIR-18 Automatic Evaluation of LLMs (AEOLLM) Task
+  authors:
+  - Junjie Chen
+  - Haitao Li
+  - Zhumin Chu
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2503.13038
+  date: '2025-03-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7751150228609307393&btnI=1&hl=en
 - id: 'qilin: a multimodal information retrieval dataset with app-level user sessions'
   title: 'Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions'
   authors:
