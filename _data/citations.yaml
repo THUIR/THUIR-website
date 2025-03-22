@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: structure-aware conversational legal case retrieval
+  title: Structure-Aware Conversational Legal Case Retrieval
+  authors:
+  - Bulou Liu
+  - Yiran Hu
+  - Qingyao Ai
+  - Yueyue Wu
+  - Yiqun Liu
+  - Chenliang Li
+  - Fan Zhang
+  - Weixing Shen
+  - Chong Chen
+  - Qi Tian
+  publisher: ACM Transactions on Information Systems
+  date: '2025-03-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13501842691351302350&btnI=1&hl=en
 - id: overview of the ntcir-18 automatic evaluation of llms (aeollm) task
   title: Overview of the NTCIR-18 Automatic Evaluation of LLMs (AEOLLM) Task
   authors:
