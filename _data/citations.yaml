@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'judge: benchmarking judgment document generation for chinese legal system'
+  title: 'JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System'
+  authors:
+  - Weihang Su
+  - Baoqing Yue
+  - Qingyao Ai
+  - Yiran Hu
+  - Jiaqi Li
+  - Changyue Wang
+  - Kaiyuan Zhang
+  - Yueyue Wu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2503.14258
+  date: '2025-03-18'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3749087973984365815&btnI=1&hl=en
 - id: structure-aware conversational legal case retrieval
   title: Structure-Aware Conversational Legal Case Retrieval
   authors:
