@@ -1,6 +1,48 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'judge: benchmarking judgment document generation for chinese legal system'
+  title: 'JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System'
+  authors:
+  - Weihang Su
+  - Baoqing Yue
+  - Qingyao Ai
+  - Yiran Hu
+  - Jiaqi Li
+  - Changyue Wang
+  - Kaiyuan Zhang
+  - Yueyue Wu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2503.14258
+  date: '2025-03-18'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3749087973984365815&btnI=1&hl=en
+- id: structure-aware conversational legal case retrieval
+  title: Structure-Aware Conversational Legal Case Retrieval
+  authors:
+  - Bulou Liu
+  - Yiran Hu
+  - Qingyao Ai
+  - Yueyue Wu
+  - Yiqun Liu
+  - Chenliang Li
+  - Fan Zhang
+  - Weixing Shen
+  - Chong Chen
+  - Qi Tian
+  publisher: ACM Transactions on Information Systems
+  date: '2025-03-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13501842691351302350&btnI=1&hl=en
+- id: overview of the ntcir-18 automatic evaluation of llms (aeollm) task
+  title: Overview of the NTCIR-18 Automatic Evaluation of LLMs (AEOLLM) Task
+  authors:
+  - Junjie Chen
+  - Haitao Li
+  - Zhumin Chu
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2503.13038
+  date: '2025-03-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7751150228609307393&btnI=1&hl=en
 - id: 'qilin: a multimodal information retrieval dataset with app-level user sessions'
   title: 'Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions'
   authors:
@@ -134,6 +176,16 @@
   publisher: arXiv preprint arXiv:2501.15915
   date: '2025-01-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17355577501383931776&btnI=1&hl=en
+- id: option-id based elimination for multiple choice questions
+  title: Option-ID Based Elimination For Multiple Choice Questions
+  authors:
+  - Zhenhao Zhu
+  - Bulou Liu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2501.15175
+  date: '2025-01-25'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11389186394074487180&btnI=1&hl=en
 - id: improving genir systems based on user feedback
   title: Improving GenIR Systems Based on User Feedback
   authors:
