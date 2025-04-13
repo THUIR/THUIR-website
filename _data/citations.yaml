@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: short video segment-level user dynamic interests modeling in personalized recommendation
+  title: Short Video Segment-level User Dynamic Interests Modeling in Personalized
+    Recommendation
+  authors:
+  - Zhiyu He
+  - Zhixin Ling
+  - Jiayu Li
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Xinchen Luo
+  - Min Zhang
+  - Guorui Zhou
+  publisher: arXiv preprint arXiv:2504.04237
+  date: '2025-04-05'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16641886103022267074&btnI=1&hl=en
 - id: 'judge: benchmarking judgment document generation for chinese legal system'
   title: 'JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System'
   authors:
