@@ -45,26 +45,47 @@ from time import sleep
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
-def setup_webdriver():
-    # setup webdriver
-    # chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM, driver_version="128.0.6613.113").install())
-    # chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
-    chrome_service = Service("/home/runner/work/THUIR-website/THUIR-website/chromedriver/linux-128.0.6613.113/chromedriver-linux64/chromedriver")
+import os
 
+
+def setup_webdriver():
+    # 从环境变量获取Chrome和ChromeDriver路径
+    chrome_binary_path = os.environ.get('CHROME_BINARY_PATH')
+    chromedriver_path = os.environ.get('CHROMEDRIVER_PATH')
+    
+    # 设置ChromeDriver服务
+    if chromedriver_path:
+        print(f"使用环境变量指定的ChromeDriver路径: {chromedriver_path}")
+        chrome_service = Service(chromedriver_path)
+    else:
+        # 如果环境变量未设置，回退到传统方式
+        from webdriver_manager.chrome import ChromeDriverManager
+        print("使用WebDriverManager安装ChromeDriver")
+        chrome_service = Service(ChromeDriverManager().install())
+    
+    # 配置Chrome选项
     chrome_options = Options()
-    chrome_options.binary_location = "/home/runner/work/THUIR-website/THUIR-website/chrome/linux-128.0.6613.113/chrome-linux64/chrome"
+    
+    # 设置Chrome二进制文件位置
+    if chrome_binary_path:
+        print(f"使用环境变量指定的Chrome路径: {chrome_binary_path}")
+        chrome_options.binary_location = chrome_binary_path
+    
+    # 添加必要的Chrome选项，特别是在CI环境中
     options = [
-        "--headless",
-        # "--disable-gpu",
-        # "--window-size=1920,1200",
-        # "--ignore-certificate-errors",
-        # "--disable-extensions",
-        # "--no-sandbox",
-        # "--disable-dev-shm-usage"
+        "--headless",  # 无头模式
+        "--disable-gpu",  # 在某些Linux系统上需要
+        "--window-size=1920,1200",  # 设置窗口大小
+        "--ignore-certificate-errors",  # 忽略证书错误
+        "--disable-extensions",  # 禁用扩展
+        "--no-sandbox",  # 在CI环境中必须
+        "--disable-dev-shm-usage"  # 解决在Docker/CI环境中的内存问题
     ]
+    
     for option in options:
         chrome_options.add_argument(option)
-
+    
+    # 创建WebDriver实例
     driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
     return driver
 
