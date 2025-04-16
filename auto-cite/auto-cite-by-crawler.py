@@ -50,7 +50,7 @@ import os
 
 def setup_webdriver():
     # 从环境变量获取Chrome和ChromeDriver路径
-    chrome_binary_path = os.environ.get('CHROME_BINARY_PATH')
+    chrome_binary_path = os.environ.get('CHROME_PATH')
     chromedriver_path = os.environ.get('CHROMEDRIVER_PATH')
     
     # 设置ChromeDriver服务
