@@ -45,8 +45,8 @@ jobs:
           CHROME_BIN=$(find . -name "chrome" | grep -E "chrome-linux.*\/chrome$" | head -n 1)
           echo "CHROME_PATH=$(readlink -f $CHROME_BIN)" >> $GITHUB_ENV
           
-          # 获取ChromeDriver路径
-          CHROMEDRIVER_BIN=$(find . -name "chromedriver" | head -n 1)
+          # 获取ChromeDriver路径 - 修复查找逻辑
+          CHROMEDRIVER_BIN=$(find . -name "chromedriver" | grep -E "chromedriver-linux.*\/chromedriver$" | head -n 1)
           echo "CHROMEDRIVER_PATH=$(readlink -f $CHROMEDRIVER_BIN)" >> $GITHUB_ENV
           
           # 打印路径以便调试
