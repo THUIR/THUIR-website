@@ -32,12 +32,11 @@ jobs:
       - name: Installed package list
         run: apt list --installed
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v2
         with:
           node-version: '18'
       - name: Install Chrome and ChromeDriver with Puppeteer
         run: |
-          npm install -g npx
           npx @puppeteer/browsers install chrome@128.0.6613.113
           npx @puppeteer/browsers install chromedriver@128.0.6613.113
       - name: Install all necessary packages
