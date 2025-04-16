@@ -10,3 +10,4 @@ _data/citations.yaml
 chrome/*
 chromedriver/*
 run.sh
+crawler_log.txt
