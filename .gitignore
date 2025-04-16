@@ -7,3 +7,5 @@ debug.log
 __pycache__/
 .DS_STORE
 _data/citations.yaml
+chrome/*
+chromedriver/*
