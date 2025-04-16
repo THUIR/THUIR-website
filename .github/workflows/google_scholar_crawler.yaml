@@ -37,12 +37,31 @@ jobs:
           node-version: '18'
       - name: Install Chrome and ChromeDriver with Puppeteer
         run: |
-          npx @puppeteer/browsers install chrome@128.0.6613.113
-          npx @puppeteer/browsers install chromedriver@128.0.6613.113
+          # 安装稳定版的Chrome和ChromeDriver
+          npx @puppeteer/browsers install chrome@stable
+          npx @puppeteer/browsers install chromedriver@stable
+          
+          # 获取Chrome路径并保存为环境变量供后续步骤使用
+          CHROME_BIN=$(find . -name "chrome" | grep -E "chrome-linux.*\/chrome$" | head -n 1)
+          echo "CHROME_PATH=$(readlink -f $CHROME_BIN)" >> $GITHUB_ENV
+          
+          # 获取ChromeDriver路径
+          CHROMEDRIVER_BIN=$(find . -name "chromedriver" | head -n 1)
+          echo "CHROMEDRIVER_PATH=$(readlink -f $CHROMEDRIVER_BIN)" >> $GITHUB_ENV
+          
+          # 打印路径以便调试
+          echo "Chrome binary path: $(readlink -f $CHROME_BIN)"
+          echo "ChromeDriver path: $(readlink -f $CHROMEDRIVER_BIN)"
       - name: Install all necessary packages
         run: pip install requests beautifulsoup4 pandas webdriver-manager selenium
       - name: Build updated citations
         run: python ./auto-cite/auto-cite-by-crawler.py
+        env:
+          # 设置环境变量以便Python脚本可以找到Chrome
+          CHROME_BINARY_PATH: ${{ env.CHROME_PATH }}
+          CHROMEDRIVER_PATH: ${{ env.CHROMEDRIVER_PATH }}
+          # CI环境中Chrome需要的参数
+          PYTHONUNBUFFERED: "1"
         timeout-minutes: 600
       - name: Commit updated citations
         uses: stefanzweifel/git-auto-commit-action@v4
