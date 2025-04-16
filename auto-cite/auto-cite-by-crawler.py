@@ -48,9 +48,11 @@ from selenium.webdriver.chrome.service import Service
 def setup_webdriver():
     # setup webdriver
     # chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM, driver_version="128.0.6613.113").install())
-    chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+    # chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+    chrome_service = Service("/home/runner/work/THUIR-website/THUIR-website/chromedriver/linux-128.0.6613.113/chromedriver-linux64/chromedriver")
 
     chrome_options = Options()
+    chrome_options.binary_location = "/home/runner/work/THUIR-website/THUIR-website/chrome/linux-128.0.6613.113/chrome-linux64/chrome"
     options = [
         "--headless",
         # "--disable-gpu",
