@@ -58,6 +58,16 @@
   publisher: arXiv preprint arXiv:2503.13038
   date: '2025-03-17'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=7751150228609307393&btnI=1&hl=en
+- id: "\u6CD5\u5F8B\u7C7B\u6848\u68C0\u7D22\u7ED3\u679C\u4E2D\u6027\u522B\u504F\u7F6E\
+    \u5BF9\u7528\u6237\u8BA4\u77E5\u7684\u5F71\u54CD."
+  title: "\u6CD5\u5F8B\u7C7B\u6848\u68C0\u7D22\u7ED3\u679C\u4E2D\u6027\u522B\u504F\
+    \u7F6E\u5BF9\u7528\u6237\u8BA4\u77E5\u7684\u5F71\u54CD."
+  authors:
+  - "\u5F20\u745E\u5586\uFF0C \u827E\u6E05\u9065\uFF0C \u5218\u5955\u7FA4\uFF0C \u5434\
+    \u73A5\u60A6\uFF0C \u738B\u8D1D\u5B81"
+  publisher: Journal of Computer Engineering & Applications
+  date: '2025-03-15'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15474566208474616636&btnI=1&hl=en
 - id: 'qilin: a multimodal information retrieval dataset with app-level user sessions'
   title: 'Qilin: A Multimodal Information Retrieval Dataset with APP-level User Sessions'
   authors:
