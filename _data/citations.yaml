@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: enhancing llm-based agents via global planning and hierarchical execution
+  title: Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution
+  authors:
+  - Junjie Chen
+  - Haitao Li
+  - Jingli Yang
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2504.16563
+  date: '2025-04-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13928514546480039759&btnI=1&hl=en
 - id: explainable multi-modality alignment for transferable recommendation
   title: Explainable Multi-Modality Alignment for Transferable Recommendation
   authors:
