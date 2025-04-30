@@ -1,6 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: enhancing llm-based agents via global planning and hierarchical execution
+  title: Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution
+  authors:
+  - Junjie Chen
+  - Haitao Li
+  - Jingli Yang
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2504.16563
+  date: '2025-04-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13928514546480039759&btnI=1&hl=en
+- id: explainable multi-modality alignment for transferable recommendation
+  title: Explainable Multi-Modality Alignment for Transferable Recommendation
+  authors:
+  - Shenghao Yang
+  - Weizhi Ma
+  - Zhiqiang Guo
+  - Min Zhang
+  - Haiyang Wu
+  - Junjie Zhai
+  - Chunhui Zhang
+  - Yuekui Yang
+  publisher: Proceedings of the ACM on Web Conference 2025
+  date: '2025-04-22'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1843594387424823087&btnI=1&hl=en
 - id: short video segment-level user dynamic interests modeling in personalized recommendation
   title: Short Video Segment-level User Dynamic Interests Modeling in Personalized
     Recommendation
@@ -229,6 +254,23 @@
   publisher: arXiv preprint arXiv:2501.02842
   date: '2025-01-06'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17591457688176209676&btnI=1&hl=en
+- id: 'decoupling knowledge and context: an efficient and effective retrieval augmented
+    generation framework via cross attention'
+  title: 'Decoupling Knowledge and Context: An Efficient and Effective Retrieval Augmented
+    Generation Framework via Cross Attention'
+  authors:
+  - Qian Dong
+  - Qingyao Ai
+  - Hongning Wang
+  - Yiding Liu
+  - Haitao Li
+  - Weihang Su
+  - Yiqun Liu
+  - Tat-Seng Chua
+  - Shaoping Ma
+  publisher: Context
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=7003452528920398658&btnI=1&hl=en
 - id: 'neurophysiir: international workshop on neurophysiological approaches for interactive
     information retrieval'
   title: 'NeuroPhysIIR: International Workshop on NeuroPhysiological Approaches for
@@ -252,23 +294,6 @@
     \ research area within the wider IIR community."
   date: '2025-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17904878638936368144&btnI=1&hl=en
-- id: 'decoupling knowledge and context: an efficient and effective retrieval augmented
-    generation framework via cross attention'
-  title: 'Decoupling Knowledge and Context: An Efficient and Effective Retrieval Augmented
-    Generation Framework via Cross Attention'
-  authors:
-  - Qian Dong
-  - Qingyao Ai
-  - Hongning Wang
-  - Yiding Liu
-  - Haitao Li
-  - Weihang Su
-  - Yiqun Liu
-  - Tat-Seng Chua
-  - Shaoping Ma
-  publisher: Context
-  date: '2025-01-01'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=7003452528920398658&btnI=1&hl=en
 - id: unsupervised dense retrieval with conterfactual contrastive learning
   title: Unsupervised dense retrieval with conterfactual contrastive learning
   authors:
