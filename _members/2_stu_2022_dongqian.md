@@ -4,7 +4,7 @@ image: images/people/dq.jpg
 description: Ph.D. 2022-   
 role: phd   
 links:  
-    home-page: https://deriq-qian-dong.github.io/
+    home-page: http://dongqian.bj.cn/
     email: qiandong.97@qq.com   
     github: deriq-qian-dong   
 ---  
