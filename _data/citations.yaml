@@ -271,6 +271,21 @@
   publisher: Context
   date: '2025-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=7003452528920398658&btnI=1&hl=en
+- id: generating clarifying questions for conversational legal case retrieval without
+    external knowledge
+  title: Generating Clarifying Questions for Conversational Legal Case Retrieval without
+    External Knowledge
+  authors:
+  - Bulou Liu
+  - Yiran Hu
+  - Qingyao Ai
+  - Yiqun Liu
+  - Yueyue Wu
+  - Chenliang Li
+  - Weixing Shen
+  publisher: ACM Transactions on Information Systems
+  date: '2025-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=8040344548123178469&btnI=1&hl=en
 - id: 'neurophysiir: international workshop on neurophysiological approaches for interactive
     information retrieval'
   title: 'NeuroPhysIIR: International Workshop on NeuroPhysiological Approaches for
