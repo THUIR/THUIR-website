@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: simulating prosocial behavior and social contagion in llm agents under institutional
+    interventions
+  title: Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional
+    Interventions
+  authors:
+  - Yujia Zhou
+  - Hexi Wang
+  - Qingyao Ai
+  - Zhen Wu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2505.15857
+  date: '2025-05-21'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14509753376825117934&btnI=1&hl=en
 - id: enhancing llm-based agents via global planning and hierarchical execution
   title: Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution
   authors:
