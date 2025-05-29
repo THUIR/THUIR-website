@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: eeg reveals the cognitive impact of polarized content in short video scenarios
+  title: EEG reveals the cognitive impact of polarized content in short video scenarios
+  authors:
+  - Bangde Du
+  - Ziyi Ye
+  - Monika Jankowska
+  - Zhijing Wu
+  - Qingyao Ai
+  - Yujia Zhou
+  - Yiqun Liu
+  publisher: Scientific Reports
+  date: '2025-05-25'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2187407850638654378&btnI=1&hl=en
 - id: simulating prosocial behavior and social contagion in llm agents under institutional
     interventions
   title: Simulating Prosocial Behavior and Social Contagion in LLM Agents under Institutional
