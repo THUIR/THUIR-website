@@ -1,6 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'small stickers, big meanings: a multilingual sticker semantic understanding
+    dataset with a gamified approach'
+  title: 'Small Stickers, Big Meanings: A Multilingual Sticker Semantic Understanding
+    Dataset with a Gamified Approach'
+  authors:
+  - Heng Er Metilda Chee
+  - Jiayin Wang
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2506.01668
+  date: '2025-06-02'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17325968002266129873&btnI=1&hl=en
+- id: decoupling reasoning and knowledge injection for in-context knowledge editing
+  title: Decoupling Reasoning and Knowledge Injection for In-Context Knowledge Editing
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yujia Zhou
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2506.00536
+  date: '2025-05-31'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14981516964244850129&btnI=1&hl=en
 - id: 'valuesim: generating backstories to model individual value systems'
   title: 'ValueSim: Generating Backstories to Model Individual Value Systems'
   authors:
