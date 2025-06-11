@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: joint evaluation of answer and reasoning consistency for hallucination detection
+    in large reasoning models
+  title: Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection
+    in Large Reasoning Models
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2506.04832
+  date: '2025-06-05'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9729060904738449517&btnI=1&hl=en
 - id: 'small stickers, big meanings: a multilingual sticker semantic understanding
     dataset with a gamified approach'
   title: 'Small Stickers, Big Meanings: A Multilingual Sticker Semantic Understanding
