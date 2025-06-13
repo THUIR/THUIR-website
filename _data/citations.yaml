@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: dynamic and parametric retrieval-augmented generation
+  title: Dynamic and Parametric Retrieval-Augmented Generation
+  authors:
+  - Weihang Su
+  - Qingyao Ai
+  - Jingtao Zhan
+  - Qian Dong
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2506.06704
+  date: '2025-06-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4874549117360105238&btnI=1&hl=en
 - id: joint evaluation of answer and reasoning consistency for hallucination detection
     in large reasoning models
   title: Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection
