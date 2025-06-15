@@ -1,6 +1,67 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: dynamic and parametric retrieval-augmented generation
+  title: Dynamic and Parametric Retrieval-Augmented Generation
+  authors:
+  - Weihang Su
+  - Qingyao Ai
+  - Jingtao Zhan
+  - Qian Dong
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2506.06704
+  date: '2025-06-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4874549117360105238&btnI=1&hl=en
+- id: joint evaluation of answer and reasoning consistency for hallucination detection
+    in large reasoning models
+  title: Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection
+    in Large Reasoning Models
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2506.04832
+  date: '2025-06-05'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9729060904738449517&btnI=1&hl=en
+- id: 'small stickers, big meanings: a multilingual sticker semantic understanding
+    dataset with a gamified approach'
+  title: 'Small Stickers, Big Meanings: A Multilingual Sticker Semantic Understanding
+    Dataset with a Gamified Approach'
+  authors:
+  - Heng Er Metilda Chee
+  - Jiayin Wang
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2506.01668
+  date: '2025-06-02'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17325968002266129873&btnI=1&hl=en
+- id: decoupling reasoning and knowledge injection for in-context knowledge editing
+  title: Decoupling Reasoning and Knowledge Injection for In-Context Knowledge Editing
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yujia Zhou
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2506.00536
+  date: '2025-05-31'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14981516964244850129&btnI=1&hl=en
+- id: 'valuesim: generating backstories to model individual value systems'
+  title: 'ValueSim: Generating Backstories to Model Individual Value Systems'
+  authors:
+  - Bangde Du
+  - Ziyi Ye
+  - Zhijing Wu
+  - Jankowska Monika
+  - Shuqi Zhu
+  - Qingyao Ai
+  - Yujia Zhou
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2505.23827
+  date: '2025-05-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4963129832096156892&btnI=1&hl=en
 - id: eeg reveals the cognitive impact of polarized content in short video scenarios
   title: EEG reveals the cognitive impact of polarized content in short video scenarios
   authors:
@@ -27,6 +88,18 @@
   publisher: arXiv preprint arXiv:2505.15857
   date: '2025-05-21'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=14509753376825117934&btnI=1&hl=en
+- id: intelligent agents with adaptive knowledge fusion for personalized recommendation
+  title: Intelligent Agents with Adaptive Knowledge Fusion for Personalized Recommendation
+  authors:
+  - Yuanqing Yu
+  - Zhefan Wang
+  - Chumeng Jiang
+  - Xinyi Li
+  - Jiayin Wang
+  - Min Zhang
+  publisher: Companion Proceedings of the ACM on Web Conference 2025
+  date: '2025-05-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15315092521044555437&btnI=1&hl=en
 - id: enhancing llm-based agents via global planning and hierarchical execution
   title: Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution
   authors:
