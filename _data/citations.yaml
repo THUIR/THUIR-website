@@ -12,6 +12,26 @@
   publisher: arXiv preprint arXiv:2506.06704
   date: '2025-06-07'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=4874549117360105238&btnI=1&hl=en
+- id: overview of ntcir-18
+  title: Overview of NTCIR-18
+  authors:
+  - Chung-Chi Chen
+  - Qingyao Ai
+  - Shoko Wakamiya
+  publisher: Transfer
+  date: '2025-06-06'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9200488140046549637&btnI=1&hl=en
+- id: thuir at the ntcir-18 fairweb-2 task
+  title: THUIR at the NTCIR-18 FairWeb-2 Task
+  authors:
+  - Huixue Su
+  - Haitao Li
+  - Yiteng Tu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Proceedings of NTCIR-18
+  date: '2025-06-06'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11364765608348155210&btnI=1&hl=en
 - id: joint evaluation of answer and reasoning consistency for hallucination detection
     in large reasoning models
   title: Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection
