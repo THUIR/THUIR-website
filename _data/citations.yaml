@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: augmenting multi-agent communication with state delta trajectory
+  title: Augmenting Multi-Agent Communication with State Delta Trajectory
+  authors:
+  - Yichen Tang
+  - Weihang Su
+  - Yujia Zhou
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2506.19209
+  date: '2025-06-24'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1671204378628154892&btnI=1&hl=en
 - id: dynamic and parametric retrieval-augmented generation
   title: Dynamic and Parametric Retrieval-Augmented Generation
   authors:
