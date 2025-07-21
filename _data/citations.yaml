@@ -1,6 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'llms on trial: evaluating judicial fairness for large language models'
+  title: 'LLMs on Trial: Evaluating Judicial Fairness for Large Language Models'
+  authors:
+  - Yiran Hu
+  - Zongyue Xue
+  - Haitao Li
+  - Siyuan Zheng
+  - Qingjing Chen
+  - Shaochun Wang
+  - Xihan Zhang
+  - Ning Zheng
+  - Yun Liu
+  - Qingyao Ai
+  - Yiqun Liu
+  - Charles LA Clarke
+  - Weixing Shen
+  publisher: arXiv preprint arXiv:2507.10852
+  date: '2025-07-14'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18112655137763598994&btnI=1&hl=en
 - id: 'u-sticker: a large-scale multi-domain user sticker dataset for retrieval and
     personalization'
   title: 'U-Sticker: A Large-Scale Multi-Domain User Sticker Dataset for Retrieval
