@@ -1,7 +1,7 @@
 ---
 name: Jiayu Li<br/>李佳玉
 image: images/people/lijiayu.jpg  
-description: Ph.D. 2020-  
+description: Ph.D. 2020-2025  
 role: phd  
 links:  
     email: lijiayu997@gmail.com  

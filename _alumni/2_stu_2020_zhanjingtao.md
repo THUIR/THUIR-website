@@ -1,7 +1,7 @@
 ---  
 name: Jingtao Zhan<br/>詹靖涛
 image: images/people/zjt.jpg  
-description: Ph.D. 2020-  
+description: Ph.D. 2020-2025  
 role: phd  
 links: 
     home-page: https://jingtaozhan.github.io/   
