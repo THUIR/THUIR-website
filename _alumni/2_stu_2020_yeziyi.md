@@ -1,7 +1,7 @@
 ---
 name: Ziyi Ye<br/>叶子逸
 image: images/people/yzy.jpg  
-description: Ph.D. 2020-  
+description: Ph.D. 2020-2025  
 role: phd  
 links:  
     home-page: https://yeziyi1998.github.io/  

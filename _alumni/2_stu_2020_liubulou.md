@@ -1,7 +1,7 @@
 ---
 name: Bulou Liu<br/>刘布楼
 image: images/people/lbl.jpg
-description: Ph.D. 2020- 
+description: Ph.D. 2020-2025 
 role: phd
 links:
     email: lbl20@mails.tsinghua.edu.cn 
