@@ -1,7 +1,7 @@
 ---
 name: Shiyuan Guo<br/>郭世圆
 image: images/people/gsy.jpg  
-description: Master 2022-  
+description: Master 2022-2025
 role: master  
 links:
     email: gsy22@mails.tsinghua.edu.cn  
