@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'selfracg: enabling llms to self-express and retrieve for code generation'
+  title: 'SelfRACG: Enabling LLMs to Self-Express and Retrieve for Code Generation'
+  authors:
+  - Qian Dong
+  - Jia Chen
+  - Qingyao Ai
+  - Hongning Wang
+  - Haitao Li
+  - Yi Wu
+  - Yao Hu
+  - Yiqun Liu
+  - Shaoping Ma
+  publisher: arXiv preprint arXiv:2507.19033
+  date: '2025-07-25'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=2781159432135138254&btnI=1&hl=en
 - id: 'llms on trial: evaluating judicial fairness for large language models'
   title: 'LLMs on Trial: Evaluating Judicial Fairness for Large Language Models'
   authors:
