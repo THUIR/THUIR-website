@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: improving long-tail user ctr prediction via hierarchical distribution alignment
+  title: Improving Long-tail User CTR Prediction via Hierarchical Distribution Alignment
+  authors:
+  - Yifan Wang
+  - Weizhi Ma
+  - Min Zhang
+  - Xiaoxiao Xu
+  - Zhiqiang Liu
+  - Shaoping Ma
+  publisher: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining V. 2
+  date: '2025-08-03'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9620192716515177992&btnI=1&hl=en
 - id: are recommenders self-aware? label-free recommendation performance estimation
     via model uncertainty
   title: Are Recommenders Self-Aware? Label-Free Recommendation Performance Estimation
@@ -31,6 +44,22 @@
   publisher: arXiv preprint arXiv:2507.19033
   date: '2025-07-25'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=2781159432135138254&btnI=1&hl=en
+- id: pre-training for legal case retrieval based on inter-case distinctions
+  title: Pre-training for Legal Case Retrieval Based on Inter-Case Distinctions
+  authors:
+  - Weihang Su
+  - Qingyao Ai
+  - Yueyue Wu
+  - Anzhe Xie
+  - Changyue Wang
+  - Yixiao Ma
+  - Haitao Li
+  - Zhijing Wu
+  - Yiqun Liu
+  - Min Zhang
+  publisher: ACM Transactions on Information Systems
+  date: '2025-07-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11192243031618130420&btnI=1&hl=en
 - id: 'llms on trial: evaluating judicial fairness for large language models'
   title: 'LLMs on Trial: Evaluating Judicial Fairness for Large Language Models'
   authors:
