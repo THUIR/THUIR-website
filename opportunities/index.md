@@ -25,17 +25,19 @@ We are located on the FIT building 1-506, Tsinghua University.
 {% include section.html %}
 
 {% capture text %} 
-欢迎本科生加入我们，开启你的LLM科研之旅！
-我们的研究主要集中在利用人工智能技术（尤其是LLM）来更好地满足用户的信息需求。
+THUIR课题组每年面向本校、外校招收博士生3-5名左右，硕士生1名左右，具体依当年情况确定，导师信息参看[课题组教师介绍](../people/)。
+
+同时，我们欢迎各个年级本科生加入实验室进行实习，开启你的科研之旅！
+我们的研究主要集中在利用人工智能技术来更好地满足用户的信息需求。
 
 **研究方向**
 
-* 搜索组：
-  * Core IR：排序模型、检索模型、检索增强生成 (RAG)，大语言模型复杂信息检索任务性能评测等
+* 搜索组（刘奕群、艾清遥）：
+  * Core IR：排序模型、检索模型、检索增强生成 (RAG)，大语言模型复杂信息检索任务性能评测,持续学习算法框架等
   * AI for Legal：研究预训练、指令调优、对齐技术、智能体技术在法律领域的应用
   * Brain Machine Interface for Search：基于脑电信号的搜索技术
   * LLM for Social Simulation：基于大模型的用户、社会模拟
-* 推荐组：
+* 推荐组（张敏）：
   * Recommendation Models
   * LLM Evaluation and Simulation
   * LLM-based Modeling
@@ -47,79 +49,53 @@ We are located on the FIT building 1-506, Tsinghua University.
 4. 具备计算机专业本科生所需的数学知识
 5. 具有良好的英语阅读能力
 
-**团队成就**
-
-在检索和LLM领域，我们的研究成果在SIGIR、WSDM、CIKM、WWW、TOIS、KDD、AAAI、IJCAI、ACL、EMNLP等顶级会议和期刊上发表。在Legal AI领域，我们的技术和解决方案已被工业界广泛采纳。
-
-**培养计划**
-
-加入我们后，我们会在你进组之前与你进行深入的交流，之后会给你量身定制一套个性化培养方案。在4周的快速入门后，你将有机会参与真实的科研项目，与本领域顶尖博士生一同工作，发表高质量研究成果。
-
-Hard work always pays off! 以往多位实习生通过实习期间的努力，与我们共同在AAAI、ACL等顶级会议上发表高质量的论文，并有多篇论文在投。实习经历也将作为我们后续选拔研究生的重要指标。
-
-**联系方式**
+**实习经历将作为后续选拔研究生重要指标。**
 
 有意向的同学请扫描左侧二维码填写报名问卷
 
 {:.center} 
 {% endcapture %}
 
-{% include feature.html image="images/internship.png" title="Internship 实习生招募" text=text %}
+{% include feature.html image="images/internship.png" title="Internship & Graduate Student Admission 实习生及研究生招生" text=text %}
 
 {% include section.html %}
 
 {% capture text %}
-THUIR课题组每年面向本校、外校招收博士生3-5名左右，硕士生1名左右，具体依当年情况确定。目前组内招收博士研究方向包括搜索、推荐、排序等大方向，具体包括网页检索、用户行为分析、数据挖掘、脑机接口、法律检索、排序模型、新模态推荐、信息表示学习、信息可靠性与公平性等细分领域，具体参看[课题组教师介绍](../people/)。欢迎感兴趣的同学直接通过以下链接邮件联系课题组内研究生导师。
+THUIR课题组长期招募博士后，欢迎有信息检索、自然语言处理、数据挖掘等方面研究经验的年轻学者加入我们的队伍！
 
-{%
-  include link.html
-  link="mailto:msp@tsinghua.edu.cn"
-  text="马少平 教授"
-  icon="fas fa-envelope"
-  style="button"
-%}
-{%
-  include link.html
-  link="mailto:z-m@mail.tsinghua.edu.cn"
-  text="张敏 教授"
-  icon="fas fa-envelope"
-  style="button"
-%}
-{%
-  include link.html
-  link="mailto:yiqunliu@tsinghua.edu.cn"
-  text="刘奕群 教授"
-  icon="fas fa-envelope"
-  style="button"
-%}
-{%
-  include link.html
-  link="mailto:aiqy@tsinghua.edu.cn"
-  text="艾清遥 副教授"
-  icon="fas fa-envelope"
-  style="button"
-%}
-{:.center}
-{% endcapture %}
+**博士后申请条件**
 
-{%
-  include feature.html
-  image="images/grad_admin.jpg"
-  title="Grad Student Admission 研究生招生"
-  text=text
-%}
+1）符合[清华大学博士后基本招收条件](http://postdoctor.tsinghua.edu.cn/info/zcgd/1297)，年龄不超过35岁，获得博士学位一般不超过3年；
 
-{% include section.html %}
+2）具备较强的独立分析、解决问题的能力，能独立完成科研工作，在信息检索或个性化推荐方向有高水平论文发表，具有浓厚的前沿科学探索兴趣；欢迎具有法学、心理学等领域交叉研究经验的申请人；
 
-{% capture text %}
-THUIR课题组长期招募博士后，欢迎有信息检索、自然语言处理、数据挖掘等方面研究经验的年轻学者加入我们的队伍！详情可参见[THUIR博士后申请](https://mp.weixin.qq.com/s/6_NKkVI9NFWUi6PZJJWX5A)。
+3）良好的英文文献阅读、沟通和写作能力；
+
+4）具有高度的责任心和上进心，工作积极主动，具备良好的学术道德和团队合作精神。
+
+**博后岗位待遇**
+
+1）岗位待遇按照清华大学相关规定执行。本课题组将为在站工作博士后额外提供绩效奖励津贴，保证优秀博士后获得有竞争力的薪酬；
+
+2）积极支持条件优秀者申请国家“博新计划”、清华大学[“水木学者”计划](http://postdoctor.tsinghua.edu.cn/thu/index.htm)以及其他多种清华大学博士后支持计划。资助额度最高40万元，另有多项福利保障；
+
+3）清华大学提供可租住的博士后公寓（或较为优越的租房补贴）并解决子女入园、入学；享受清华大学教职工社会保险、住房公积金等待遇；享受全国博管会关于出站博士后户口迁移及家属户口随迁等政策；
+
+4）鼓励其申请博士后基金、自然科学基金、出国留学基金并提供必要的配套条件和资源支持，对于科研表现优秀的博士后将为其后续职业发展创造条件并提供支持。
+
+**合作导师**
+
+
+[张敏](http://www.thuir.cn/group/~mzhang)教授，
+[刘奕群](http://www.thuir.cn/group/~YQLiu)教授，
+[艾清遥](http://www.thuir.cn/group/~aiqy)副教授
 
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/postdoc_hire.jpg"
+  image="images/THUIR_postdoc.png"
   title="PostDoc Position 博士后招聘"
   text=text
 %}
