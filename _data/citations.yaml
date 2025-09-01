@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: chinese court simulation with llm-based agent system
+  title: Chinese Court Simulation with LLM-Based Agent System
+  authors:
+  - Kaiyuan Zhang
+  - Jiaqi Li
+  - Yueyue Wu
+  - Haitao Li
+  - Cheng Luo
+  - Shaokun Zou
+  - Yujia Zhou
+  - Weihang Su
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2508.17322
+  date: '2025-08-24'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4957342597650617891&btnI=1&hl=en
 - id: benchmarking computer science survey generation
   title: Benchmarking Computer Science Survey Generation
   authors:
