@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: simulating dispute mediation with llm-based agents for legal research
+  title: Simulating Dispute Mediation with LLM-Based Agents for Legal Research
+  authors:
+  - Junjie Chen
+  - Haitao Li
+  - Minghao Qin
+  - Yujia Zhou
+  - Yanxue Ren
+  - Wuyue Wang
+  - Yiqun Liu
+  - Yueyue Wu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2509.06586
+  date: '2025-09-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1467356530424207335&btnI=1&hl=en
 - id: chinese court simulation with llm-based agent system
   title: Chinese Court Simulation with LLM-Based Agent System
   authors:
