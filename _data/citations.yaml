@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'justeva: a toolkit to evaluate llm fairness in legal knowledge inference'
+  title: 'JustEva: A Toolkit to Evaluate LLM Fairness in Legal Knowledge Inference'
+  authors:
+  - Zongyue Xue
+  - Siyuan Zheng
+  - Shaochun Wang
+  - Yiran Hu
+  - Shenran Wang
+  - Yuxin Yao
+  - Haitao Li
+  - Qingyao Ai
+  - Yiqun Liu
+  - Yun Liu
+  - Weixing Shen
+  publisher: arXiv preprint arXiv:2509.12104
+  date: '2025-09-15'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=15390451619609813050&btnI=1&hl=en
 - id: simulating dispute mediation with llm-based agents for legal research
   title: Simulating Dispute Mediation with LLM-Based Agents for Legal Research
   authors:
