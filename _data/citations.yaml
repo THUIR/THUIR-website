@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: human vs. agent in task-oriented conversations
+  title: Human vs. Agent in Task-Oriented Conversations
+  authors:
+  - Zhefan Wang
+  - Ning Geng
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2509.17619
+  date: '2025-09-22'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18295094425347878462&btnI=1&hl=en
 - id: 'justeva: a toolkit to evaluate llm fairness in legal knowledge inference'
   title: 'JustEva: A Toolkit to Evaluate LLM Fairness in Legal Knowledge Inference'
   authors:
