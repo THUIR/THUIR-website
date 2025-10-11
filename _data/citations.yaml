@@ -1,6 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: what scales in cross-entropy scaling law?
+  title: What Scales in Cross-Entropy Scaling Law?
+  authors:
+  - Junxi Yan
+  - Zixi Wei
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2510.04067
+  date: '2025-10-05'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6228446505024099749&btnI=1&hl=en
 - id: human vs. agent in task-oriented conversations
   title: Human vs. Agent in Task-Oriented Conversations
   authors:
@@ -60,6 +71,19 @@
   publisher: arXiv preprint arXiv:2508.17322
   date: '2025-08-24'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=4957342597650617891&btnI=1&hl=en
+- id: 'surge: a benchmark and evaluation framework for scientific survey generation'
+  title: 'SurGE: A Benchmark and Evaluation Framework for Scientific Survey Generation'
+  authors:
+  - Weihang Su
+  - Anzhe Xie
+  - Qingyao Ai
+  - Jianming Long
+  - Jiaxin Mao
+  - Ziyi Ye
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2508.15658
+  date: '2025-08-21'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=8696061181090232826&btnI=1&hl=en
 - id: benchmarking computer science survey generation
   title: Benchmarking Computer Science Survey Generation
   authors:
