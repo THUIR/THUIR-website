@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'from< answer> to< think>: multidimensional supervision of reasoning process
+    for llm optimization'
+  title: 'From< Answer> to< Think>: Multidimensional Supervision of Reasoning Process
+    for LLM Optimization'
+  authors:
+  - Beining Wang
+  - Weihang Su
+  - Hongtao Tian
+  - Tao Yang
+  - Yujia Zhou
+  - Ting Yao
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2510.11457
+  date: '2025-10-13'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13003080138759958861&btnI=1&hl=en
 - id: what scales in cross-entropy scaling law?
   title: What Scales in Cross-Entropy Scaling Law?
   authors:
