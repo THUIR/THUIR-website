@@ -1,7 +1,7 @@
 --- 
 name: Junjie Chen<br/>陈俊杰 
 image: images/people/cjj.jpg  
-description: M.D. 2024-  
+description: M.S. 2024-  
 role: master  
 links:  
     email: chenjj24@mails.tsinghua.edu.cn  
