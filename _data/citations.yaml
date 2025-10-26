@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: relative-based scaling law for neural language models
+  title: Relative-Based Scaling Law for Neural Language Models
+  authors:
+  - Baoqing Yue
+  - Jinyuan Zhou
+  - Zixi Wei
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2510.20387
+  date: '2025-10-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1610042495368895173&btnI=1&hl=en
 - id: 'memorybench: a benchmark for memory and continual learning in llm systems'
   title: 'MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems'
   authors:
