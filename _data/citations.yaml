@@ -1,6 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: relative-based scaling law for neural language models
+  title: Relative-Based Scaling Law for Neural Language Models
+  authors:
+  - Baoqing Yue
+  - Jinyuan Zhou
+  - Zixi Wei
+  - Jingtao Zhan
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2510.20387
+  date: '2025-10-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1610042495368895173&btnI=1&hl=en
+- id: 'memorybench: a benchmark for memory and continual learning in llm systems'
+  title: 'MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems'
+  authors:
+  - Qingyao Ai
+  - Yichen Tang
+  - Changyue Wang
+  - Jianming Long
+  - Weihang Su
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2510.17281
+  date: '2025-10-20'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13274516621948263216&btnI=1&hl=en
+- id: integrating llm and diffusion-based agents for social simulation
+  title: Integrating LLM and Diffusion-Based Agents for Social Simulation
+  authors:
+  - Xinyi Li
+  - Zhiqiang Guo
+  - Qinglang Guo
+  - Hao Jin
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2510.16366
+  date: '2025-10-18'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=18329921046258966271&btnI=1&hl=en
 - id: 'from< answer> to< think>: multidimensional supervision of reasoning process
     for llm optimization'
   title: 'From< Answer> to< Think>: Multidimensional Supervision of Reasoning Process
