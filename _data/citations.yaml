@@ -1,6 +1,70 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'simvbg: simulating individual values by backstory generation'
+  title: 'SimVBG: Simulating Individual Values by Backstory Generation'
+  authors:
+  - Bangde Du
+  - Ziyi Ye
+  - Zhijing Wu
+  - Monika A Jankowska
+  - Shuqi Zhu
+  - Qingyao Ai
+  - Yujia Zhou
+  - Yiqun Liu
+  publisher: Proceedings of the 2025 Conference on Empirical Methods in Natural Language
+    Processing
+  date: '2025-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12268888713912111577&btnI=1&hl=en
+- id: 'pepe: long-context extension for large language models via periodic extrapolation
+    positional encodings'
+  title: 'PEPE: Long-context Extension for Large Language Models via Periodic Extrapolation
+    Positional Encodings'
+  authors:
+  - Jikun Hu
+  - Dongsheng Guo
+  - Yuli Liu
+  - Qingyao Ai
+  - Lixuan Wang
+  - Xuebing Sun
+  - Qilei Zhang
+  - Quan Zhou
+  - Cheng Luo
+  publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2025'
+  date: '2025-11-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9290429661082902343&btnI=1&hl=en
+- id: 'twinvoice: a multi-dimensional benchmark towards digital twins via llm persona
+    simulation'
+  title: 'TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona
+    Simulation'
+  authors:
+  - Bangde Du
+  - Minghao Guo
+  - Songming He
+  - Ziyi Ye
+  - Xi Zhu
+  - Weihang Su
+  - Shuqi Zhu
+  - Yujia Zhou
+  - Yongfeng Zhang
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2510.25536
+  date: '2025-10-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=12112740909512665873&btnI=1&hl=en
+- id: generalized pseudo-relevance feedback
+  title: Generalized Pseudo-Relevance Feedback
+  authors:
+  - Yiteng Tu
+  - Weihang Su
+  - Yujia Zhou
+  - Yiqun Liu
+  - Fen Lin
+  - Qin Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2510.25488
+  date: '2025-10-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10218567097677231349&btnI=1&hl=en
 - id: relative-based scaling law for neural language models
   title: Relative-Based Scaling Law for Neural Language Models
   authors:
@@ -64,6 +128,20 @@
   publisher: arXiv preprint arXiv:2510.04067
   date: '2025-10-05'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=6228446505024099749&btnI=1&hl=en
+- id: 'the covariation of emotion and passage of time judgments: insights from weibo'
+  title: 'The Covariation of Emotion and Passage of Time Judgments: Insights from
+    Weibo'
+  authors:
+  - Yanci Liu
+  - Jiayu Li
+  - Peixuan Han
+  - Feng Du
+  - Siyu Ma
+  - Min Zhang
+  - Meihong Zheng
+  publisher: Journal of Pacific Rim Psychology
+  date: '2025-10-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=5606518864629344028&btnI=1&hl=en
 - id: human vs. agent in task-oriented conversations
   title: Human vs. Agent in Task-Oriented Conversations
   authors:
