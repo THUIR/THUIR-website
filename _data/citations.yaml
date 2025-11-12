@@ -1,6 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'steptool: enhancing multi-step tool usage in llms via step-grained reinforcement
+    learning'
+  title: 'StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement
+    Learning'
+  authors:
+  - Yuanqing Yu
+  - Zhefan Wang
+  - Weizhi Ma
+  - Shuai Wang
+  - Chuhan Wu
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: Proceedings of the 34th ACM International Conference on Information and
+    Knowledge Management
+  date: '2025-11-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16312401093599634882&btnI=1&hl=en
+- id: generative sequential recommendation via hierarchical behavior modeling
+  title: Generative Sequential Recommendation via Hierarchical Behavior Modeling
+  authors:
+  - Zhefan Wang
+  - Guokai Yan
+  - Jinbei Yu
+  - Siyu Gu
+  - Jingyan Chen
+  - Peng Jiang
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2511.03155
+  date: '2025-11-05'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3126232111730893549&btnI=1&hl=en
 - id: 'simvbg: simulating individual values by backstory generation'
   title: 'SimVBG: Simulating Individual Values by Backstory Generation'
   authors:
@@ -101,6 +131,20 @@
   publisher: arXiv preprint arXiv:2510.16366
   date: '2025-10-18'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=18329921046258966271&btnI=1&hl=en
+- id: user immersion-aware short video recommendation
+  title: User Immersion-aware Short Video Recommendation
+  authors:
+  - Zhiyu He
+  - Shaorun Zhang
+  - Weizhi Ma
+  - Jiayu Li
+  - Peijie Sun
+  - Qingyao Ai
+  - Yiqun Liu
+  - Min Zhang
+  publisher: ACM Transactions on Information Systems
+  date: '2025-10-14'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4196080851665584965&btnI=1&hl=en
 - id: 'from< answer> to< think>: multidimensional supervision of reasoning process
     for llm optimization'
   title: 'From< Answer> to< Think>: Multidimensional Supervision of Reasoning Process
@@ -841,6 +885,16 @@
   publisher: arXiv preprint arXiv:2412.20756
   date: '2024-12-30'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3120853353501893162&btnI=1&hl=en
+- id: knowledge editing through chain-of-thought
+  title: Knowledge Editing through Chain-of-Thought
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2412.17727
+  date: '2024-12-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4193463402296767787&btnI=1&hl=en
 - id: 'legalagentbench: evaluating llm agents in legal domain'
   title: 'LegalAgentBench: Evaluating LLM Agents in Legal Domain'
   authors:
@@ -860,16 +914,6 @@
   publisher: arXiv preprint arXiv:2412.17259
   date: '2024-12-23'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=16266164485547069996&btnI=1&hl=en
-- id: knowledge editing through chain-of-thought
-  title: Knowledge Editing through Chain-of-Thought
-  authors:
-  - Changyue Wang
-  - Weihang Su
-  - Qingyao Ai
-  - Yiqun Liu
-  publisher: arXiv preprint arXiv:2412.17727
-  date: '2024-12-23'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=4193463402296767787&btnI=1&hl=en
 - id: 'pre-trained models for search and recommendation: introduction to the special
     issue-part 1'
   title: 'Pre-trained Models for Search and Recommendation: Introduction to the Special
