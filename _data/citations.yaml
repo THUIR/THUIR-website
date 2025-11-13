@@ -17,6 +17,18 @@
     Knowledge Management
   date: '2025-11-10'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=16312401093599634882&btnI=1&hl=en
+- id: 'gse: evaluating sticker visual semantic similarity via a general sticker encoder'
+  title: 'GSE: Evaluating Sticker Visual Semantic Similarity via a General Sticker
+    Encoder'
+  authors:
+  - Heng Er Metilda Chee
+  - Jiayin Wang
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2511.04977
+  date: '2025-11-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=668838998179228982&btnI=1&hl=en
 - id: generative sequential recommendation via hierarchical behavior modeling
   title: Generative Sequential Recommendation via Hierarchical Behavior Modeling
   authors:
