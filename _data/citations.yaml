@@ -1,6 +1,40 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'auto-pre: an automatic and cost-efficient peer-review framework for language
+    generation evaluation'
+  title: 'Auto-PRE: An Automatic and Cost-Efficient Peer-Review Framework for Language
+    Generation Evaluation'
+  authors:
+  - Junjie Chen
+  - Weihang Su
+  - Zhumin Chu
+  - Haitao Li
+  - Yujia Zhou
+  - Dingbo Yuan
+  - Xudong Wang
+  - Jun Zhou
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  - Qingyao Ai
+  publisher: 'The rapid development of large language models (LLMs) has highlighted
+    the need for efficient and reliable methods to evaluate their performance. Traditional
+    evaluation methods often face challenges like high costs, limited task formats,
+    dependence on human references, and systematic biases. To address these limitations,
+    we propose Auto-PRE, an automatic LLM evaluation framework inspired by the peer
+    review process. Unlike previous approaches that rely on human annotations, Auto-PRE
+    automatically selects evaluator LLMs based on three core traits: consistency,
+    pertinence, and self-confidence, which correspond to the instruction, content,
+    and response stages, respectively, and collectively cover the entire evaluation
+    process. Experiments on three representative tasks, including summarization, non-factoid
+    QA, and dialogue generation, demonstrate that Auto-PRE achieves stateof-the-art
+    performance while significantly reducing evaluation costs. Furthermore, the structured
+    and scalable design of our automatic qualification exam framework provides valuable
+    insights into automating the evaluation of LLMs-asjudges, paving the way for more
+    advanced LLM-based evaluation frameworks.'
+  date: '2026-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
 - id: 'steptool: enhancing multi-step tool usage in llms via step-grained reinforcement
     learning'
   title: 'StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement
