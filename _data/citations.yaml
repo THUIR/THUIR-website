@@ -35,6 +35,54 @@
     advanced LLM-based evaluation frameworks.'
   date: '2026-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
+- id: towards unification of hallucination detection and fact verification for large
+    language models
+  title: Towards Unification of Hallucination Detection and Fact Verification for
+    Large Language Models
+  authors:
+  - Weihang Su
+  - Jianming Long
+  - Changyue Wang
+  - Shiyu Lin
+  - Jingyan Xu
+  - Ziyi Ye
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2512.02772
+  date: '2025-12-02'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6014477423498344218&btnI=1&hl=en
+- id: 'deep research: a systematic survey'
+  title: 'Deep Research: A Systematic Survey'
+  authors:
+  - Zhengliang Shi
+  - Yiqun Chen
+  - Haitao Li
+  - Weiwei Sun
+  - Shiyu Ni
+  - Yougang Lyu
+  - Run-Ze Fan
+  - Bowen Jin
+  - Yixuan Weng
+  - Minjun Zhu
+  - Qiujie Xie
+  - Xinyu Guo
+  - Qu Yang
+  - Jiayi Wu
+  - Jujia Zhao
+  - Xiaqiang Tang
+  - Xinbei Ma
+  - Cunxiang Wang
+  - Jiaxin Mao
+  - Qingyao Ai
+  - Jen-Tse Huang
+  - Wenxuan Wang
+  - Yue Zhang
+  - Yiming Yang
+  - Zhaopeng Tu
+  - Zhaochun Ren
+  publisher: arXiv preprint arXiv:2512.02038
+  date: '2025-11-24'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6736503590209746748&btnI=1&hl=en
 - id: 'steptool: enhancing multi-step tool usage in llms via step-grained reinforcement
     learning'
   title: 'StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement
