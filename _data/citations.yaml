@@ -35,6 +35,30 @@
     advanced LLM-based evaluation frameworks.'
   date: '2026-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
+- id: 'llms vs. humans in information access tasks: performances, behaviors, and learning
+    abilities'
+  title: 'LLMs vs. Humans in Information Access Tasks: Performances, Behaviors, and
+    Learning Abilities'
+  authors:
+  - Min Zhang
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region
+  date: '2025-12-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3407774567355252752&btnI=1&hl=en
+- id: 'atacompressor: adaptive task-aware compression for efficient long-context processing
+    in llms'
+  title: 'ATACompressor: Adaptive Task-Aware Compression for Efficient Long-Context
+    Processing in LLMs'
+  authors:
+  - Xuancheng Li
+  - Haitao Li
+  - Yujia Zhou
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region
+  date: '2025-12-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3114248090517110537&btnI=1&hl=en
 - id: towards unification of hallucination detection and fact verification for large
     language models
   title: Towards Unification of Hallucination Detection and Fact Verification for
