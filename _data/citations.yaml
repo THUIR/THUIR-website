@@ -1,6 +1,112 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'auto-pre: an automatic and cost-efficient peer-review framework for language
+    generation evaluation'
+  title: 'Auto-PRE: An Automatic and Cost-Efficient Peer-Review Framework for Language
+    Generation Evaluation'
+  authors:
+  - Junjie Chen
+  - Weihang Su
+  - Zhumin Chu
+  - Haitao Li
+  - Yujia Zhou
+  - Dingbo Yuan
+  - Xudong Wang
+  - Jun Zhou
+  - Yiqun Liu
+  - Min Zhang
+  - Shaoping Ma
+  - Qingyao Ai
+  publisher: 'The rapid development of large language models (LLMs) has highlighted
+    the need for efficient and reliable methods to evaluate their performance. Traditional
+    evaluation methods often face challenges like high costs, limited task formats,
+    dependence on human references, and systematic biases. To address these limitations,
+    we propose Auto-PRE, an automatic LLM evaluation framework inspired by the peer
+    review process. Unlike previous approaches that rely on human annotations, Auto-PRE
+    automatically selects evaluator LLMs based on three core traits: consistency,
+    pertinence, and self-confidence, which correspond to the instruction, content,
+    and response stages, respectively, and collectively cover the entire evaluation
+    process. Experiments on three representative tasks, including summarization, non-factoid
+    QA, and dialogue generation, demonstrate that Auto-PRE achieves stateof-the-art
+    performance while significantly reducing evaluation costs. Furthermore, the structured
+    and scalable design of our automatic qualification exam framework provides valuable
+    insights into automating the evaluation of LLMs-asjudges, paving the way for more
+    advanced LLM-based evaluation frameworks.'
+  date: '2026-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
+- id: 'llms vs. humans in information access tasks: performances, behaviors, and learning
+    abilities'
+  title: 'LLMs vs. Humans in Information Access Tasks: Performances, Behaviors, and
+    Learning Abilities'
+  authors:
+  - Min Zhang
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region
+  date: '2025-12-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3407774567355252752&btnI=1&hl=en
+- id: 'atacompressor: adaptive task-aware compression for efficient long-context processing
+    in llms'
+  title: 'ATACompressor: Adaptive Task-Aware Compression for Efficient Long-Context
+    Processing in LLMs'
+  authors:
+  - Xuancheng Li
+  - Haitao Li
+  - Yujia Zhou
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region
+  date: '2025-12-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3114248090517110537&btnI=1&hl=en
+- id: towards unification of hallucination detection and fact verification for large
+    language models
+  title: Towards Unification of Hallucination Detection and Fact Verification for
+    Large Language Models
+  authors:
+  - Weihang Su
+  - Jianming Long
+  - Changyue Wang
+  - Shiyu Lin
+  - Jingyan Xu
+  - Ziyi Ye
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2512.02772
+  date: '2025-12-02'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6014477423498344218&btnI=1&hl=en
+- id: 'deep research: a systematic survey'
+  title: 'Deep Research: A Systematic Survey'
+  authors:
+  - Zhengliang Shi
+  - Yiqun Chen
+  - Haitao Li
+  - Weiwei Sun
+  - Shiyu Ni
+  - Yougang Lyu
+  - Run-Ze Fan
+  - Bowen Jin
+  - Yixuan Weng
+  - Minjun Zhu
+  - Qiujie Xie
+  - Xinyu Guo
+  - Qu Yang
+  - Jiayi Wu
+  - Jujia Zhao
+  - Xiaqiang Tang
+  - Xinbei Ma
+  - Cunxiang Wang
+  - Jiaxin Mao
+  - Qingyao Ai
+  - Jen-Tse Huang
+  - Wenxuan Wang
+  - Yue Zhang
+  - Yiming Yang
+  - Zhaopeng Tu
+  - Zhaochun Ren
+  publisher: arXiv preprint arXiv:2512.02038
+  date: '2025-11-24'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6736503590209746748&btnI=1&hl=en
 - id: 'steptool: enhancing multi-step tool usage in llms via step-grained reinforcement
     learning'
   title: 'StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement
