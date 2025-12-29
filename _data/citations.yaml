@@ -59,6 +59,17 @@
     Research and Development in Information Retrieval in the Asia Pacific Region
   date: '2025-12-07'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=3114248090517110537&btnI=1&hl=en
+- id: dynamic and parametric retrieval augmented generation
+  title: Dynamic and Parametric Retrieval Augmented Generation
+  authors:
+  - Weihang Su
+  - Qian Dong
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Proceedings of the 2025 Annual International ACM SIGIR Conference on
+    Research and Development in Information Retrieval in the Asia Pacific Region
+  date: '2025-12-07'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4874549117360105238&btnI=1&hl=en
 - id: towards unification of hallucination detection and fact verification for large
     language models
   title: Towards Unification of Hallucination Detection and Fact Verification for
