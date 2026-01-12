@@ -478,6 +478,21 @@
   publisher: arXiv preprint arXiv:2507.10852
   date: '2025-07-14'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=18112655137763598994&btnI=1&hl=en
+- id: the 1st nip@ir workshop on new interaction paradigms for information retrieval
+    in the era of generative ai
+  title: The 1st NIP@IR Workshop on New Interaction Paradigms for Information Retrieval
+    in the Era of Generative AI
+  authors:
+  - Yujia Zhou
+  - Wei Ji
+  - Xuri Ge
+  - Qingyao Ai
+  - Joemon M Jose
+  - Yiqun Liu
+  publisher: Proceedings of the 48th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2025-07-13'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11494829809862049636&btnI=1&hl=en
 - id: 'u-sticker: a large-scale multi-domain user sticker dataset for retrieval and
     personalization'
   title: 'U-Sticker: A Large-Scale Multi-Domain User Sticker Dataset for Retrieval
@@ -509,21 +524,6 @@
     and Development in Information Retrieval
   date: '2025-07-13'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=4890300958570580338&btnI=1&hl=en
-- id: the 1st nip@ir workshop on new interaction paradigms for information retrieval
-    in the era of generative ai
-  title: The 1st NIP@IR Workshop on New Interaction Paradigms for Information Retrieval
-    in the Era of Generative AI
-  authors:
-  - Yujia Zhou
-  - Wei Ji
-  - Xuri Ge
-  - Qingyao Ai
-  - Joemon M Jose
-  - Yiqun Liu
-  publisher: Proceedings of the 48th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval
-  date: '2025-07-13'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=11494829809862049636&btnI=1&hl=en
 - id: robust fine-tuning for retrieval augmented generation against retrieval defects
   title: Robust Fine-tuning for Retrieval Augmented Generation against Retrieval Defects
   authors:
