@@ -1,6 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: a causal information-flow framework for unbiased learning-to-rank
+  title: A Causal Information-Flow Framework for Unbiased Learning-to-Rank
+  authors:
+  - Haoming Gong
+  - Qingyao Ai
+  - Zhihao Tao
+  - Yongfeng Zhang
+  publisher: arXiv preprint arXiv:2601.05590
+  date: '2026-01-09'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13943616554238576474&btnI=1&hl=en
 - id: 'auto-pre: an automatic and cost-efficient peer-review framework for language
     generation evaluation'
   title: 'Auto-PRE: An Automatic and Cost-Efficient Peer-Review Framework for Language
