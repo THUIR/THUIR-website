@@ -1,6 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'evaluation of large language models in legal applications: challenges, methods,
+    and future directions'
+  title: 'Evaluation of Large Language Models in Legal Applications: Challenges, Methods,
+    and Future Directions'
+  authors:
+  - Yiran Hu
+  - Huanghai Liu
+  - Chong Wang
+  - Kunran Li
+  - Tien-Hsuan Wu
+  - Haitao Li
+  - Xinran Xu
+  - Siqing Huo
+  - Weihang Su
+  - Ning Zheng
+  - Siyuan Zheng
+  - Qingyao Ai
+  - Yun Liu
+  - Renjun Bian
+  - Yiqun Liu
+  - Charles LA Clarke
+  - Weixing Shen
+  - Ben Kao
+  publisher: arXiv preprint arXiv:2601.15267
+  date: '2026-01-21'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=3793782189151030291&btnI=1&hl=en
 - id: a causal information-flow framework for unbiased learning-to-rank
   title: A Causal Information-Flow Framework for Unbiased Learning-to-Rank
   authors:
