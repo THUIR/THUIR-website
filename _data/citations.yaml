@@ -1,6 +1,210 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'legalkit: a modular toolkit for efficient legal ai evaluation'
+  title: 'LegalKit: A Modular Toolkit for Efficient Legal AI Evaluation'
+  authors:
+  - Shuo Miao
+  - Haitao Li
+  - Yueyue Wu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Companion Proceedings of the ACM Web Conference 2026
+  date: '2026-06-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4584452056136291738&btnI=1&hl=en
+- id: benchmarking llm agents on meta-analysis articles from nature portfolio
+  title: Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio
+  authors:
+  - Anzhe Xie
+  - Weihang Su
+  - Yujia Zhou
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2606.17041
+  date: '2026-06-15'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4486949177492454158&btnI=1&hl=en
+- id: 'retrievable gradients: continual post-training without cumulative weight drift'
+  title: 'Retrievable Gradients: Continual Post-Training Without Cumulative Weight
+    Drift'
+  authors:
+  - Weihang Su
+  - Jiacheng Kang
+  - Jingyan Xu
+  - Qingyao Ai
+  - Jianming Long
+  - Hanwen Zhang
+  - Bangde Du
+  - Xinyuan Cao
+  - Min Zhang
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2606.15734
+  date: '2026-06-14'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11904794939169627716&btnI=1&hl=en
+- id: decoupled mixture-of-experts for parametric knowledge injection
+  title: Decoupled Mixture-of-Experts for Parametric Knowledge Injection
+  authors:
+  - Baoqing Yue
+  - Weihang Su
+  - Qingyao Ai
+  - Yichen Tang
+  - Changyue Wang
+  - Jiacheng Kang
+  - Jingtao Zhan
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2606.14243
+  date: '2026-06-12'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17795627925964279854&btnI=1&hl=en
+- id: adaptive multi-resolution procedural knowledge compression for large language
+    models
+  title: Adaptive Multi-Resolution Procedural Knowledge Compression for Large Language
+    Models
+  authors:
+  - Changyue Wang
+  - Weihang Su
+  - Qingyao Ai
+  - Yichen Tang
+  - Runzhong Qiao
+  - Xuancheng Li
+  - Min Zhang
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2606.12203
+  date: '2026-06-10'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17991989155721919130&btnI=1&hl=en
+- id: "\u77E5\u8BC6\u56FE\u8C31\u589E\u5F3A\u7684\u4E09\u9636\u6BB5\u76F8\u5173\u5DE5\
+    \u4F5C\u751F\u6210\u65B9\u6CD5"
+  title: "\u77E5\u8BC6\u56FE\u8C31\u589E\u5F3A\u7684\u4E09\u9636\u6BB5\u76F8\u5173\
+    \u5DE5\u4F5C\u751F\u6210\u65B9\u6CD5"
+  authors:
+  - "\u8C22\u5B89\u5586\uFF0C \u827E\u6E05\u9065\uFF0C \u5218\u5955\u7FA4\uFF0C \u82CF\
+    \u709C\u822A\uFF0C \u6BDB\u4F73\u6615\uFF0C \u5F20\u654F\uFF0C \u9A6C\u5C11\u5E73"
+  publisher: "\u300A \u5C71\u4E1C\u5927\u5B66\u5B66\u62A5 (\u7406\u5B66\u7248)\u300B"
+  date: '2026-06-04'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1142044104188256645&btnI=1&hl=en
+- id: personalized turn-level user conversation satisfaction benchmark
+  title: Personalized Turn-Level User Conversation Satisfaction Benchmark
+  authors:
+  - Zhefan Wang
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Min Zhang
+  - Quanjia Yan
+  - Hengliang Luo
+  publisher: arXiv preprint arXiv:2605.29711
+  date: '2026-05-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10957695683368034904&btnI=1&hl=en
+- id: 'how do humans process ai-generated hallucination contents: a neuroimaging study'
+  title: 'How do Humans Process AI-generated Hallucination Contents: a Neuroimaging
+    Study'
+  authors:
+  - Shuqi Zhu
+  - Yi Zhong
+  - Ziyi Ye
+  - Bangde Du
+  - Yujia Zhou
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2605.16953
+  date: '2026-05-16'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16126424877401719202&btnI=1&hl=en
+- id: enhancing judgment document generation via agentic legal information collection
+    and rubric-guided optimization
+  title: Enhancing Judgment Document Generation via Agentic Legal Information Collection
+    and Rubric-Guided Optimization
+  authors:
+  - Weihang Su
+  - Xuanyi Chen
+  - Yueyue Wu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2605.02011
+  date: '2026-05-03'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6870741143945325172&btnI=1&hl=en
+- id: decoupling knowledge and task subspaces for composable parametric retrieval
+    augmented generation
+  title: Decoupling Knowledge and Task Subspaces for Composable Parametric Retrieval
+    Augmented Generation
+  authors:
+  - Weihang Su
+  - Hanwen Zhang
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2604.26768
+  date: '2026-04-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=13753454351970333794&btnI=1&hl=en
+- id: skill retrieval augmentation for agentic ai
+  title: Skill Retrieval Augmentation for Agentic AI
+  authors:
+  - Weihang Su
+  - Jianming Long
+  - Qingyao Ai
+  - Yichen Tang
+  - Changyue Wang
+  - Yiteng Tu
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2604.24594
+  date: '2026-04-27'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=17399806177337239919&btnI=1&hl=en
+- id: improving retrieval-augmented generation through multi-agent reinforcement learning
+  title: Improving retrieval-augmented generation through multi-agent reinforcement
+    learning
+  authors:
+  - Yiqun Chen
+  - Lingyong Yan
+  - Weiwei Sun
+  - Xinyu Ma
+  - Yi Zhang
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Yiming Yang
+  - Jiaxin Mao
+  publisher: Advances in Neural Information Processing Systems
+  date: '2026-04-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14163608831097753436&btnI=1&hl=en
+- id: 'tec: a collection of human trial-and-error trajectories for problem solving'
+  title: 'TEC: A Collection of Human Trial-and-error Trajectories for Problem Solving'
+  authors:
+  - Xinkai Zhang
+  - Jingtao Zhan
+  - Yiqun Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2604.06734
+  date: '2026-04-08'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11254351867194667247&btnI=1&hl=en
+- id: parametric social identity injection and diversification in public opinion simulation
+  title: Parametric Social Identity Injection and Diversification in Public Opinion
+    Simulation
+  authors:
+  - Hexi Wang
+  - Yujia Zhou
+  - Bangde Du
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2603.16142
+  date: '2026-03-17'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11839354497659118204&btnI=1&hl=en
+- id: investigating prosocial behavior theory in llm agents under policy-induced inequities
+  title: Investigating prosocial behavior theory in LLM agents under policy-induced
+    inequities
+  authors:
+  - Yujia Zhou
+  - Hexi Wang
+  - Qingyao Ai
+  - Zhen Wu
+  - Yiqun Liu
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2026-03-14'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=104177021364676515&btnI=1&hl=en
+- id: 'apao: adaptive prefix-aware optimization for generative recommendation'
+  title: 'APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation'
+  authors:
+  - Yuanqing Yu
+  - Yifan Wang
+  - Weizhi Ma
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: arXiv preprint arXiv:2603.02730
+  date: '2026-03-03'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=11103128342034439201&btnI=1&hl=en
 - id: analytical search
   title: Analytical Search
   authors:
@@ -138,19 +342,6 @@
   publisher: arXiv preprint arXiv:2601.05420
   date: '2026-01-08'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=2099933062039620456&btnI=1&hl=en
-- id: understanding internal representations of recommendation models with sparse
-    autoencoders
-  title: Understanding Internal Representations of Recommendation Models with Sparse
-    Autoencoders
-  authors:
-  - Jiayin Wang
-  - Xiaoyu Zhang
-  - Weizhi Ma
-  - Zhiqiang Guo
-  - Min Zhang
-  publisher: ACM Transactions on Information Systems
-  date: '2026-01-01'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=16914223699400546638&btnI=1&hl=en
 - id: 'auto-pre: an automatic and cost-efficient peer-review framework for language
     generation evaluation'
   title: 'Auto-PRE: An Automatic and Cost-Efficient Peer-Review Framework for Language
@@ -185,6 +376,32 @@
     advanced LLM-based evaluation frameworks.'
   date: '2026-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
+- id: retrieval-augmented generation-the future of search?(dagstuhl seminar 25391)
+  title: Retrieval-Augmented Generation-The Future of Search?(Dagstuhl Seminar 25391)
+  authors:
+  - Matthias Hagen
+  - Josiane Mothe
+  - Smaranda Muresan
+  - Martin Potthast
+  - Min Zhang
+  - Benno Stein
+  - Sebastian Heineking
+  publisher: Dagstuhl Reports
+  date: '2026-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9387087766656149166&btnI=1&hl=en
+- id: understanding internal representations of recommendation models with sparse
+    autoencoders
+  title: Understanding Internal Representations of Recommendation Models with Sparse
+    Autoencoders
+  authors:
+  - Jiayin Wang
+  - Xiaoyu Zhang
+  - Weizhi Ma
+  - Zhiqiang Guo
+  - Min Zhang
+  publisher: ACM Transactions on Information Systems
+  date: '2026-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16914223699400546638&btnI=1&hl=en
 - id: cross-lingual session recommender system based on large language models.
   title: Cross-Lingual Session Recommender System Based on Large Language Models.
   authors:
@@ -363,6 +580,19 @@
   publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2025'
   date: '2025-11-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=9290429661082902343&btnI=1&hl=en
+- id: generalized pseudo-relevance feedback
+  title: Generalized Pseudo-Relevance Feedback
+  authors:
+  - Yiteng Tu
+  - Weihang Su
+  - Yujia Zhou
+  - Yiqun Liu
+  - Fen Lin
+  - Qin Liu
+  - Qingyao Ai
+  publisher: arXiv preprint arXiv:2510.25488
+  date: '2025-10-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10218567097677231349&btnI=1&hl=en
 - id: 'twinvoice: a multi-dimensional benchmark towards digital twins via llm persona
     simulation'
   title: 'TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona
@@ -382,19 +612,6 @@
   publisher: arXiv preprint arXiv:2510.25536
   date: '2025-10-29'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=12112740909512665873&btnI=1&hl=en
-- id: generalized pseudo-relevance feedback
-  title: Generalized Pseudo-Relevance Feedback
-  authors:
-  - Yiteng Tu
-  - Weihang Su
-  - Yujia Zhou
-  - Yiqun Liu
-  - Fen Lin
-  - Qin Liu
-  - Qingyao Ai
-  publisher: arXiv preprint arXiv:2510.25488
-  date: '2025-10-29'
-  link: https://scholar.google.com/scholar?oi=bibs&cluster=10218567097677231349&btnI=1&hl=en
 - id: relative-based scaling law for neural language models
   title: Relative-Based Scaling Law for Neural Language Models
   authors:
